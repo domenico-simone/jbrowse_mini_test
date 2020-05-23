@@ -1,0 +1,3 @@
+[["NODE_19994_length_734_cov_3.072488","NODE_19994_length_734_cov_3.072488"],"GeneSet","NODE_19994_length_734_cov_3.072488","NODE_19994_length_734_cov_3.072488",0,734]
+[["TRINITY_DN3092_c1_g1_i1","NODE_19994_length_734_cov_3.072488:hit:2234:3.2.0.0"],"GeneSet","TRINITY_DN3092_c1_g1_i1","NODE_19994_length_734_cov_3.072488",146,452]
+[["TRINITY_DN3092_c1_g1_i1","NODE_19994_length_734_cov_3.072488:hit:2233:3.2.0.0"],"GeneSet","TRINITY_DN3092_c1_g1_i1","NODE_19994_length_734_cov_3.072488",146,397]

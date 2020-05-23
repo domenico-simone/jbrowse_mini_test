@@ -1,0 +1,3 @@
+[["NODE_4511_length_5681_cov_1.128196","NODE_4511_length_5681_cov_1.128196"],"GeneSet","NODE_4511_length_5681_cov_1.128196","NODE_4511_length_5681_cov_1.128196",0,5681]
+[["species:(T)n|genus:Simple_repeat","NODE_4511_length_5681_cov_1.128196:hit:632:1.3.0.0"],"GeneSet","species:(T)n|genus:Simple_repeat","NODE_4511_length_5681_cov_1.128196",543,566]
+[["species:(TT)n|genus:Simple_repeat","NODE_4511_length_5681_cov_1.128196:hit:633:1.3.0.0"],"GeneSet","species:(TT)n|genus:Simple_repeat","NODE_4511_length_5681_cov_1.128196",620,675]

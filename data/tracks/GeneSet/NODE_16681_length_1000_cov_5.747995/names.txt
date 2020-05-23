@@ -1,0 +1,3 @@
+[["NODE_16681_length_1000_cov_5.747995","NODE_16681_length_1000_cov_5.747995"],"GeneSet","NODE_16681_length_1000_cov_5.747995","NODE_16681_length_1000_cov_5.747995",0,1000]
+[["species:DIRS-1_PTrit|genus:LTR/Ngaro","NODE_16681_length_1000_cov_5.747995:hit:3509:1.3.0.0"],"GeneSet","species:DIRS-1_PTrit|genus:LTR/Ngaro","NODE_16681_length_1000_cov_5.747995",273,599]
+[["species:GA-rich|genus:Low_complexity","NODE_16681_length_1000_cov_5.747995:hit:3510:1.3.0.0"],"GeneSet","species:GA-rich|genus:Low_complexity","NODE_16681_length_1000_cov_5.747995",886,962]

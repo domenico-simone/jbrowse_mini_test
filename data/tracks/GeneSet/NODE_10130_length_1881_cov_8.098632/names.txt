@@ -1,0 +1,2 @@
+[["NODE_10130_length_1881_cov_8.098632","NODE_10130_length_1881_cov_8.098632"],"GeneSet","NODE_10130_length_1881_cov_8.098632","NODE_10130_length_1881_cov_8.098632",0,1881]
+[["species:DNA3-5_PSt|genus:DNA","NODE_10130_length_1881_cov_8.098632:hit:3203:1.3.0.0"],"GeneSet","species:DNA3-5_PSt|genus:DNA","NODE_10130_length_1881_cov_8.098632",61,135]

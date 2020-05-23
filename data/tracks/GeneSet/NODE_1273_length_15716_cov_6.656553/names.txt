@@ -1,0 +1,3 @@
+[["NODE_1273_length_15716_cov_6.656553","NODE_1273_length_15716_cov_6.656553"],"GeneSet","NODE_1273_length_15716_cov_6.656553","NODE_1273_length_15716_cov_6.656553",0,15716]
+[["species:MuDRF-1_MLP|genus:DNA/MULE-F","NODE_1273_length_15716_cov_6.656553:hit:8604:1.3.0.0"],"GeneSet","species:MuDRF-1_MLP|genus:DNA/MULE-F","NODE_1273_length_15716_cov_6.656553",10150,10306]
+[["species:DNA3-5_PSt|genus:DNA","NODE_1273_length_15716_cov_6.656553:hit:8605:1.3.0.0"],"GeneSet","species:DNA3-5_PSt|genus:DNA","NODE_1273_length_15716_cov_6.656553",14268,14335]

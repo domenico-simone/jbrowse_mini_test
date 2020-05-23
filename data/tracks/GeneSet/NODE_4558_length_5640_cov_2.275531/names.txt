@@ -1,0 +1,6 @@
+[["NODE_4558_length_5640_cov_2.275531","NODE_4558_length_5640_cov_2.275531"],"GeneSet","NODE_4558_length_5640_cov_2.275531","NODE_4558_length_5640_cov_2.275531",0,5640]
+[["species:Copia-22_MLP-LTR|genus:LTR/Copia","NODE_4558_length_5640_cov_2.275531:hit:8317:1.3.0.0"],"GeneSet","species:Copia-22_MLP-LTR|genus:LTR/Copia","NODE_4558_length_5640_cov_2.275531",1,259]
+[["species:GA-rich|genus:Low_complexity","NODE_4558_length_5640_cov_2.275531:hit:8318:1.3.0.0"],"GeneSet","species:GA-rich|genus:Low_complexity","NODE_4558_length_5640_cov_2.275531",553,602]
+[["species:Copia-79_MLP-I|genus:LTR/Copia","NODE_4558_length_5640_cov_2.275531:hit:8319:1.3.0.0"],"GeneSet","species:Copia-79_MLP-I|genus:LTR/Copia","NODE_4558_length_5640_cov_2.275531",637,3822]
+[["species:Copia-79_MLP-I|genus:LTR/Copia","NODE_4558_length_5640_cov_2.275531:hit:8320:1.3.0.0"],"GeneSet","species:Copia-79_MLP-I|genus:LTR/Copia","NODE_4558_length_5640_cov_2.275531",4249,4835]
+[["species:GA-rich|genus:Low_complexity","NODE_4558_length_5640_cov_2.275531:hit:8321:1.3.0.0"],"GeneSet","species:GA-rich|genus:Low_complexity","NODE_4558_length_5640_cov_2.275531",5347,5428]

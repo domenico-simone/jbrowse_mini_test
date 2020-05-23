@@ -1,0 +1,3 @@
+[["NODE_14716_length_1175_cov_1.826336","NODE_14716_length_1175_cov_1.826336"],"GeneSet","NODE_14716_length_1175_cov_1.826336","NODE_14716_length_1175_cov_1.826336",0,1175]
+[["species:DNA3-5_PSt|genus:DNA","NODE_14716_length_1175_cov_1.826336:hit:1147:1.3.0.0"],"GeneSet","species:DNA3-5_PSt|genus:DNA","NODE_14716_length_1175_cov_1.826336",342,403]
+[["species:Copia-59_MLP-LTR|genus:LTR/Copia","NODE_14716_length_1175_cov_1.826336:hit:1148:1.3.0.0"],"GeneSet","species:Copia-59_MLP-LTR|genus:LTR/Copia","NODE_14716_length_1175_cov_1.826336",771,831]

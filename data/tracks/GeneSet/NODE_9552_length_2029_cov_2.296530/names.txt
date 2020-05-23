@@ -1,0 +1,3 @@
+[["NODE_9552_length_2029_cov_2.296530","NODE_9552_length_2029_cov_2.296530"],"GeneSet","NODE_9552_length_2029_cov_2.296530","NODE_9552_length_2029_cov_2.296530",0,2029]
+[["species:(T)n|genus:Simple_repeat","NODE_9552_length_2029_cov_2.296530:hit:1240:1.3.0.0"],"GeneSet","species:(T)n|genus:Simple_repeat","NODE_9552_length_2029_cov_2.296530",1589,1618]
+[["species:Gypsy-69_MLP-I|genus:LTR/Gypsy","NODE_9552_length_2029_cov_2.296530:hit:1241:1.3.0.0"],"GeneSet","species:Gypsy-69_MLP-I|genus:LTR/Gypsy","NODE_9552_length_2029_cov_2.296530",1864,1936]

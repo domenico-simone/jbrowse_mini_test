@@ -1,0 +1,5 @@
+[["NODE_13126_length_1347_cov_13.978689","NODE_13126_length_1347_cov_13.978689"],"GeneSet","NODE_13126_length_1347_cov_13.978689","NODE_13126_length_1347_cov_13.978689",0,1347]
+[["species:(AT)n|genus:Simple_repeat","NODE_13126_length_1347_cov_13.978689:hit:9183:1.3.0.0"],"GeneSet","species:(AT)n|genus:Simple_repeat","NODE_13126_length_1347_cov_13.978689",9,307]
+[["species:(TAATACA)n|genus:Simple_repeat","NODE_13126_length_1347_cov_13.978689:hit:9184:1.3.0.0"],"GeneSet","species:(TAATACA)n|genus:Simple_repeat","NODE_13126_length_1347_cov_13.978689",371,420]
+[["species:(TATTTT)n|genus:Simple_repeat","NODE_13126_length_1347_cov_13.978689:hit:9185:1.3.0.0"],"GeneSet","species:(TATTTT)n|genus:Simple_repeat","NODE_13126_length_1347_cov_13.978689",529,620]
+[["species:DNA6-3_MLP|genus:DNA","NODE_13126_length_1347_cov_13.978689:hit:9186:1.3.0.0"],"GeneSet","species:DNA6-3_MLP|genus:DNA","NODE_13126_length_1347_cov_13.978689",1241,1303]

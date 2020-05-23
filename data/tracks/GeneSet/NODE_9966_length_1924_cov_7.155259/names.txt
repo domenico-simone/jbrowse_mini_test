@@ -1,0 +1,3 @@
+[["NODE_9966_length_1924_cov_7.155259","NODE_9966_length_1924_cov_7.155259"],"GeneSet","NODE_9966_length_1924_cov_7.155259","NODE_9966_length_1924_cov_7.155259",0,1924]
+[["species:A-rich|genus:Low_complexity","NODE_9966_length_1924_cov_7.155259:hit:4297:1.3.0.0"],"GeneSet","species:A-rich|genus:Low_complexity","NODE_9966_length_1924_cov_7.155259",805,854]
+[["species:DNA3-5_PSt|genus:DNA","NODE_9966_length_1924_cov_7.155259:hit:4298:1.3.0.0"],"GeneSet","species:DNA3-5_PSt|genus:DNA","NODE_9966_length_1924_cov_7.155259",1158,1232]

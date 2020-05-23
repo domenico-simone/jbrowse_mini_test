@@ -1,0 +1,4 @@
+[["NODE_8060_length_2580_cov_2.427232","NODE_8060_length_2580_cov_2.427232"],"GeneSet","NODE_8060_length_2580_cov_2.427232","NODE_8060_length_2580_cov_2.427232",0,2580]
+[["species:Harbinger-4_MLP|genus:DNA/PIF-Harbinger","NODE_8060_length_2580_cov_2.427232:hit:6634:1.3.0.0"],"GeneSet","species:Harbinger-4_MLP|genus:DNA/PIF-Harbinger","NODE_8060_length_2580_cov_2.427232",42,1194]
+[["TRINITY_DN32762_c0_g1_i1","NODE_8060_length_2580_cov_2.427232:hit:6636:3.2.0.0"],"GeneSet","TRINITY_DN32762_c0_g1_i1","NODE_8060_length_2580_cov_2.427232",1596,2148]
+[["TRINITY_DN32762_c0_g1_i1","NODE_8060_length_2580_cov_2.427232:hit:6635:3.2.0.0"],"GeneSet","TRINITY_DN32762_c0_g1_i1","NODE_8060_length_2580_cov_2.427232",1596,2138]

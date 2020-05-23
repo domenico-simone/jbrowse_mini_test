@@ -1,0 +1,4 @@
+[["NODE_8318_length_2469_cov_2.374893","NODE_8318_length_2469_cov_2.374893"],"GeneSet","NODE_8318_length_2469_cov_2.374893","NODE_8318_length_2469_cov_2.374893",0,2469]
+[["species:Gypsy-124_MLP-LTR|genus:LTR/Gypsy","NODE_8318_length_2469_cov_2.374893:hit:5248:1.3.0.0"],"GeneSet","species:Gypsy-124_MLP-LTR|genus:LTR/Gypsy","NODE_8318_length_2469_cov_2.374893",60,174]
+[["species:Gypsy-49_MLP-I|genus:LTR/Gypsy","NODE_8318_length_2469_cov_2.374893:hit:5249:1.3.0.0"],"GeneSet","species:Gypsy-49_MLP-I|genus:LTR/Gypsy","NODE_8318_length_2469_cov_2.374893",888,1143]
+[["species:Gypsy-49_MLP-I|genus:LTR/Gypsy","NODE_8318_length_2469_cov_2.374893:hit:5250:1.3.0.0"],"GeneSet","species:Gypsy-49_MLP-I|genus:LTR/Gypsy","NODE_8318_length_2469_cov_2.374893",1921,1990]

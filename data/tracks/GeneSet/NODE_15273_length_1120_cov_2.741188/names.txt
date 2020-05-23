@@ -1,0 +1,3 @@
+[["NODE_15273_length_1120_cov_2.741188","NODE_15273_length_1120_cov_2.741188"],"GeneSet","NODE_15273_length_1120_cov_2.741188","NODE_15273_length_1120_cov_2.741188",0,1120]
+[["species:LTR-1_PSt-LTR|genus:LTR","NODE_15273_length_1120_cov_2.741188:hit:2463:1.3.0.0"],"GeneSet","species:LTR-1_PSt-LTR|genus:LTR","NODE_15273_length_1120_cov_2.741188",202,274]
+[["species:A-rich|genus:Low_complexity","NODE_15273_length_1120_cov_2.741188:hit:2464:1.3.0.0"],"GeneSet","species:A-rich|genus:Low_complexity","NODE_15273_length_1120_cov_2.741188",592,651]

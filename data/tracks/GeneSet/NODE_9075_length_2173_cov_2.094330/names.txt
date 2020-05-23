@@ -1,0 +1,3 @@
+[["NODE_9075_length_2173_cov_2.094330","NODE_9075_length_2173_cov_2.094330"],"GeneSet","NODE_9075_length_2173_cov_2.094330","NODE_9075_length_2173_cov_2.094330",0,2173]
+[["species:Gypsy-90_MLP-I|genus:LTR/Gypsy","NODE_9075_length_2173_cov_2.094330:hit:4305:1.3.0.0"],"GeneSet","species:Gypsy-90_MLP-I|genus:LTR/Gypsy","NODE_9075_length_2173_cov_2.094330",1120,1149]
+[["species:Gypsy-90_MLP-I|genus:LTR/Gypsy","NODE_9075_length_2173_cov_2.094330:hit:4306:1.3.0.0"],"GeneSet","species:Gypsy-90_MLP-I|genus:LTR/Gypsy","NODE_9075_length_2173_cov_2.094330",1633,2053]

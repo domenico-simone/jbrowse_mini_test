@@ -1,0 +1,3 @@
+[["NODE_21609_length_628_cov_2.457086","NODE_21609_length_628_cov_2.457086"],"GeneSet","NODE_21609_length_628_cov_2.457086","NODE_21609_length_628_cov_2.457086",0,628]
+[["species:(CCATCA)n|genus:Simple_repeat","NODE_21609_length_628_cov_2.457086:hit:4204:1.3.0.0"],"GeneSet","species:(CCATCA)n|genus:Simple_repeat","NODE_21609_length_628_cov_2.457086",46,81]
+[["species:(GTA)n|genus:Simple_repeat","NODE_21609_length_628_cov_2.457086:hit:4205:1.3.0.0"],"GeneSet","species:(GTA)n|genus:Simple_repeat","NODE_21609_length_628_cov_2.457086",338,362]

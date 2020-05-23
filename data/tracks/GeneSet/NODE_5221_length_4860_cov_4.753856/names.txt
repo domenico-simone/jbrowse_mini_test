@@ -1,0 +1,5 @@
+[["NODE_5221_length_4860_cov_4.753856","NODE_5221_length_4860_cov_4.753856"],"GeneSet","NODE_5221_length_4860_cov_4.753856","NODE_5221_length_4860_cov_4.753856",0,4860]
+[["species:Copia-5_MLP-LTR|genus:LTR/Copia","NODE_5221_length_4860_cov_4.753856:hit:8195:1.3.0.0"],"GeneSet","species:Copia-5_MLP-LTR|genus:LTR/Copia","NODE_5221_length_4860_cov_4.753856",0,139]
+[["species:Copia-5_MLP-I|genus:LTR/Copia","NODE_5221_length_4860_cov_4.753856:hit:8196:1.3.0.0"],"GeneSet","species:Copia-5_MLP-I|genus:LTR/Copia","NODE_5221_length_4860_cov_4.753856",465,4024]
+[["species:Copia-5_MLP-I|genus:LTR/Copia","NODE_5221_length_4860_cov_4.753856:hit:8197:1.3.0.0"],"GeneSet","species:Copia-5_MLP-I|genus:LTR/Copia","NODE_5221_length_4860_cov_4.753856",4181,4554]
+[["species:Copia-5_MLP-LTR|genus:LTR/Copia","NODE_5221_length_4860_cov_4.753856:hit:8198:1.3.0.0"],"GeneSet","species:Copia-5_MLP-LTR|genus:LTR/Copia","NODE_5221_length_4860_cov_4.753856",4657,4860]

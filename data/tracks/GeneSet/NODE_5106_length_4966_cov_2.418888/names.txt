@@ -1,0 +1,4 @@
+[["NODE_5106_length_4966_cov_2.418888","NODE_5106_length_4966_cov_2.418888"],"GeneSet","NODE_5106_length_4966_cov_2.418888","NODE_5106_length_4966_cov_2.418888",0,4966]
+[["species:Tad1-7_PGr|genus:LINE/Tad1","NODE_5106_length_4966_cov_2.418888:hit:1962:1.3.0.0"],"GeneSet","species:Tad1-7_PGr|genus:LINE/Tad1","NODE_5106_length_4966_cov_2.418888",2764,3579]
+[["species:Gypsy-57_MLP-LTR|genus:LTR/Gypsy","NODE_5106_length_4966_cov_2.418888:hit:1963:1.3.0.0"],"GeneSet","species:Gypsy-57_MLP-LTR|genus:LTR/Gypsy","NODE_5106_length_4966_cov_2.418888",3650,3711]
+[["species:Gypsy-104_MLP-LTR|genus:LTR/Gypsy","NODE_5106_length_4966_cov_2.418888:hit:1964:1.3.0.0"],"GeneSet","species:Gypsy-104_MLP-LTR|genus:LTR/Gypsy","NODE_5106_length_4966_cov_2.418888",4507,4603]

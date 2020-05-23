@@ -1,0 +1,3 @@
+[["NODE_5135_length_4944_cov_0.744032","NODE_5135_length_4944_cov_0.744032"],"GeneSet","NODE_5135_length_4944_cov_0.744032","NODE_5135_length_4944_cov_0.744032",0,4944]
+[["species:(A)n|genus:Simple_repeat","NODE_5135_length_4944_cov_0.744032:hit:2071:1.3.0.0"],"GeneSet","species:(A)n|genus:Simple_repeat","NODE_5135_length_4944_cov_0.744032",266,297]
+[["species:Copia-6_LBS-I|genus:LTR/Copia","NODE_5135_length_4944_cov_0.744032:hit:2072:1.3.0.0"],"GeneSet","species:Copia-6_LBS-I|genus:LTR/Copia","NODE_5135_length_4944_cov_0.744032",4703,4855]

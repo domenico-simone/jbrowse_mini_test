@@ -1,0 +1,5 @@
+[["NODE_6773_length_3389_cov_0.412324","NODE_6773_length_3389_cov_0.412324"],"GeneSet","NODE_6773_length_3389_cov_0.412324","NODE_6773_length_3389_cov_0.412324",0,3389]
+[["species:Copia-79_MLP-I|genus:LTR/Copia","NODE_6773_length_3389_cov_0.412324:hit:2615:1.3.0.0"],"GeneSet","species:Copia-79_MLP-I|genus:LTR/Copia","NODE_6773_length_3389_cov_0.412324",21,385]
+[["species:Copia-79_MLP-I|genus:LTR/Copia","NODE_6773_length_3389_cov_0.412324:hit:2616:1.3.0.0"],"GeneSet","species:Copia-79_MLP-I|genus:LTR/Copia","NODE_6773_length_3389_cov_0.412324",703,1140]
+[["species:Copia-79_MLP-I|genus:LTR/Copia","NODE_6773_length_3389_cov_0.412324:hit:2617:1.3.0.0"],"GeneSet","species:Copia-79_MLP-I|genus:LTR/Copia","NODE_6773_length_3389_cov_0.412324",1267,2038]
+[["species:Copia-79_MLP-I|genus:LTR/Copia","NODE_6773_length_3389_cov_0.412324:hit:2618:1.3.0.0"],"GeneSet","species:Copia-79_MLP-I|genus:LTR/Copia","NODE_6773_length_3389_cov_0.412324",2267,3358]

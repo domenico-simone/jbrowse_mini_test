@@ -1,0 +1,3 @@
+[["NODE_14831_length_1156_cov_1.211594","NODE_14831_length_1156_cov_1.211594"],"GeneSet","NODE_14831_length_1156_cov_1.211594","NODE_14831_length_1156_cov_1.211594",0,1156]
+[["species:(TGA)n|genus:Simple_repeat","NODE_14831_length_1156_cov_1.211594:hit:1766:1.3.0.0"],"GeneSet","species:(TGA)n|genus:Simple_repeat","NODE_14831_length_1156_cov_1.211594",110,130]
+[["species:(TGAAT)n|genus:Simple_repeat","NODE_14831_length_1156_cov_1.211594:hit:1767:1.3.0.0"],"GeneSet","species:(TGAAT)n|genus:Simple_repeat","NODE_14831_length_1156_cov_1.211594",162,232]

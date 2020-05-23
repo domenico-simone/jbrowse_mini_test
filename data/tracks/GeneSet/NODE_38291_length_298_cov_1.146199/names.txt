@@ -1,0 +1,2 @@
+[["NODE_38291_length_298_cov_1.146199","NODE_38291_length_298_cov_1.146199"],"GeneSet","NODE_38291_length_298_cov_1.146199","NODE_38291_length_298_cov_1.146199",0,298]
+[["species:DIRS-2_MLP-I|genus:LTR/Copia","NODE_38291_length_298_cov_1.146199:hit:3293:1.3.0.0"],"GeneSet","species:DIRS-2_MLP-I|genus:LTR/Copia","NODE_38291_length_298_cov_1.146199",42,297]

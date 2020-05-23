@@ -1,0 +1,4 @@
+[["NODE_6360_length_3738_cov_2.403489","NODE_6360_length_3738_cov_2.403489"],"GeneSet","NODE_6360_length_3738_cov_2.403489","NODE_6360_length_3738_cov_2.403489",0,3738]
+[["TRINITY_DN3750_c0_g1_i3","NODE_6360_length_3738_cov_2.403489:hit:2061:3.2.0.0"],"GeneSet","TRINITY_DN3750_c0_g1_i3","NODE_6360_length_3738_cov_2.403489",49,479]
+[["TRINITY_DN3750_c0_g1_i3","NODE_6360_length_3738_cov_2.403489:hit:2062:3.2.0.0"],"GeneSet","TRINITY_DN3750_c0_g1_i3","NODE_6360_length_3738_cov_2.403489",49,479]
+[["species:Gypsy-37_MLP-I|genus:LTR/Gypsy","NODE_6360_length_3738_cov_2.403489:hit:2060:1.3.0.0"],"GeneSet","species:Gypsy-37_MLP-I|genus:LTR/Gypsy","NODE_6360_length_3738_cov_2.403489",3622,3713]

@@ -1,0 +1,6 @@
+[["NODE_3010_length_8078_cov_6.439567","NODE_3010_length_8078_cov_6.439567"],"GeneSet","NODE_3010_length_8078_cov_6.439567","NODE_3010_length_8078_cov_6.439567",0,8078]
+[["species:Gypsy-76_MLP-I|genus:LTR/Gypsy","NODE_3010_length_8078_cov_6.439567:hit:6470:1.3.0.0"],"GeneSet","species:Gypsy-76_MLP-I|genus:LTR/Gypsy","NODE_3010_length_8078_cov_6.439567",78,126]
+[["species:Gypsy-76_MLP-I|genus:LTR/Gypsy","NODE_3010_length_8078_cov_6.439567:hit:6471:1.3.0.0"],"GeneSet","species:Gypsy-76_MLP-I|genus:LTR/Gypsy","NODE_3010_length_8078_cov_6.439567",745,791]
+[["species:GA-rich|genus:Low_complexity","NODE_3010_length_8078_cov_6.439567:hit:6472:1.3.0.0"],"GeneSet","species:GA-rich|genus:Low_complexity","NODE_3010_length_8078_cov_6.439567",1411,1451]
+[["species:Harbinger-1_SLL|genus:DNA/PIF-Harbinger","NODE_3010_length_8078_cov_6.439567:hit:6473:1.3.0.0"],"GeneSet","species:Harbinger-1_SLL|genus:DNA/PIF-Harbinger","NODE_3010_length_8078_cov_6.439567",4291,4806]
+[["species:(A)n|genus:Simple_repeat","NODE_3010_length_8078_cov_6.439567:hit:6474:1.3.0.0"],"GeneSet","species:(A)n|genus:Simple_repeat","NODE_3010_length_8078_cov_6.439567",5460,5479]

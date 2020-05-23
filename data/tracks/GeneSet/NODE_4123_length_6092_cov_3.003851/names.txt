@@ -1,0 +1,3 @@
+[["NODE_4123_length_6092_cov_3.003851","NODE_4123_length_6092_cov_3.003851"],"GeneSet","NODE_4123_length_6092_cov_3.003851","NODE_4123_length_6092_cov_3.003851",0,6092]
+[["species:Gypsy-124_MLP-I|genus:LTR/Gypsy","NODE_4123_length_6092_cov_3.003851:hit:6793:1.3.0.0"],"GeneSet","species:Gypsy-124_MLP-I|genus:LTR/Gypsy","NODE_4123_length_6092_cov_3.003851",175,978]
+[["species:Gypsy-100_MLP-I|genus:LTR/Gypsy","NODE_4123_length_6092_cov_3.003851:hit:6794:1.3.0.0"],"GeneSet","species:Gypsy-100_MLP-I|genus:LTR/Gypsy","NODE_4123_length_6092_cov_3.003851",6000,6063]

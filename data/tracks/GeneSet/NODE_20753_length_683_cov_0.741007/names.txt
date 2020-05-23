@@ -1,0 +1,3 @@
+[["NODE_20753_length_683_cov_0.741007","NODE_20753_length_683_cov_0.741007"],"GeneSet","NODE_20753_length_683_cov_0.741007","NODE_20753_length_683_cov_0.741007",0,683]
+[["species:DIRS-4_PGr|genus:LTR/Ngaro","NODE_20753_length_683_cov_0.741007:hit:2284:1.3.0.0"],"GeneSet","species:DIRS-4_PGr|genus:LTR/Ngaro","NODE_20753_length_683_cov_0.741007",19,267]
+[["species:DIRS-6_PGr|genus:LTR/Ngaro","NODE_20753_length_683_cov_0.741007:hit:2285:1.3.0.0"],"GeneSet","species:DIRS-6_PGr|genus:LTR/Ngaro","NODE_20753_length_683_cov_0.741007",431,683]

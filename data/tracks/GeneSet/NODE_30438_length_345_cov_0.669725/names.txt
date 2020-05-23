@@ -1,0 +1,3 @@
+[["NODE_30438_length_345_cov_0.669725","NODE_30438_length_345_cov_0.669725"],"GeneSet","NODE_30438_length_345_cov_0.669725","NODE_30438_length_345_cov_0.669725",0,345]
+[["species:(TTAT)n|genus:Simple_repeat","NODE_30438_length_345_cov_0.669725:hit:5251:1.3.0.0"],"GeneSet","species:(TTAT)n|genus:Simple_repeat","NODE_30438_length_345_cov_0.669725",151,173]
+[["species:(AATTT)n|genus:Simple_repeat","NODE_30438_length_345_cov_0.669725:hit:5252:1.3.0.0"],"GeneSet","species:(AATTT)n|genus:Simple_repeat","NODE_30438_length_345_cov_0.669725",217,252]

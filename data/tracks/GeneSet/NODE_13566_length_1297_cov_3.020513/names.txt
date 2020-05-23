@@ -1,0 +1,3 @@
+[["NODE_13566_length_1297_cov_3.020513","NODE_13566_length_1297_cov_3.020513"],"GeneSet","NODE_13566_length_1297_cov_3.020513","NODE_13566_length_1297_cov_3.020513",0,1297]
+[["species:LSU-rRNA_Sce|genus:rRNA","NODE_13566_length_1297_cov_3.020513:hit:9922:1.3.0.0"],"GeneSet","species:LSU-rRNA_Sce|genus:rRNA","NODE_13566_length_1297_cov_3.020513",228,300]
+[["species:LSU-rRNA_Sce|genus:rRNA","NODE_13566_length_1297_cov_3.020513:hit:9923:1.3.0.0"],"GeneSet","species:LSU-rRNA_Sce|genus:rRNA","NODE_13566_length_1297_cov_3.020513",1034,1285]

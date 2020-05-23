@@ -1,0 +1,2 @@
+[["NODE_36572_length_305_cov_2.724719","NODE_36572_length_305_cov_2.724719"],"GeneSet","NODE_36572_length_305_cov_2.724719","NODE_36572_length_305_cov_2.724719",0,305]
+[["species:(TC)n|genus:Simple_repeat","NODE_36572_length_305_cov_2.724719:hit:4806:1.3.0.0"],"GeneSet","species:(TC)n|genus:Simple_repeat","NODE_36572_length_305_cov_2.724719",210,232]

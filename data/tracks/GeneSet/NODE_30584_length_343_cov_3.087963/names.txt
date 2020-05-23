@@ -1,0 +1,2 @@
+[["NODE_30584_length_343_cov_3.087963","NODE_30584_length_343_cov_3.087963"],"GeneSet","NODE_30584_length_343_cov_3.087963","NODE_30584_length_343_cov_3.087963",0,343]
+[["species:(TTATT)n|genus:Simple_repeat","NODE_30584_length_343_cov_3.087963:hit:6063:1.3.0.0"],"GeneSet","species:(TTATT)n|genus:Simple_repeat","NODE_30584_length_343_cov_3.087963",105,132]

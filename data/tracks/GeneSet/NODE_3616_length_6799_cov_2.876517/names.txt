@@ -1,0 +1,4 @@
+[["NODE_3616_length_6799_cov_2.876517","NODE_3616_length_6799_cov_2.876517"],"GeneSet","NODE_3616_length_6799_cov_2.876517","NODE_3616_length_6799_cov_2.876517",0,6799]
+[["TRINITY_DN15578_c0_g1_i1","NODE_3616_length_6799_cov_2.876517:hit:8306:3.2.0.0"],"GeneSet","TRINITY_DN15578_c0_g1_i1","NODE_3616_length_6799_cov_2.876517",284,6026]
+[["TRINITY_DN15578_c0_g1_i1","NODE_3616_length_6799_cov_2.876517:hit:8307:3.2.0.0"],"GeneSet","TRINITY_DN15578_c0_g1_i1","NODE_3616_length_6799_cov_2.876517",5757,6054]
+[["species:A-rich|genus:Low_complexity","NODE_3616_length_6799_cov_2.876517:hit:8305:1.3.0.0"],"GeneSet","species:A-rich|genus:Low_complexity","NODE_3616_length_6799_cov_2.876517",6152,6223]

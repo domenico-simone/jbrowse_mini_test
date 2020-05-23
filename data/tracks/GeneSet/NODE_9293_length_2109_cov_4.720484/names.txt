@@ -1,0 +1,3 @@
+[["NODE_9293_length_2109_cov_4.720484","NODE_9293_length_2109_cov_4.720484"],"GeneSet","NODE_9293_length_2109_cov_4.720484","NODE_9293_length_2109_cov_4.720484",0,2109]
+[["species:hAT-8_PGr|genus:DNA/hAT-Ac","NODE_9293_length_2109_cov_4.720484:hit:1545:1.3.0.0"],"GeneSet","species:hAT-8_PGr|genus:DNA/hAT-Ac","NODE_9293_length_2109_cov_4.720484",399,669]
+[["species:DNA7-1_MLP|genus:DNA","NODE_9293_length_2109_cov_4.720484:hit:1546:1.3.0.0"],"GeneSet","species:DNA7-1_MLP|genus:DNA","NODE_9293_length_2109_cov_4.720484",1865,1951]

@@ -1,0 +1,5 @@
+[["NODE_4413_length_5776_cov_2.623473","NODE_4413_length_5776_cov_2.623473"],"GeneSet","NODE_4413_length_5776_cov_2.623473","NODE_4413_length_5776_cov_2.623473",0,5776]
+[["species:DIRS-2_MLP-I|genus:LTR/Copia","NODE_4413_length_5776_cov_2.623473:hit:1649:1.3.0.0"],"GeneSet","species:DIRS-2_MLP-I|genus:LTR/Copia","NODE_4413_length_5776_cov_2.623473",560,2397]
+[["species:DIRS-2_MLP-I|genus:LTR/Copia","NODE_4413_length_5776_cov_2.623473:hit:1650:1.3.0.0"],"GeneSet","species:DIRS-2_MLP-I|genus:LTR/Copia","NODE_4413_length_5776_cov_2.623473",2498,3272]
+[["species:DIRS-2_MLP-I|genus:LTR/Copia","NODE_4413_length_5776_cov_2.623473:hit:1651:1.3.0.0"],"GeneSet","species:DIRS-2_MLP-I|genus:LTR/Copia","NODE_4413_length_5776_cov_2.623473",3536,3858]
+[["species:DIRS-2_MLP-I|genus:LTR/Copia","NODE_4413_length_5776_cov_2.623473:hit:1652:1.3.0.0"],"GeneSet","species:DIRS-2_MLP-I|genus:LTR/Copia","NODE_4413_length_5776_cov_2.623473",4279,4875]

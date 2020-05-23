@@ -1,0 +1,6 @@
+[["NODE_6668_length_3461_cov_2.122076","NODE_6668_length_3461_cov_2.122076"],"GeneSet","NODE_6668_length_3461_cov_2.122076","NODE_6668_length_3461_cov_2.122076",0,3461]
+[["species:A-rich|genus:Low_complexity","NODE_6668_length_3461_cov_2.122076:hit:5081:1.3.0.0"],"GeneSet","species:A-rich|genus:Low_complexity","NODE_6668_length_3461_cov_2.122076",1378,1547]
+[["species:(AATAG)n|genus:Simple_repeat","NODE_6668_length_3461_cov_2.122076:hit:5082:1.3.0.0"],"GeneSet","species:(AATAG)n|genus:Simple_repeat","NODE_6668_length_3461_cov_2.122076",1705,1895]
+[["species:Copia-42_MLP-I|genus:LTR/Copia","NODE_6668_length_3461_cov_2.122076:hit:5083:1.3.0.0"],"GeneSet","species:Copia-42_MLP-I|genus:LTR/Copia","NODE_6668_length_3461_cov_2.122076",2034,2100]
+[["species:Copia-42_MLP-I|genus:LTR/Copia","NODE_6668_length_3461_cov_2.122076:hit:5084:1.3.0.0"],"GeneSet","species:Copia-42_MLP-I|genus:LTR/Copia","NODE_6668_length_3461_cov_2.122076",2305,2448]
+[["species:(A)n|genus:Simple_repeat","NODE_6668_length_3461_cov_2.122076:hit:5085:1.3.0.0"],"GeneSet","species:(A)n|genus:Simple_repeat","NODE_6668_length_3461_cov_2.122076",2627,2652]

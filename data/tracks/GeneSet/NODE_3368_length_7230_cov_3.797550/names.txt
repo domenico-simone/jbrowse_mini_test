@@ -1,0 +1,5 @@
+[["NODE_3368_length_7230_cov_3.797550","NODE_3368_length_7230_cov_3.797550"],"GeneSet","NODE_3368_length_7230_cov_3.797550","NODE_3368_length_7230_cov_3.797550",0,7230]
+[["TRINITY_DN31313_c0_g1_i1","NODE_3368_length_7230_cov_3.797550:hit:3542:3.2.0.0"],"GeneSet","TRINITY_DN31313_c0_g1_i1","NODE_3368_length_7230_cov_3.797550",2455,2671]
+[["TRINITY_DN31313_c0_g1_i1","NODE_3368_length_7230_cov_3.797550:hit:3541:3.2.0.0"],"GeneSet","TRINITY_DN31313_c0_g1_i1","NODE_3368_length_7230_cov_3.797550",2534,2652]
+[["species:(TG)n|genus:Simple_repeat","NODE_3368_length_7230_cov_3.797550:hit:3539:1.3.0.0"],"GeneSet","species:(TG)n|genus:Simple_repeat","NODE_3368_length_7230_cov_3.797550",2790,2815]
+[["species:Harbinger-6_MLP|genus:DNA/PIF-Harbinger","NODE_3368_length_7230_cov_3.797550:hit:3540:1.3.0.0"],"GeneSet","species:Harbinger-6_MLP|genus:DNA/PIF-Harbinger","NODE_3368_length_7230_cov_3.797550",5416,5454]

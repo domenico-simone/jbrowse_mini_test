@@ -1,0 +1,3 @@
+[["NODE_2962_length_8207_cov_5.301609","NODE_2962_length_8207_cov_5.301609"],"GeneSet","NODE_2962_length_8207_cov_5.301609","NODE_2962_length_8207_cov_5.301609",0,8207]
+[["species:(ATCATTC)n|genus:Simple_repeat","NODE_2962_length_8207_cov_5.301609:hit:2114:1.3.0.0"],"GeneSet","species:(ATCATTC)n|genus:Simple_repeat","NODE_2962_length_8207_cov_5.301609",940,984]
+[["species:(TGGTGA)n|genus:Simple_repeat","NODE_2962_length_8207_cov_5.301609:hit:2115:1.3.0.0"],"GeneSet","species:(TGGTGA)n|genus:Simple_repeat","NODE_2962_length_8207_cov_5.301609",4015,4085]

@@ -1,0 +1,4 @@
+[["NODE_20683_length_687_cov_1.007143","NODE_20683_length_687_cov_1.007143"],"GeneSet","NODE_20683_length_687_cov_1.007143","NODE_20683_length_687_cov_1.007143",0,687]
+[["species:Copia-9_LBS-I|genus:LTR/Copia","NODE_20683_length_687_cov_1.007143:hit:9899:1.3.0.0"],"GeneSet","species:Copia-9_LBS-I|genus:LTR/Copia","NODE_20683_length_687_cov_1.007143",77,127]
+[["TRINITY_DN11689_c0_g1_i1","NODE_20683_length_687_cov_1.007143:hit:9900:3.2.0.0"],"GeneSet","TRINITY_DN11689_c0_g1_i1","NODE_20683_length_687_cov_1.007143",327,640]
+[["TRINITY_DN11689_c0_g1_i1","NODE_20683_length_687_cov_1.007143:hit:9901:3.2.0.0"],"GeneSet","TRINITY_DN11689_c0_g1_i1","NODE_20683_length_687_cov_1.007143",327,640]

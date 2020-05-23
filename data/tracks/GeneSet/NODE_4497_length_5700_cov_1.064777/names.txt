@@ -1,0 +1,2 @@
+[["NODE_4497_length_5700_cov_1.064777","NODE_4497_length_5700_cov_1.064777"],"GeneSet","NODE_4497_length_5700_cov_1.064777","NODE_4497_length_5700_cov_1.064777",0,5700]
+[["species:(CGAACA)n|genus:Simple_repeat","NODE_4497_length_5700_cov_1.064777:hit:8786:1.3.0.0"],"GeneSet","species:(CGAACA)n|genus:Simple_repeat","NODE_4497_length_5700_cov_1.064777",3217,3258]

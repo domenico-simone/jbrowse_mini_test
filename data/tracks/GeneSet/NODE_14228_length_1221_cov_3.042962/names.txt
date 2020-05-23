@@ -1,0 +1,2 @@
+[["NODE_14228_length_1221_cov_3.042962","NODE_14228_length_1221_cov_3.042962"],"GeneSet","NODE_14228_length_1221_cov_3.042962","NODE_14228_length_1221_cov_3.042962",0,1221]
+[["species:DNA6-2_MLP|genus:DNA","NODE_14228_length_1221_cov_3.042962:hit:6792:1.3.0.0"],"GeneSet","species:DNA6-2_MLP|genus:DNA","NODE_14228_length_1221_cov_3.042962",591,808]

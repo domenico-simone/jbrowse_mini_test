@@ -1,0 +1,3 @@
+[["NODE_17928_length_908_cov_3.212548","NODE_17928_length_908_cov_3.212548"],"GeneSet","NODE_17928_length_908_cov_3.212548","NODE_17928_length_908_cov_3.212548",0,908]
+[["species:Copia-43_MLP-I|genus:LTR/Copia","NODE_17928_length_908_cov_3.212548:hit:2235:1.3.0.0"],"GeneSet","species:Copia-43_MLP-I|genus:LTR/Copia","NODE_17928_length_908_cov_3.212548",0,96]
+[["species:Copia-43_MLP-I|genus:LTR/Copia","NODE_17928_length_908_cov_3.212548:hit:2236:1.3.0.0"],"GeneSet","species:Copia-43_MLP-I|genus:LTR/Copia","NODE_17928_length_908_cov_3.212548",410,570]

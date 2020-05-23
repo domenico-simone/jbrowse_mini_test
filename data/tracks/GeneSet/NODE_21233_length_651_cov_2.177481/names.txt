@@ -1,0 +1,3 @@
+[["NODE_21233_length_651_cov_2.177481","NODE_21233_length_651_cov_2.177481"],"GeneSet","NODE_21233_length_651_cov_2.177481","NODE_21233_length_651_cov_2.177481",0,651]
+[["TRINITY_DN11471_c0_g1_i1","NODE_21233_length_651_cov_2.177481:hit:6991:3.2.0.0"],"GeneSet","TRINITY_DN11471_c0_g1_i1","NODE_21233_length_651_cov_2.177481",0,278]
+[["TRINITY_DN11471_c0_g1_i1","NODE_21233_length_651_cov_2.177481:hit:6990:3.2.0.0"],"GeneSet","TRINITY_DN11471_c0_g1_i1","NODE_21233_length_651_cov_2.177481",5,278]

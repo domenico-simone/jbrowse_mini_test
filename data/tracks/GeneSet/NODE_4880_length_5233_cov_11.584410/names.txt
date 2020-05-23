@@ -1,0 +1,5 @@
+[["NODE_4880_length_5233_cov_11.584410","NODE_4880_length_5233_cov_11.584410"],"GeneSet","NODE_4880_length_5233_cov_11.584410","NODE_4880_length_5233_cov_11.584410",0,5233]
+[["species:Gypsy-108_MLP-LTR|genus:LTR/Gypsy","NODE_4880_length_5233_cov_11.584410:hit:2286:1.3.0.0"],"GeneSet","species:Gypsy-108_MLP-LTR|genus:LTR/Gypsy","NODE_4880_length_5233_cov_11.584410",65,128]
+[["species:(T)n|genus:Simple_repeat","NODE_4880_length_5233_cov_11.584410:hit:2287:1.3.0.0"],"GeneSet","species:(T)n|genus:Simple_repeat","NODE_4880_length_5233_cov_11.584410",1652,1678]
+[["species:(TCGAGG)n|genus:Simple_repeat","NODE_4880_length_5233_cov_11.584410:hit:2288:1.3.0.0"],"GeneSet","species:(TCGAGG)n|genus:Simple_repeat","NODE_4880_length_5233_cov_11.584410",3597,3629]
+[["species:Gypsy-124_MLP-I|genus:LTR/Gypsy","NODE_4880_length_5233_cov_11.584410:hit:2289:1.3.0.0"],"GeneSet","species:Gypsy-124_MLP-I|genus:LTR/Gypsy","NODE_4880_length_5233_cov_11.584410",4763,5193]

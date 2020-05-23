@@ -1,0 +1,3 @@
+[["NODE_13188_length_1341_cov_1.224876","NODE_13188_length_1341_cov_1.224876"],"GeneSet","NODE_13188_length_1341_cov_1.224876","NODE_13188_length_1341_cov_1.224876",0,1341]
+[["species:DNA3-5_PSt|genus:DNA","NODE_13188_length_1341_cov_1.224876:hit:8618:1.3.0.0"],"GeneSet","species:DNA3-5_PSt|genus:DNA","NODE_13188_length_1341_cov_1.224876",455,522]
+[["species:DNA3-4_PSt|genus:DNA","NODE_13188_length_1341_cov_1.224876:hit:8619:1.3.0.0"],"GeneSet","species:DNA3-4_PSt|genus:DNA","NODE_13188_length_1341_cov_1.224876",563,631]

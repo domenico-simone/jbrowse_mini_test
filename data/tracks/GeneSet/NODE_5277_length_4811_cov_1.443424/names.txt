@@ -1,0 +1,5 @@
+[["NODE_5277_length_4811_cov_1.443424","NODE_5277_length_4811_cov_1.443424"],"GeneSet","NODE_5277_length_4811_cov_1.443424","NODE_5277_length_4811_cov_1.443424",0,4811]
+[["TRINITY_DN20177_c0_g1_i1","NODE_5277_length_4811_cov_1.443424:hit:3595:3.2.0.0"],"GeneSet","TRINITY_DN20177_c0_g1_i1","NODE_5277_length_4811_cov_1.443424",1101,2327]
+[["TRINITY_DN20177_c0_g1_i1","NODE_5277_length_4811_cov_1.443424:hit:3594:3.2.0.0"],"GeneSet","TRINITY_DN20177_c0_g1_i1","NODE_5277_length_4811_cov_1.443424",1121,2186]
+[["species:Tad1-8_PGr|genus:LINE/Tad1","NODE_5277_length_4811_cov_1.443424:hit:3592:1.3.0.0"],"GeneSet","species:Tad1-8_PGr|genus:LINE/Tad1","NODE_5277_length_4811_cov_1.443424",2236,2424]
+[["species:Tad1-1_PSt|genus:LINE/Tad1?","NODE_5277_length_4811_cov_1.443424:hit:3593:1.3.0.0"],"GeneSet","species:Tad1-1_PSt|genus:LINE/Tad1?","NODE_5277_length_4811_cov_1.443424",3582,4769]

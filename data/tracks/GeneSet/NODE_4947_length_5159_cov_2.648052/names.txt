@@ -1,0 +1,7 @@
+[["NODE_4947_length_5159_cov_2.648052","NODE_4947_length_5159_cov_2.648052"],"GeneSet","NODE_4947_length_5159_cov_2.648052","NODE_4947_length_5159_cov_2.648052",0,5159]
+[["maker-NODE_4947_length_5159_cov_2.648052-exonerate_est2genome-gene-0.0","maker-NODE_4947_length_5159_cov_2.648052-exonerate_est2genome-gene-0.0"],"GeneSet","maker-NODE_4947_length_5159_cov_2.648052-exonerate_est2genome-gene-0.0","NODE_4947_length_5159_cov_2.648052",3360,4710]
+[["TRINITY_DN6144_c0_g4_i2","NODE_4947_length_5159_cov_2.648052:hit:2248:3.2.0.0"],"GeneSet","TRINITY_DN6144_c0_g4_i2","NODE_4947_length_5159_cov_2.648052",3360,4710]
+[["TRINITY_DN6144_c0_g4_i2","NODE_4947_length_5159_cov_2.648052:hit:2247:3.2.0.0"],"GeneSet","TRINITY_DN6144_c0_g4_i2","NODE_4947_length_5159_cov_2.648052",3360,4706]
+[["species:Mariner-6_PTrit|genus:DNA/TcMar-Ant1","NODE_4947_length_5159_cov_2.648052:hit:2244:1.3.0.0"],"GeneSet","species:Mariner-6_PTrit|genus:DNA/TcMar-Ant1","NODE_4947_length_5159_cov_2.648052",3572,3938]
+[["species:Mariner-8_MLP|genus:DNA/TcMar-Ant1","NODE_4947_length_5159_cov_2.648052:hit:2245:1.3.0.0"],"GeneSet","species:Mariner-8_MLP|genus:DNA/TcMar-Ant1","NODE_4947_length_5159_cov_2.648052",4104,4198]
+[["species:A-rich|genus:Low_complexity","NODE_4947_length_5159_cov_2.648052:hit:2246:1.3.0.0"],"GeneSet","species:A-rich|genus:Low_complexity","NODE_4947_length_5159_cov_2.648052",5074,5127]

@@ -1,0 +1,6 @@
+[["NODE_5057_length_5033_cov_4.791684","NODE_5057_length_5033_cov_4.791684"],"GeneSet","NODE_5057_length_5033_cov_4.791684","NODE_5057_length_5033_cov_4.791684",0,5033]
+[["species:(AT)n|genus:Simple_repeat","NODE_5057_length_5033_cov_4.791684:hit:9090:1.3.0.0"],"GeneSet","species:(AT)n|genus:Simple_repeat","NODE_5057_length_5033_cov_4.791684",1217,1496]
+[["species:(CTAACT)n|genus:Simple_repeat","NODE_5057_length_5033_cov_4.791684:hit:9091:1.3.0.0"],"GeneSet","species:(CTAACT)n|genus:Simple_repeat","NODE_5057_length_5033_cov_4.791684",2162,2196]
+[["species:(ACACTT)n|genus:Simple_repeat","NODE_5057_length_5033_cov_4.791684:hit:9092:1.3.0.0"],"GeneSet","species:(ACACTT)n|genus:Simple_repeat","NODE_5057_length_5033_cov_4.791684",2225,2275]
+[["species:DNA3-4_PSt|genus:DNA","NODE_5057_length_5033_cov_4.791684:hit:9093:1.3.0.0"],"GeneSet","species:DNA3-4_PSt|genus:DNA","NODE_5057_length_5033_cov_4.791684",2522,2589]
+[["species:DNA3-4_PSt|genus:DNA","NODE_5057_length_5033_cov_4.791684:hit:9094:1.3.0.0"],"GeneSet","species:DNA3-4_PSt|genus:DNA","NODE_5057_length_5033_cov_4.791684",2633,2700]

@@ -1,0 +1,2 @@
+[["NODE_10533_length_1789_cov_1.501805","NODE_10533_length_1789_cov_1.501805"],"GeneSet","NODE_10533_length_1789_cov_1.501805","NODE_10533_length_1789_cov_1.501805",0,1789]
+[["species:(A)n|genus:Simple_repeat","NODE_10533_length_1789_cov_1.501805:hit:5669:1.3.0.0"],"GeneSet","species:(A)n|genus:Simple_repeat","NODE_10533_length_1789_cov_1.501805",1137,1156]

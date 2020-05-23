@@ -1,0 +1,2 @@
+[["NODE_30406_length_345_cov_1.435780","NODE_30406_length_345_cov_1.435780"],"GeneSet","NODE_30406_length_345_cov_1.435780","NODE_30406_length_345_cov_1.435780",0,345]
+[["species:(TA)n|genus:Simple_repeat","NODE_30406_length_345_cov_1.435780:hit:3214:1.3.0.0"],"GeneSet","species:(TA)n|genus:Simple_repeat","NODE_30406_length_345_cov_1.435780",0,340]

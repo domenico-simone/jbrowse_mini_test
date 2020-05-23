@@ -1,0 +1,8 @@
+[["NODE_13979_length_1248_cov_1.751115","NODE_13979_length_1248_cov_1.751115"],"GeneSet","NODE_13979_length_1248_cov_1.751115","NODE_13979_length_1248_cov_1.751115",0,1248]
+[["species:(T)n|genus:Simple_repeat","NODE_13979_length_1248_cov_1.751115:hit:5651:1.3.0.0"],"GeneSet","species:(T)n|genus:Simple_repeat","NODE_13979_length_1248_cov_1.751115",425,442]
+[["TRINITY_DN32362_c0_g1_i1","NODE_13979_length_1248_cov_1.751115:hit:5656:3.2.0.0"],"GeneSet","TRINITY_DN32362_c0_g1_i1","NODE_13979_length_1248_cov_1.751115",492,824]
+[["TRINITY_DN32362_c0_g1_i1","NODE_13979_length_1248_cov_1.751115:hit:5654:3.2.0.0"],"GeneSet","TRINITY_DN32362_c0_g1_i1","NODE_13979_length_1248_cov_1.751115",531,824]
+[["species:GA-rich|genus:Low_complexity","NODE_13979_length_1248_cov_1.751115:hit:5652:1.3.0.0"],"GeneSet","species:GA-rich|genus:Low_complexity","NODE_13979_length_1248_cov_1.751115",589,648]
+[["TRINITY_DN10895_c0_g2_i1","NODE_13979_length_1248_cov_1.751115:hit:5657:3.2.0.0"],"GeneSet","TRINITY_DN10895_c0_g2_i1","NODE_13979_length_1248_cov_1.751115",703,1189]
+[["TRINITY_DN10895_c0_g2_i1","NODE_13979_length_1248_cov_1.751115:hit:5655:3.2.0.0"],"GeneSet","TRINITY_DN10895_c0_g2_i1","NODE_13979_length_1248_cov_1.751115",703,1186]
+[["species:G-rich|genus:Low_complexity","NODE_13979_length_1248_cov_1.751115:hit:5653:1.3.0.0"],"GeneSet","species:G-rich|genus:Low_complexity","NODE_13979_length_1248_cov_1.751115",1099,1237]

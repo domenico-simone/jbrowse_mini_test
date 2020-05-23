@@ -1,0 +1,3 @@
+[["NODE_29552_length_354_cov_3.004405","NODE_29552_length_354_cov_3.004405"],"GeneSet","NODE_29552_length_354_cov_3.004405","NODE_29552_length_354_cov_3.004405",0,354]
+[["species:Coprina_Cc1|genus:LINE/Penelope","NODE_29552_length_354_cov_3.004405:hit:9305:1.3.0.0"],"GeneSet","species:Coprina_Cc1|genus:LINE/Penelope","NODE_29552_length_354_cov_3.004405",19,128]
+[["species:Coprina_Cc1|genus:LINE/Penelope","NODE_29552_length_354_cov_3.004405:hit:9306:1.3.0.0"],"GeneSet","species:Coprina_Cc1|genus:LINE/Penelope","NODE_29552_length_354_cov_3.004405",246,354]

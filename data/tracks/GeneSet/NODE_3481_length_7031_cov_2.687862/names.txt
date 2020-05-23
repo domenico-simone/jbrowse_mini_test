@@ -1,0 +1,3 @@
+[["NODE_3481_length_7031_cov_2.687862","NODE_3481_length_7031_cov_2.687862"],"GeneSet","NODE_3481_length_7031_cov_2.687862","NODE_3481_length_7031_cov_2.687862",0,7031]
+[["species:Mariner-6_PTrit|genus:DNA/TcMar-Ant1","NODE_3481_length_7031_cov_2.687862:hit:8950:1.3.0.0"],"GeneSet","species:Mariner-6_PTrit|genus:DNA/TcMar-Ant1","NODE_3481_length_7031_cov_2.687862",4424,4722]
+[["species:Copia-43_MLP-I|genus:LTR/Copia","NODE_3481_length_7031_cov_2.687862:hit:8951:1.3.0.0"],"GeneSet","species:Copia-43_MLP-I|genus:LTR/Copia","NODE_3481_length_7031_cov_2.687862",6471,6686]

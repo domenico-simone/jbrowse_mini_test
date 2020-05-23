@@ -1,0 +1,2 @@
+[["NODE_45982_length_128_cov_9.000000","NODE_45982_length_128_cov_9.000000"],"GeneSet","NODE_45982_length_128_cov_9.000000","NODE_45982_length_128_cov_9.000000",0,128]
+[["species:DNA3-5_PSt|genus:DNA","NODE_45982_length_128_cov_9.000000:hit:8590:1.3.0.0"],"GeneSet","species:DNA3-5_PSt|genus:DNA","NODE_45982_length_128_cov_9.000000",52,126]

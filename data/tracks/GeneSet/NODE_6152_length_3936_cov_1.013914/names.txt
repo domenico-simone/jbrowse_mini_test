@@ -1,0 +1,3 @@
+[["NODE_6152_length_3936_cov_1.013914","NODE_6152_length_3936_cov_1.013914"],"GeneSet","NODE_6152_length_3936_cov_1.013914","NODE_6152_length_3936_cov_1.013914",0,3936]
+[["species:hAT-3_MLP|genus:DNA/hAT-Ac","NODE_6152_length_3936_cov_1.013914:hit:5821:1.3.0.0"],"GeneSet","species:hAT-3_MLP|genus:DNA/hAT-Ac","NODE_6152_length_3936_cov_1.013914",727,1150]
+[["species:(TTGAAC)n|genus:Simple_repeat","NODE_6152_length_3936_cov_1.013914:hit:5822:1.3.0.0"],"GeneSet","species:(TTGAAC)n|genus:Simple_repeat","NODE_6152_length_3936_cov_1.013914",1860,1897]

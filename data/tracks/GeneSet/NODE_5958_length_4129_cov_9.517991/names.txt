@@ -1,0 +1,3 @@
+[["NODE_5958_length_4129_cov_9.517991","NODE_5958_length_4129_cov_9.517991"],"GeneSet","NODE_5958_length_4129_cov_9.517991","NODE_5958_length_4129_cov_9.517991",0,4129]
+[["species:Gypsy-108_MLP-I|genus:LTR/Gypsy","NODE_5958_length_4129_cov_9.517991:hit:7914:1.3.0.0"],"GeneSet","species:Gypsy-108_MLP-I|genus:LTR/Gypsy","NODE_5958_length_4129_cov_9.517991",0,100]
+[["species:A-rich|genus:Low_complexity","NODE_5958_length_4129_cov_9.517991:hit:7915:1.3.0.0"],"GeneSet","species:A-rich|genus:Low_complexity","NODE_5958_length_4129_cov_9.517991",2899,2936]

@@ -1,0 +1,3 @@
+[["NODE_16311_length_1031_cov_1.879425","NODE_16311_length_1031_cov_1.879425"],"GeneSet","NODE_16311_length_1031_cov_1.879425","NODE_16311_length_1031_cov_1.879425",0,1031]
+[["species:Harbinger-4_MLP|genus:DNA/PIF-Harbinger","NODE_16311_length_1031_cov_1.879425:hit:1052:1.3.0.0"],"GeneSet","species:Harbinger-4_MLP|genus:DNA/PIF-Harbinger","NODE_16311_length_1031_cov_1.879425",0,116]
+[["species:Harbinger-4_MLP|genus:DNA/PIF-Harbinger","NODE_16311_length_1031_cov_1.879425:hit:1053:1.3.0.0"],"GeneSet","species:Harbinger-4_MLP|genus:DNA/PIF-Harbinger","NODE_16311_length_1031_cov_1.879425",407,589]
