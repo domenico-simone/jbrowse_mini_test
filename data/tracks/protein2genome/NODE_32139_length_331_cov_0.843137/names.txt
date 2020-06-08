@@ -1,0 +1,1 @@
+[["sp|Q0H8W9.1|ATP9_USTMA","NODE_32139_length_331_cov_0.843137:hit:132:3.10.0.0"],"protein2genome","sp|Q0H8W9.1|ATP9_USTMA","NODE_32139_length_331_cov_0.843137",81,297]

@@ -1,0 +1,2 @@
+[["genemark-NODE_5002_length_5100_cov_2.443394-processed-gene-0.3","genemark-NODE_5002_length_5100_cov_2.443394-processed-gene-0.3"],"gene","genemark-NODE_5002_length_5100_cov_2.443394-processed-gene-0.3","NODE_5002_length_5100_cov_2.443394",269,652]
+[["maker-NODE_5002_length_5100_cov_2.443394-augustus-gene-0.11","maker-NODE_5002_length_5100_cov_2.443394-augustus-gene-0.11"],"gene","maker-NODE_5002_length_5100_cov_2.443394-augustus-gene-0.11","NODE_5002_length_5100_cov_2.443394",890,2132]

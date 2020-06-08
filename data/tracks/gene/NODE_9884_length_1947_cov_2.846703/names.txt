@@ -1,0 +1,2 @@
+[["genemark-NODE_9884_length_1947_cov_2.846703-processed-gene-0.1","genemark-NODE_9884_length_1947_cov_2.846703-processed-gene-0.1"],"gene","genemark-NODE_9884_length_1947_cov_2.846703-processed-gene-0.1","NODE_9884_length_1947_cov_2.846703",932,1331]
+[["maker-NODE_9884_length_1947_cov_2.846703-snap-gene-0.4","maker-NODE_9884_length_1947_cov_2.846703-snap-gene-0.4"],"gene","maker-NODE_9884_length_1947_cov_2.846703-snap-gene-0.4","NODE_9884_length_1947_cov_2.846703",1728,1878]

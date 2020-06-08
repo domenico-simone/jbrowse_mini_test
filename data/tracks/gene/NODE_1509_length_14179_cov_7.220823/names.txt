@@ -1,0 +1,2 @@
+[["maker-NODE_1509_length_14179_cov_7.220823-snap-gene-0.13","maker-NODE_1509_length_14179_cov_7.220823-snap-gene-0.13"],"gene","maker-NODE_1509_length_14179_cov_7.220823-snap-gene-0.13","NODE_1509_length_14179_cov_7.220823",2912,7281]
+[["maker-NODE_1509_length_14179_cov_7.220823-snap-gene-0.16","maker-NODE_1509_length_14179_cov_7.220823-snap-gene-0.16"],"gene","maker-NODE_1509_length_14179_cov_7.220823-snap-gene-0.16","NODE_1509_length_14179_cov_7.220823",7288,10771]

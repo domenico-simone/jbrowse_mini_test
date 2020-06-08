@@ -1,0 +1,3 @@
+[["TRINITY_DN49_c2_g1_i1","NODE_29356_length_356_cov_3.082969:hit:1408:3.2.0.0"],"blastn","TRINITY_DN49_c2_g1_i1","NODE_29356_length_356_cov_3.082969",0,184]
+[["TRINITY_DN11697_c0_g1_i1","NODE_29356_length_356_cov_3.082969:hit:1409:3.2.0.0"],"blastn","TRINITY_DN11697_c0_g1_i1","NODE_29356_length_356_cov_3.082969",78,199]
+[["TRINITY_DN11697_c0_g2_i1","NODE_29356_length_356_cov_3.082969:hit:1410:3.2.0.0"],"blastn","TRINITY_DN11697_c0_g2_i1","NODE_29356_length_356_cov_3.082969",96,356]

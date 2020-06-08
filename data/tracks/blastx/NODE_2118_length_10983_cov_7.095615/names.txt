@@ -1,0 +1,1 @@
+[["sp|O93931.1|RS26_SCHCO","NODE_2118_length_10983_cov_7.095615:hit:3403:3.10.0.0"],"blastx","sp|O93931.1|RS26_SCHCO","NODE_2118_length_10983_cov_7.095615",278,774]

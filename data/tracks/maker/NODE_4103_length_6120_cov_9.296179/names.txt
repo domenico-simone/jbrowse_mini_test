@@ -1,0 +1,2 @@
+[["genemark-NODE_4103_length_6120_cov_9.296179-processed-gene-0.20-mRNA-1","genemark-NODE_4103_length_6120_cov_9.296179-processed-gene-0.20-mRNA-1"],"maker","genemark-NODE_4103_length_6120_cov_9.296179-processed-gene-0.20-mRNA-1","NODE_4103_length_6120_cov_9.296179",469,3198]
+[["maker-NODE_4103_length_6120_cov_9.296179-augustus-gene-0.29-mRNA-1","maker-NODE_4103_length_6120_cov_9.296179-augustus-gene-0.29-mRNA-1"],"maker","maker-NODE_4103_length_6120_cov_9.296179-augustus-gene-0.29-mRNA-1","NODE_4103_length_6120_cov_9.296179",4321,5424]

@@ -1,0 +1,4 @@
+[["maker-NODE_1856_length_12136_cov_7.538135-snap-gene-0.40","maker-NODE_1856_length_12136_cov_7.538135-snap-gene-0.40"],"gene","maker-NODE_1856_length_12136_cov_7.538135-snap-gene-0.40","NODE_1856_length_12136_cov_7.538135",1439,4796]
+[["maker-NODE_1856_length_12136_cov_7.538135-snap-gene-0.37","maker-NODE_1856_length_12136_cov_7.538135-snap-gene-0.37"],"gene","maker-NODE_1856_length_12136_cov_7.538135-snap-gene-0.37","NODE_1856_length_12136_cov_7.538135",4899,7834]
+[["maker-NODE_1856_length_12136_cov_7.538135-augustus-gene-0.22","maker-NODE_1856_length_12136_cov_7.538135-augustus-gene-0.22"],"gene","maker-NODE_1856_length_12136_cov_7.538135-augustus-gene-0.22","NODE_1856_length_12136_cov_7.538135",8076,10730]
+[["snap-NODE_1856_length_12136_cov_7.538135-processed-gene-0.33","snap-NODE_1856_length_12136_cov_7.538135-processed-gene-0.33"],"gene","snap-NODE_1856_length_12136_cov_7.538135-processed-gene-0.33","NODE_1856_length_12136_cov_7.538135",11065,11896]

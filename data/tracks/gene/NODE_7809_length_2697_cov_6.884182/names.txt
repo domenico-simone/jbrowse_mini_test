@@ -1,0 +1,2 @@
+[["genemark-NODE_7809_length_2697_cov_6.884182-processed-gene-0.9","genemark-NODE_7809_length_2697_cov_6.884182-processed-gene-0.9"],"gene","genemark-NODE_7809_length_2697_cov_6.884182-processed-gene-0.9","NODE_7809_length_2697_cov_6.884182",0,1206]
+[["maker-NODE_7809_length_2697_cov_6.884182-augustus-gene-0.0","maker-NODE_7809_length_2697_cov_6.884182-augustus-gene-0.0"],"gene","maker-NODE_7809_length_2697_cov_6.884182-augustus-gene-0.0","NODE_7809_length_2697_cov_6.884182",1133,2671]

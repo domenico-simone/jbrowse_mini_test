@@ -1,0 +1,2 @@
+[["genemark-NODE_2241_length_10472_cov_8.765394-processed-gene-0.2-mRNA-1","genemark-NODE_2241_length_10472_cov_8.765394-processed-gene-0.2-mRNA-1"],"maker","genemark-NODE_2241_length_10472_cov_8.765394-processed-gene-0.2-mRNA-1","NODE_2241_length_10472_cov_8.765394",19,5776]
+[["maker-NODE_2241_length_10472_cov_8.765394-snap-gene-0.24-mRNA-1","maker-NODE_2241_length_10472_cov_8.765394-snap-gene-0.24-mRNA-1"],"maker","maker-NODE_2241_length_10472_cov_8.765394-snap-gene-0.24-mRNA-1","NODE_2241_length_10472_cov_8.765394",5414,10468]

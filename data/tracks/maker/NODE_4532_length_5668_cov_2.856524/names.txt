@@ -1,0 +1,2 @@
+[["maker-NODE_4532_length_5668_cov_2.856524-augustus-gene-0.0-mRNA-1","maker-NODE_4532_length_5668_cov_2.856524-augustus-gene-0.0-mRNA-1"],"maker","maker-NODE_4532_length_5668_cov_2.856524-augustus-gene-0.0-mRNA-1","NODE_4532_length_5668_cov_2.856524",59,570]
+[["genemark-NODE_4532_length_5668_cov_2.856524-processed-gene-0.3-mRNA-1","genemark-NODE_4532_length_5668_cov_2.856524-processed-gene-0.3-mRNA-1"],"maker","genemark-NODE_4532_length_5668_cov_2.856524-processed-gene-0.3-mRNA-1","NODE_4532_length_5668_cov_2.856524",720,5139]

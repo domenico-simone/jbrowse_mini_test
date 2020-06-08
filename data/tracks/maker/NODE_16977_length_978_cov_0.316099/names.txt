@@ -1,0 +1,2 @@
+[["genemark-NODE_16977_length_978_cov_0.316099-processed-gene-0.5-mRNA-1","genemark-NODE_16977_length_978_cov_0.316099-processed-gene-0.5-mRNA-1"],"maker","genemark-NODE_16977_length_978_cov_0.316099-processed-gene-0.5-mRNA-1","NODE_16977_length_978_cov_0.316099",20,278]
+[["snap-NODE_16977_length_978_cov_0.316099-processed-gene-0.4-mRNA-1","snap-NODE_16977_length_978_cov_0.316099-processed-gene-0.4-mRNA-1"],"maker","snap-NODE_16977_length_978_cov_0.316099-processed-gene-0.4-mRNA-1","NODE_16977_length_978_cov_0.316099",413,940]

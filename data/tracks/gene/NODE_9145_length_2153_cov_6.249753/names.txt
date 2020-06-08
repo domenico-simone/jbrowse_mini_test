@@ -1,0 +1,2 @@
+[["maker-NODE_9145_length_2153_cov_6.249753-snap-gene-0.4","maker-NODE_9145_length_2153_cov_6.249753-snap-gene-0.4"],"gene","maker-NODE_9145_length_2153_cov_6.249753-snap-gene-0.4","NODE_9145_length_2153_cov_6.249753",132,795]
+[["maker-NODE_9145_length_2153_cov_6.249753-augustus-gene-0.10","maker-NODE_9145_length_2153_cov_6.249753-augustus-gene-0.10"],"gene","maker-NODE_9145_length_2153_cov_6.249753-augustus-gene-0.10","NODE_9145_length_2153_cov_6.249753",1145,1751]

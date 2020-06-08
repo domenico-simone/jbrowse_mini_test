@@ -1,0 +1,2 @@
+[["genemark-NODE_9157_length_2149_cov_1.114243-processed-gene-0.9-mRNA-1","genemark-NODE_9157_length_2149_cov_1.114243-processed-gene-0.9-mRNA-1"],"maker","genemark-NODE_9157_length_2149_cov_1.114243-processed-gene-0.9-mRNA-1","NODE_9157_length_2149_cov_1.114243",25,994]
+[["maker-NODE_9157_length_2149_cov_1.114243-augustus-gene-0.6-mRNA-1","maker-NODE_9157_length_2149_cov_1.114243-augustus-gene-0.6-mRNA-1"],"maker","maker-NODE_9157_length_2149_cov_1.114243-augustus-gene-0.6-mRNA-1","NODE_9157_length_2149_cov_1.114243",1099,2082]

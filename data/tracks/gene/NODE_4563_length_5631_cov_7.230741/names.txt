@@ -1,0 +1,2 @@
+[["maker-NODE_4563_length_5631_cov_7.230741-snap-gene-0.20","maker-NODE_4563_length_5631_cov_7.230741-snap-gene-0.20"],"gene","maker-NODE_4563_length_5631_cov_7.230741-snap-gene-0.20","NODE_4563_length_5631_cov_7.230741",1,1346]
+[["maker-NODE_4563_length_5631_cov_7.230741-snap-gene-0.16","maker-NODE_4563_length_5631_cov_7.230741-snap-gene-0.16"],"gene","maker-NODE_4563_length_5631_cov_7.230741-snap-gene-0.16","NODE_4563_length_5631_cov_7.230741",1453,5629]

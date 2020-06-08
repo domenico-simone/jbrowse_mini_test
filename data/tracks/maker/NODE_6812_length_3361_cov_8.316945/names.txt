@@ -1,0 +1,2 @@
+[["genemark-NODE_6812_length_3361_cov_8.316945-processed-gene-0.5-mRNA-1","genemark-NODE_6812_length_3361_cov_8.316945-processed-gene-0.5-mRNA-1"],"maker","genemark-NODE_6812_length_3361_cov_8.316945-processed-gene-0.5-mRNA-1","NODE_6812_length_3361_cov_8.316945",0,2153]
+[["genemark-NODE_6812_length_3361_cov_8.316945-processed-gene-0.7-mRNA-1","genemark-NODE_6812_length_3361_cov_8.316945-processed-gene-0.7-mRNA-1"],"maker","genemark-NODE_6812_length_3361_cov_8.316945-processed-gene-0.7-mRNA-1","NODE_6812_length_3361_cov_8.316945",1772,2399]

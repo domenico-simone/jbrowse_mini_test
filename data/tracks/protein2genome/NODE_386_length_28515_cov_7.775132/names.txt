@@ -1,0 +1,1 @@
+[["sp|O93919.1|ADK_SCHCO","NODE_386_length_28515_cov_7.775132:hit:42145:3.10.0.0"],"protein2genome","sp|O93919.1|ADK_SCHCO","NODE_386_length_28515_cov_7.775132",26308,27809]

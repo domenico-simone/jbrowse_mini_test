@@ -1,0 +1,2 @@
+[["genemark-NODE_18124_length_895_cov_2.201823-abinit-gene-0.0-mRNA-1","NODE_18124_length_895_cov_2.201823:hit:305:4.5.0.0"],"genemark","genemark-NODE_18124_length_895_cov_2.201823-abinit-gene-0.0-mRNA-1","NODE_18124_length_895_cov_2.201823",142,385]
+[["genemark-NODE_18124_length_895_cov_2.201823-abinit-gene-0.1-mRNA-1","NODE_18124_length_895_cov_2.201823:hit:306:4.5.0.0"],"genemark","genemark-NODE_18124_length_895_cov_2.201823-abinit-gene-0.1-mRNA-1","NODE_18124_length_895_cov_2.201823",410,599]

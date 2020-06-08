@@ -1,0 +1,1 @@
+[["sp|E2JFG2.1|POPB_AMABI","NODE_3026_length_8039_cov_6.853008:hit:24985:3.10.0.0"],"protein2genome","sp|E2JFG2.1|POPB_AMABI","NODE_3026_length_8039_cov_6.853008",4677,6425]

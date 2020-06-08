@@ -1,0 +1,2 @@
+[["snap-NODE_3478_length_7037_cov_8.459190-processed-gene-0.5-mRNA-1","snap-NODE_3478_length_7037_cov_8.459190-processed-gene-0.5-mRNA-1"],"maker","snap-NODE_3478_length_7037_cov_8.459190-processed-gene-0.5-mRNA-1","NODE_3478_length_7037_cov_8.459190",0,3584]
+[["maker-NODE_3478_length_7037_cov_8.459190-snap-gene-0.6-mRNA-1","maker-NODE_3478_length_7037_cov_8.459190-snap-gene-0.6-mRNA-1"],"maker","maker-NODE_3478_length_7037_cov_8.459190-snap-gene-0.6-mRNA-1","NODE_3478_length_7037_cov_8.459190",1944,2704]

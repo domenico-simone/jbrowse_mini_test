@@ -1,0 +1,1 @@
+[["sp|Q4PIC4.2|SPT5_USTMA","NODE_648_length_22526_cov_7.014599:hit:61443:3.10.0.0"],"protein2genome","sp|Q4PIC4.2|SPT5_USTMA","NODE_648_length_22526_cov_7.014599",3123,5181]

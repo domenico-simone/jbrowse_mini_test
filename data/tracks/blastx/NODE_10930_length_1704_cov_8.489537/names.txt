@@ -1,0 +1,1 @@
+[["sp|Q92400.1|GUX2_AGABI","NODE_10930_length_1704_cov_8.489537:hit:3217:3.10.0.0"],"blastx","sp|Q92400.1|GUX2_AGABI","NODE_10930_length_1704_cov_8.489537",21,1437]

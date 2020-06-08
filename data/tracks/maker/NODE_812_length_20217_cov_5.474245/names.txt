@@ -1,0 +1,2 @@
+[["snap-NODE_812_length_20217_cov_5.474245-processed-gene-0.15-mRNA-1","snap-NODE_812_length_20217_cov_5.474245-processed-gene-0.15-mRNA-1"],"maker","snap-NODE_812_length_20217_cov_5.474245-processed-gene-0.15-mRNA-1","NODE_812_length_20217_cov_5.474245",4350,10806]
+[["maker-NODE_812_length_20217_cov_5.474245-snap-gene-0.27-mRNA-1","maker-NODE_812_length_20217_cov_5.474245-snap-gene-0.27-mRNA-1"],"maker","maker-NODE_812_length_20217_cov_5.474245-snap-gene-0.27-mRNA-1","NODE_812_length_20217_cov_5.474245",12141,15329]

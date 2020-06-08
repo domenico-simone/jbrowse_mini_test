@@ -1,0 +1,2 @@
+[["genemark-NODE_3728_length_6624_cov_7.891642-processed-gene-0.15-mRNA-1","genemark-NODE_3728_length_6624_cov_7.891642-processed-gene-0.15-mRNA-1"],"maker","genemark-NODE_3728_length_6624_cov_7.891642-processed-gene-0.15-mRNA-1","NODE_3728_length_6624_cov_7.891642",1229,3083]
+[["genemark-NODE_3728_length_6624_cov_7.891642-processed-gene-0.16-mRNA-1","genemark-NODE_3728_length_6624_cov_7.891642-processed-gene-0.16-mRNA-1"],"maker","genemark-NODE_3728_length_6624_cov_7.891642-processed-gene-0.16-mRNA-1","NODE_3728_length_6624_cov_7.891642",3622,5206]

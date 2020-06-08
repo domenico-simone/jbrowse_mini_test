@@ -1,0 +1,2 @@
+[["snap-NODE_4196_length_6013_cov_6.933231-processed-gene-0.9-mRNA-1","snap-NODE_4196_length_6013_cov_6.933231-processed-gene-0.9-mRNA-1"],"maker","snap-NODE_4196_length_6013_cov_6.933231-processed-gene-0.9-mRNA-1","NODE_4196_length_6013_cov_6.933231",10,2381]
+[["snap-NODE_4196_length_6013_cov_6.933231-processed-gene-0.10-mRNA-1","snap-NODE_4196_length_6013_cov_6.933231-processed-gene-0.10-mRNA-1"],"maker","snap-NODE_4196_length_6013_cov_6.933231-processed-gene-0.10-mRNA-1","NODE_4196_length_6013_cov_6.933231",3991,6013]

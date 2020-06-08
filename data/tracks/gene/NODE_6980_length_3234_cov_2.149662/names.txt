@@ -1,0 +1,2 @@
+[["genemark-NODE_6980_length_3234_cov_2.149662-processed-gene-0.10","genemark-NODE_6980_length_3234_cov_2.149662-processed-gene-0.10"],"gene","genemark-NODE_6980_length_3234_cov_2.149662-processed-gene-0.10","NODE_6980_length_3234_cov_2.149662",165,1496]
+[["maker-NODE_6980_length_3234_cov_2.149662-augustus-gene-0.3","maker-NODE_6980_length_3234_cov_2.149662-augustus-gene-0.3"],"gene","maker-NODE_6980_length_3234_cov_2.149662-augustus-gene-0.3","NODE_6980_length_3234_cov_2.149662",2117,2448]

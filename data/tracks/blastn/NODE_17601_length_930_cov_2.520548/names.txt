@@ -1,0 +1,2 @@
+[["TRINITY_DN2942_c0_g1_i4","NODE_17601_length_930_cov_2.520548:hit:3596:3.2.0.0"],"blastn","TRINITY_DN2942_c0_g1_i4","NODE_17601_length_930_cov_2.520548",65,378]
+[["TRINITY_DN2942_c0_g1_i6","NODE_17601_length_930_cov_2.520548:hit:3597:3.2.0.0"],"blastn","TRINITY_DN2942_c0_g1_i6","NODE_17601_length_930_cov_2.520548",179,569]

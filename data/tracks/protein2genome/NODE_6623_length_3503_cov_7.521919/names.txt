@@ -1,0 +1,1 @@
+[["sp|G9BIY1.1|MVD_GANLU","NODE_6623_length_3503_cov_7.521919:hit:5301:3.10.0.0"],"protein2genome","sp|G9BIY1.1|MVD_GANLU","NODE_6623_length_3503_cov_7.521919",1855,3184]

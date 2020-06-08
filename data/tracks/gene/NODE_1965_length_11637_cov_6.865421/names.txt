@@ -1,0 +1,2 @@
+[["maker-NODE_1965_length_11637_cov_6.865421-augustus-gene-0.2","maker-NODE_1965_length_11637_cov_6.865421-augustus-gene-0.2"],"gene","maker-NODE_1965_length_11637_cov_6.865421-augustus-gene-0.2","NODE_1965_length_11637_cov_6.865421",118,1168]
+[["maker-NODE_1965_length_11637_cov_6.865421-augustus-gene-0.5","maker-NODE_1965_length_11637_cov_6.865421-augustus-gene-0.5"],"gene","maker-NODE_1965_length_11637_cov_6.865421-augustus-gene-0.5","NODE_1965_length_11637_cov_6.865421",1685,11637]

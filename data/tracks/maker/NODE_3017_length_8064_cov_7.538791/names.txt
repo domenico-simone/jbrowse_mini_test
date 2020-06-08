@@ -1,0 +1,2 @@
+[["maker-NODE_3017_length_8064_cov_7.538791-augustus-gene-0.6-mRNA-1","maker-NODE_3017_length_8064_cov_7.538791-augustus-gene-0.6-mRNA-1"],"maker","maker-NODE_3017_length_8064_cov_7.538791-augustus-gene-0.6-mRNA-1","NODE_3017_length_8064_cov_7.538791",556,1487]
+[["maker-NODE_3017_length_8064_cov_7.538791-augustus-gene-0.8-mRNA-1","maker-NODE_3017_length_8064_cov_7.538791-augustus-gene-0.8-mRNA-1"],"maker","maker-NODE_3017_length_8064_cov_7.538791-augustus-gene-0.8-mRNA-1","NODE_3017_length_8064_cov_7.538791",3741,5740]

@@ -1,0 +1,4 @@
+[["sp|O94739.3|CALM_PLEOS","NODE_9549_length_2029_cov_6.464774:hit:7006:3.10.0.0"],"protein2genome","sp|O94739.3|CALM_PLEOS","NODE_9549_length_2029_cov_6.464774",217,870]
+[["sp|P11120.2|CALM_PLECO","NODE_9549_length_2029_cov_6.464774:hit:7007:3.10.0.0"],"protein2genome","sp|P11120.2|CALM_PLECO","NODE_9549_length_2029_cov_6.464774",217,870]
+[["sp|P84339.2|CALM_AGABI","NODE_9549_length_2029_cov_6.464774:hit:7008:3.10.0.0"],"protein2genome","sp|P84339.2|CALM_AGABI","NODE_9549_length_2029_cov_6.464774",217,870]
+[["sp|Q8X187.3|CALM_PAXIN","NODE_9549_length_2029_cov_6.464774:hit:7009:3.10.0.0"],"protein2genome","sp|Q8X187.3|CALM_PAXIN","NODE_9549_length_2029_cov_6.464774",217,870]

@@ -1,0 +1,2 @@
+[["maker-NODE_1879_length_12038_cov_6.868441-snap-gene-0.17-mRNA-1","maker-NODE_1879_length_12038_cov_6.868441-snap-gene-0.17-mRNA-1"],"maker","maker-NODE_1879_length_12038_cov_6.868441-snap-gene-0.17-mRNA-1","NODE_1879_length_12038_cov_6.868441",6494,7030]
+[["maker-NODE_1879_length_12038_cov_6.868441-augustus-gene-0.11-mRNA-1","maker-NODE_1879_length_12038_cov_6.868441-augustus-gene-0.11-mRNA-1"],"maker","maker-NODE_1879_length_12038_cov_6.868441-augustus-gene-0.11-mRNA-1","NODE_1879_length_12038_cov_6.868441",8219,10858]

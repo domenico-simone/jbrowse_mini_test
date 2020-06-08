@@ -1,0 +1,2 @@
+[["sp|Q0H8X4.1|COX3_USTMA","NODE_3932_length_6362_cov_0.731997:hit:40054:3.10.0.0"],"protein2genome","sp|Q0H8X4.1|COX3_USTMA","NODE_3932_length_6362_cov_0.731997",5711,6359]
+[["sp|P14058.2|COX3_SCHCO","NODE_3932_length_6362_cov_0.731997:hit:40053:3.10.0.0"],"protein2genome","sp|P14058.2|COX3_SCHCO","NODE_3932_length_6362_cov_0.731997",5711,6317]

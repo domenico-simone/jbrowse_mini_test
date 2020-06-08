@@ -1,0 +1,2 @@
+[["genemark-NODE_3166_length_7697_cov_8.432968-processed-gene-0.10-mRNA-1","genemark-NODE_3166_length_7697_cov_8.432968-processed-gene-0.10-mRNA-1"],"maker","genemark-NODE_3166_length_7697_cov_8.432968-processed-gene-0.10-mRNA-1","NODE_3166_length_7697_cov_8.432968",628,1338]
+[["augustus-NODE_3166_length_7697_cov_8.432968-processed-gene-0.26-mRNA-1","augustus-NODE_3166_length_7697_cov_8.432968-processed-gene-0.26-mRNA-1"],"maker","augustus-NODE_3166_length_7697_cov_8.432968-processed-gene-0.26-mRNA-1","NODE_3166_length_7697_cov_8.432968",3472,5133]

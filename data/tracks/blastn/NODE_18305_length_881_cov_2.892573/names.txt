@@ -1,0 +1,2 @@
+[["TRINITY_DN8168_c0_g1_i2","NODE_18305_length_881_cov_2.892573:hit:706:3.2.0.0"],"blastn","TRINITY_DN8168_c0_g1_i2","NODE_18305_length_881_cov_2.892573",221,484]
+[["TRINITY_DN8168_c0_g1_i1","NODE_18305_length_881_cov_2.892573:hit:707:3.2.0.0"],"blastn","TRINITY_DN8168_c0_g1_i1","NODE_18305_length_881_cov_2.892573",258,432]

@@ -1,0 +1,2 @@
+[["maker-NODE_2006_length_11434_cov_5.766163-augustus-gene-0.2","maker-NODE_2006_length_11434_cov_5.766163-augustus-gene-0.2"],"gene","maker-NODE_2006_length_11434_cov_5.766163-augustus-gene-0.2","NODE_2006_length_11434_cov_5.766163",3439,6431]
+[["maker-NODE_2006_length_11434_cov_5.766163-snap-gene-0.14","maker-NODE_2006_length_11434_cov_5.766163-snap-gene-0.14"],"gene","maker-NODE_2006_length_11434_cov_5.766163-snap-gene-0.14","NODE_2006_length_11434_cov_5.766163",8339,9681]

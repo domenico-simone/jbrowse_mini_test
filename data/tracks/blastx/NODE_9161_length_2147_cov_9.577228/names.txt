@@ -1,0 +1,1 @@
+[["sp|P56584.2|SIDA_USTMA","NODE_9161_length_2147_cov_9.577228:hit:5569:3.10.0.0"],"blastx","sp|P56584.2|SIDA_USTMA","NODE_9161_length_2147_cov_9.577228",171,1465]

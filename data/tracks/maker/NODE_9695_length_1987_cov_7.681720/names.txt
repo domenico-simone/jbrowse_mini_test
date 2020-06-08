@@ -1,0 +1,2 @@
+[["maker-NODE_9695_length_1987_cov_7.681720-augustus-gene-0.0-mRNA-1","maker-NODE_9695_length_1987_cov_7.681720-augustus-gene-0.0-mRNA-1"],"maker","maker-NODE_9695_length_1987_cov_7.681720-augustus-gene-0.0-mRNA-1","NODE_9695_length_1987_cov_7.681720",56,971]
+[["maker-NODE_9695_length_1987_cov_7.681720-snap-gene-0.5-mRNA-1","maker-NODE_9695_length_1987_cov_7.681720-snap-gene-0.5-mRNA-1"],"maker","maker-NODE_9695_length_1987_cov_7.681720-snap-gene-0.5-mRNA-1","NODE_9695_length_1987_cov_7.681720",1889,1987]

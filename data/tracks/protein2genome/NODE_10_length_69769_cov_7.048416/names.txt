@@ -1,0 +1,1 @@
+[["sp|Q4PCY0.2|CWC22_USTMA","NODE_10_length_69769_cov_7.048416:hit:1680:3.10.0.0"],"protein2genome","sp|Q4PCY0.2|CWC22_USTMA","NODE_10_length_69769_cov_7.048416",49532,51682]

@@ -1,0 +1,2 @@
+[["maker-NODE_2007_length_11416_cov_9.797236-snap-gene-0.1","maker-NODE_2007_length_11416_cov_9.797236-snap-gene-0.1"],"gene","maker-NODE_2007_length_11416_cov_9.797236-snap-gene-0.1","NODE_2007_length_11416_cov_9.797236",4004,5739]
+[["maker-NODE_2007_length_11416_cov_9.797236-snap-gene-0.5","maker-NODE_2007_length_11416_cov_9.797236-snap-gene-0.5"],"gene","maker-NODE_2007_length_11416_cov_9.797236-snap-gene-0.5","NODE_2007_length_11416_cov_9.797236",7432,10281]

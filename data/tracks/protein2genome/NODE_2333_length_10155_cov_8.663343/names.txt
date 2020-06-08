@@ -1,0 +1,1 @@
+[["sp|O42773.1|PP2B1_CRYNH","NODE_2333_length_10155_cov_8.663343:hit:9444:3.10.0.0"],"protein2genome","sp|O42773.1|PP2B1_CRYNH","NODE_2333_length_10155_cov_8.663343",2853,5375]

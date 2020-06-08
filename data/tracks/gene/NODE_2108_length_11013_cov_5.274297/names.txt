@@ -1,0 +1,2 @@
+[["genemark-NODE_2108_length_11013_cov_5.274297-processed-gene-0.10","genemark-NODE_2108_length_11013_cov_5.274297-processed-gene-0.10"],"gene","genemark-NODE_2108_length_11013_cov_5.274297-processed-gene-0.10","NODE_2108_length_11013_cov_5.274297",940,5348]
+[["maker-NODE_2108_length_11013_cov_5.274297-snap-gene-0.2","maker-NODE_2108_length_11013_cov_5.274297-snap-gene-0.2"],"gene","maker-NODE_2108_length_11013_cov_5.274297-snap-gene-0.2","NODE_2108_length_11013_cov_5.274297",5813,7851]

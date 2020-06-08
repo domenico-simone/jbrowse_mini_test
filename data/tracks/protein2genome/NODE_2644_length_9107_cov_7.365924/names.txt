@@ -1,0 +1,1 @@
+[["sp|Q4P9T3.1|CCR4_USTMA","NODE_2644_length_9107_cov_7.365924:hit:17407:3.10.0.0"],"protein2genome","sp|Q4P9T3.1|CCR4_USTMA","NODE_2644_length_9107_cov_7.365924",2759,4460]

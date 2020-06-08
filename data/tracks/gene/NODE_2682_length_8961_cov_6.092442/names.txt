@@ -1,0 +1,2 @@
+[["genemark-NODE_2682_length_8961_cov_6.092442-processed-gene-0.3","genemark-NODE_2682_length_8961_cov_6.092442-processed-gene-0.3"],"gene","genemark-NODE_2682_length_8961_cov_6.092442-processed-gene-0.3","NODE_2682_length_8961_cov_6.092442",434,2196]
+[["maker-NODE_2682_length_8961_cov_6.092442-snap-gene-0.19","maker-NODE_2682_length_8961_cov_6.092442-snap-gene-0.19"],"gene","maker-NODE_2682_length_8961_cov_6.092442-snap-gene-0.19","NODE_2682_length_8961_cov_6.092442",1919,5023]

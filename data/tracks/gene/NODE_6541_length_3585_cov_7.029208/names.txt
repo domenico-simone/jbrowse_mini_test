@@ -1,0 +1,2 @@
+[["genemark-NODE_6541_length_3585_cov_7.029208-processed-gene-0.0","genemark-NODE_6541_length_3585_cov_7.029208-processed-gene-0.0"],"gene","genemark-NODE_6541_length_3585_cov_7.029208-processed-gene-0.0","NODE_6541_length_3585_cov_7.029208",506,1812]
+[["maker-NODE_6541_length_3585_cov_7.029208-augustus-gene-0.13","maker-NODE_6541_length_3585_cov_7.029208-augustus-gene-0.13"],"gene","maker-NODE_6541_length_3585_cov_7.029208-augustus-gene-0.13","NODE_6541_length_3585_cov_7.029208",719,2994]

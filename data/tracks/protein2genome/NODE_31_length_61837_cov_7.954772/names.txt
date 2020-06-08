@@ -1,0 +1,1 @@
+[["sp|P49605.2|KAPR_USTMA","NODE_31_length_61837_cov_7.954772:hit:4657:3.10.0.0"],"protein2genome","sp|P49605.2|KAPR_USTMA","NODE_31_length_61837_cov_7.954772",16893,18100]

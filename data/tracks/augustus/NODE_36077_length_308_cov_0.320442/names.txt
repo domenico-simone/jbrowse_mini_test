@@ -1,0 +1,1 @@
+[["augustus-NODE_36077_length_308_cov_0.320442-abinit-gene-0.0-mRNA-1","NODE_36077_length_308_cov_0.320442:hit:80:4.5.0.0"],"augustus","augustus-NODE_36077_length_308_cov_0.320442-abinit-gene-0.0-mRNA-1","NODE_36077_length_308_cov_0.320442",0,306]

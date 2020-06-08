@@ -1,0 +1,2 @@
+[["TRINITY_DN6611_c0_g1_i2","NODE_17272_length_954_cov_3.154776:hit:2925:3.2.0.0"],"blastn","TRINITY_DN6611_c0_g1_i2","NODE_17272_length_954_cov_3.154776",92,595]
+[["TRINITY_DN6611_c0_g1_i1","NODE_17272_length_954_cov_3.154776:hit:2926:3.2.0.0"],"blastn","TRINITY_DN6611_c0_g1_i1","NODE_17272_length_954_cov_3.154776",188,454]

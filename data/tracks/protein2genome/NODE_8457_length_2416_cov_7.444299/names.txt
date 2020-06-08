@@ -1,0 +1,2 @@
+[["sp|P0CP84.1|PPIL1_CRYNJ","NODE_8457_length_2416_cov_7.444299:hit:2357:3.10.0.0"],"protein2genome","sp|P0CP84.1|PPIL1_CRYNJ","NODE_8457_length_2416_cov_7.444299",21,663]
+[["sp|P0CP85.1|PPIL1_CRYNB","NODE_8457_length_2416_cov_7.444299:hit:2358:3.10.0.0"],"protein2genome","sp|P0CP85.1|PPIL1_CRYNB","NODE_8457_length_2416_cov_7.444299",21,663]

@@ -1,0 +1,2 @@
+[["maker-NODE_5141_length_4940_cov_8.170164-augustus-gene-0.0","maker-NODE_5141_length_4940_cov_8.170164-augustus-gene-0.0"],"gene","maker-NODE_5141_length_4940_cov_8.170164-augustus-gene-0.0","NODE_5141_length_4940_cov_8.170164",197,1950]
+[["maker-NODE_5141_length_4940_cov_8.170164-augustus-gene-0.2","maker-NODE_5141_length_4940_cov_8.170164-augustus-gene-0.2"],"gene","maker-NODE_5141_length_4940_cov_8.170164-augustus-gene-0.2","NODE_5141_length_4940_cov_8.170164",2793,4613]

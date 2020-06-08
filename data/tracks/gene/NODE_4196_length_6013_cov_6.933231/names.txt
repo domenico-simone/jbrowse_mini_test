@@ -1,0 +1,2 @@
+[["snap-NODE_4196_length_6013_cov_6.933231-processed-gene-0.9","snap-NODE_4196_length_6013_cov_6.933231-processed-gene-0.9"],"gene","snap-NODE_4196_length_6013_cov_6.933231-processed-gene-0.9","NODE_4196_length_6013_cov_6.933231",10,2381]
+[["snap-NODE_4196_length_6013_cov_6.933231-processed-gene-0.10","snap-NODE_4196_length_6013_cov_6.933231-processed-gene-0.10"],"gene","snap-NODE_4196_length_6013_cov_6.933231-processed-gene-0.10","NODE_4196_length_6013_cov_6.933231",3991,6013]

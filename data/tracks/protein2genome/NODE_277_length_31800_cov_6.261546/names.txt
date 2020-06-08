@@ -1,0 +1,2 @@
+[["sp|P0CR54.1|SNF7_CRYNJ","NODE_277_length_31800_cov_6.261546:hit:31896:3.10.0.0"],"protein2genome","sp|P0CR54.1|SNF7_CRYNJ","NODE_277_length_31800_cov_6.261546",990,2020]
+[["sp|P0CR55.1|SNF7_CRYNB","NODE_277_length_31800_cov_6.261546:hit:31897:3.10.0.0"],"protein2genome","sp|P0CR55.1|SNF7_CRYNB","NODE_277_length_31800_cov_6.261546",990,2020]

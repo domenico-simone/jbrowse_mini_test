@@ -1,0 +1,2 @@
+[["sp|Q4P7J7.3|H31_USTMA","NODE_12888_length_1378_cov_0.499600:hit:2478:3.10.0.0"],"protein2genome","sp|Q4P7J7.3|H31_USTMA","NODE_12888_length_1378_cov_0.499600",402,883]
+[["sp|Q4PB04.3|H32_USTMA","NODE_12888_length_1378_cov_0.499600:hit:2479:3.10.0.0"],"protein2genome","sp|Q4PB04.3|H32_USTMA","NODE_12888_length_1378_cov_0.499600",402,859]

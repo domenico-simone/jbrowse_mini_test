@@ -1,0 +1,2 @@
+[["TRINITY_DN14518_c0_g1_i1","NODE_9665_length_1997_cov_8.149198:hit:7528:3.2.0.0"],"est2genome","TRINITY_DN14518_c0_g1_i1","NODE_9665_length_1997_cov_8.149198",770,1973]
+[["TRINITY_DN14518_c0_g1_i2","NODE_9665_length_1997_cov_8.149198:hit:7529:3.2.0.0"],"est2genome","TRINITY_DN14518_c0_g1_i2","NODE_9665_length_1997_cov_8.149198",770,1950]

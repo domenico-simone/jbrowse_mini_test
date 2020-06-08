@@ -1,0 +1,2 @@
+[["sp|P0CO20.1|MPG1_CRYNJ","NODE_2080_length_11148_cov_7.615824:hit:2423:3.10.0.0"],"protein2genome","sp|P0CO20.1|MPG1_CRYNJ","NODE_2080_length_11148_cov_7.615824",4524,5909]
+[["sp|P0CO21.1|MPG1_CRYNB","NODE_2080_length_11148_cov_7.615824:hit:2424:3.10.0.0"],"protein2genome","sp|P0CO21.1|MPG1_CRYNB","NODE_2080_length_11148_cov_7.615824",4524,5909]

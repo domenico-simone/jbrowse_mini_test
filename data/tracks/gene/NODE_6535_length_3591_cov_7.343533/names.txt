@@ -1,0 +1,2 @@
+[["genemark-NODE_6535_length_3591_cov_7.343533-processed-gene-0.1","genemark-NODE_6535_length_3591_cov_7.343533-processed-gene-0.1"],"gene","genemark-NODE_6535_length_3591_cov_7.343533-processed-gene-0.1","NODE_6535_length_3591_cov_7.343533",2,2051]
+[["genemark-NODE_6535_length_3591_cov_7.343533-processed-gene-0.0","genemark-NODE_6535_length_3591_cov_7.343533-processed-gene-0.0"],"gene","genemark-NODE_6535_length_3591_cov_7.343533-processed-gene-0.0","NODE_6535_length_3591_cov_7.343533",1900,3559]

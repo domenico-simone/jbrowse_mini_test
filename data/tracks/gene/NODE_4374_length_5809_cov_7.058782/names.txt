@@ -1,0 +1,2 @@
+[["maker-NODE_4374_length_5809_cov_7.058782-augustus-gene-0.6","maker-NODE_4374_length_5809_cov_7.058782-augustus-gene-0.6"],"gene","maker-NODE_4374_length_5809_cov_7.058782-augustus-gene-0.6","NODE_4374_length_5809_cov_7.058782",0,2730]
+[["maker-NODE_4374_length_5809_cov_7.058782-augustus-gene-0.9","maker-NODE_4374_length_5809_cov_7.058782-augustus-gene-0.9"],"gene","maker-NODE_4374_length_5809_cov_7.058782-augustus-gene-0.9","NODE_4374_length_5809_cov_7.058782",3137,4637]

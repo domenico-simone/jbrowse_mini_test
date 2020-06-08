@@ -1,0 +1,1 @@
+[["sp|A8N5E5.1|SEY1_COPC7","NODE_1907_length_11924_cov_6.455031:hit:120728:3.10.0.0"],"protein2genome","sp|A8N5E5.1|SEY1_COPC7","NODE_1907_length_11924_cov_6.455031",6536,8658]

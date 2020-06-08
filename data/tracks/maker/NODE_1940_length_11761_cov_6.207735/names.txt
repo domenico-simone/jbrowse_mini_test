@@ -1,0 +1,2 @@
+[["maker-NODE_1940_length_11761_cov_6.207735-snap-gene-0.20-mRNA-1","maker-NODE_1940_length_11761_cov_6.207735-snap-gene-0.20-mRNA-1"],"maker","maker-NODE_1940_length_11761_cov_6.207735-snap-gene-0.20-mRNA-1","NODE_1940_length_11761_cov_6.207735",3239,5519]
+[["snap-NODE_1940_length_11761_cov_6.207735-processed-gene-0.18-mRNA-1","snap-NODE_1940_length_11761_cov_6.207735-processed-gene-0.18-mRNA-1"],"maker","snap-NODE_1940_length_11761_cov_6.207735-processed-gene-0.18-mRNA-1","NODE_1940_length_11761_cov_6.207735",7055,10628]

@@ -1,0 +1,2 @@
+[["augustus-NODE_6063_length_4027_cov_7.612051-processed-gene-0.6-mRNA-1","augustus-NODE_6063_length_4027_cov_7.612051-processed-gene-0.6-mRNA-1"],"maker","augustus-NODE_6063_length_4027_cov_7.612051-processed-gene-0.6-mRNA-1","NODE_6063_length_4027_cov_7.612051",14,1686]
+[["genemark-NODE_6063_length_4027_cov_7.612051-processed-gene-0.9-mRNA-1","genemark-NODE_6063_length_4027_cov_7.612051-processed-gene-0.9-mRNA-1"],"maker","genemark-NODE_6063_length_4027_cov_7.612051-processed-gene-0.9-mRNA-1","NODE_6063_length_4027_cov_7.612051",1973,4025]

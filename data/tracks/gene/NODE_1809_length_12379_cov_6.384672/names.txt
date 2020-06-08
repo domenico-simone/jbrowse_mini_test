@@ -1,0 +1,2 @@
+[["maker-NODE_1809_length_12379_cov_6.384672-snap-gene-0.5","maker-NODE_1809_length_12379_cov_6.384672-snap-gene-0.5"],"gene","maker-NODE_1809_length_12379_cov_6.384672-snap-gene-0.5","NODE_1809_length_12379_cov_6.384672",699,5364]
+[["genemark-NODE_1809_length_12379_cov_6.384672-processed-gene-0.1","genemark-NODE_1809_length_12379_cov_6.384672-processed-gene-0.1"],"gene","genemark-NODE_1809_length_12379_cov_6.384672-processed-gene-0.1","NODE_1809_length_12379_cov_6.384672",7179,9580]

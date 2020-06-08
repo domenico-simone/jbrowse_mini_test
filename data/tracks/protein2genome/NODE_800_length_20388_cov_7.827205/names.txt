@@ -1,0 +1,2 @@
+[["sp|P87033.1|GPA2_USTMA","NODE_800_length_20388_cov_7.827205:hit:71358:3.10.0.0"],"protein2genome","sp|P87033.1|GPA2_USTMA","NODE_800_length_20388_cov_7.827205",1413,2320]
+[["sp|P87032.1|GPA1_USTMA","NODE_800_length_20388_cov_7.827205:hit:71359:3.10.0.0"],"protein2genome","sp|P87032.1|GPA1_USTMA","NODE_800_length_20388_cov_7.827205",1419,2320]

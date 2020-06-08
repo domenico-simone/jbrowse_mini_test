@@ -1,0 +1,2 @@
+[["snap-NODE_3579_length_6861_cov_9.102614-processed-gene-0.4","snap-NODE_3579_length_6861_cov_9.102614-processed-gene-0.4"],"gene","snap-NODE_3579_length_6861_cov_9.102614-processed-gene-0.4","NODE_3579_length_6861_cov_9.102614",1293,3763]
+[["snap-NODE_3579_length_6861_cov_9.102614-processed-gene-0.5","snap-NODE_3579_length_6861_cov_9.102614-processed-gene-0.5"],"gene","snap-NODE_3579_length_6861_cov_9.102614-processed-gene-0.5","NODE_3579_length_6861_cov_9.102614",3948,5079]

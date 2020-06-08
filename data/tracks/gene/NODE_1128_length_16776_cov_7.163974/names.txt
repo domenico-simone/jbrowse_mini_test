@@ -1,0 +1,2 @@
+[["augustus-NODE_1128_length_16776_cov_7.163974-processed-gene-0.1","augustus-NODE_1128_length_16776_cov_7.163974-processed-gene-0.1"],"gene","augustus-NODE_1128_length_16776_cov_7.163974-processed-gene-0.1","NODE_1128_length_16776_cov_7.163974",1223,3700]
+[["maker-NODE_1128_length_16776_cov_7.163974-snap-gene-0.18","maker-NODE_1128_length_16776_cov_7.163974-snap-gene-0.18"],"gene","maker-NODE_1128_length_16776_cov_7.163974-snap-gene-0.18","NODE_1128_length_16776_cov_7.163974",9807,13603]

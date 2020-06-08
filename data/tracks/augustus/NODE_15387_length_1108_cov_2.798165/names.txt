@@ -1,0 +1,2 @@
+[["augustus-NODE_15387_length_1108_cov_2.798165-abinit-gene-0.4-mRNA-1","NODE_15387_length_1108_cov_2.798165:hit:3400:4.5.0.0"],"augustus","augustus-NODE_15387_length_1108_cov_2.798165-abinit-gene-0.4-mRNA-1","NODE_15387_length_1108_cov_2.798165",104,233]
+[["augustus-NODE_15387_length_1108_cov_2.798165-abinit-gene-0.5-mRNA-1","NODE_15387_length_1108_cov_2.798165:hit:3403:4.5.0.0"],"augustus","augustus-NODE_15387_length_1108_cov_2.798165-abinit-gene-0.5-mRNA-1","NODE_15387_length_1108_cov_2.798165",806,1019]

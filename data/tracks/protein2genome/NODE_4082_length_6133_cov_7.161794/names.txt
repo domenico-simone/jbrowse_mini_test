@@ -1,0 +1,4 @@
+[["sp|P0CN61.1|ETFA_CRYNB","NODE_4082_length_6133_cov_7.161794:hit:991:3.10.0.0"],"protein2genome","sp|P0CN61.1|ETFA_CRYNB","NODE_4082_length_6133_cov_7.161794",1003,2026]
+[["sp|Q5Y223.1|ETFA_CRYGW","NODE_4082_length_6133_cov_7.161794:hit:992:3.10.0.0"],"protein2genome","sp|Q5Y223.1|ETFA_CRYGW","NODE_4082_length_6133_cov_7.161794",1003,2026]
+[["sp|Q8J112.1|ETFA_CRYNV","NODE_4082_length_6133_cov_7.161794:hit:993:3.10.0.0"],"protein2genome","sp|Q8J112.1|ETFA_CRYNV","NODE_4082_length_6133_cov_7.161794",1003,2026]
+[["sp|P0CN60.1|ETFA_CRYNJ","NODE_4082_length_6133_cov_7.161794:hit:994:3.10.0.0"],"protein2genome","sp|P0CN60.1|ETFA_CRYNJ","NODE_4082_length_6133_cov_7.161794",1003,2026]

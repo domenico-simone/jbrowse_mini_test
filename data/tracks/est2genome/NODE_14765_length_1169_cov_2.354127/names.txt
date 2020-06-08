@@ -1,0 +1,2 @@
+[["TRINITY_DN8366_c0_g1_i1","NODE_14765_length_1169_cov_2.354127:hit:1970:3.2.0.0"],"est2genome","TRINITY_DN8366_c0_g1_i1","NODE_14765_length_1169_cov_2.354127",295,555]
+[["TRINITY_DN11605_c0_g1_i1","NODE_14765_length_1169_cov_2.354127:hit:1971:3.2.0.0"],"est2genome","TRINITY_DN11605_c0_g1_i1","NODE_14765_length_1169_cov_2.354127",467,718]

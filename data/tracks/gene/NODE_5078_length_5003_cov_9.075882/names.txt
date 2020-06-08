@@ -1,0 +1,2 @@
+[["augustus-NODE_5078_length_5003_cov_9.075882-processed-gene-0.12","augustus-NODE_5078_length_5003_cov_9.075882-processed-gene-0.12"],"gene","augustus-NODE_5078_length_5003_cov_9.075882-processed-gene-0.12","NODE_5078_length_5003_cov_9.075882",116,3356]
+[["maker-NODE_5078_length_5003_cov_9.075882-augustus-gene-0.0","maker-NODE_5078_length_5003_cov_9.075882-augustus-gene-0.0"],"gene","maker-NODE_5078_length_5003_cov_9.075882-augustus-gene-0.0","NODE_5078_length_5003_cov_9.075882",3473,4675]

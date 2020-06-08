@@ -1,0 +1,2 @@
+[["snap-NODE_474_length_26210_cov_8.420159-processed-gene-0.26","snap-NODE_474_length_26210_cov_8.420159-processed-gene-0.26"],"gene","snap-NODE_474_length_26210_cov_8.420159-processed-gene-0.26","NODE_474_length_26210_cov_8.420159",3444,6445]
+[["maker-NODE_474_length_26210_cov_8.420159-snap-gene-0.14","maker-NODE_474_length_26210_cov_8.420159-snap-gene-0.14"],"gene","maker-NODE_474_length_26210_cov_8.420159-snap-gene-0.14","NODE_474_length_26210_cov_8.420159",12787,20995]

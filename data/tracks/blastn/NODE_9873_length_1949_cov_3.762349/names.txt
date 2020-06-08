@@ -1,0 +1,2 @@
+[["TRINITY_DN1312_c0_g1_i7","NODE_9873_length_1949_cov_3.762349:hit:8330:3.2.0.0"],"blastn","TRINITY_DN1312_c0_g1_i7","NODE_9873_length_1949_cov_3.762349",27,1073]
+[["TRINITY_DN1312_c0_g1_i3","NODE_9873_length_1949_cov_3.762349:hit:8331:3.2.0.0"],"blastn","TRINITY_DN1312_c0_g1_i3","NODE_9873_length_1949_cov_3.762349",27,1073]

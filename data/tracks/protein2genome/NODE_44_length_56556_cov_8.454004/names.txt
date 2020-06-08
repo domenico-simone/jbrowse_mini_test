@@ -1,0 +1,2 @@
+[["sp|P87032.1|GPA1_USTMA","NODE_44_length_56556_cov_8.454004:hit:6222:3.10.0.0"],"protein2genome","sp|P87032.1|GPA1_USTMA","NODE_44_length_56556_cov_8.454004",31139,32679]
+[["sp|P30675.3|GPA1_COPCO","NODE_44_length_56556_cov_8.454004:hit:6223:3.10.0.0"],"protein2genome","sp|P30675.3|GPA1_COPCO","NODE_44_length_56556_cov_8.454004",31163,32679]

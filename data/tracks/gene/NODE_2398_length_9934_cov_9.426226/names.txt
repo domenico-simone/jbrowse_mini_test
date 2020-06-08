@@ -1,0 +1,2 @@
+[["maker-NODE_2398_length_9934_cov_9.426226-augustus-gene-0.8","maker-NODE_2398_length_9934_cov_9.426226-augustus-gene-0.8"],"gene","maker-NODE_2398_length_9934_cov_9.426226-augustus-gene-0.8","NODE_2398_length_9934_cov_9.426226",0,2109]
+[["genemark-NODE_2398_length_9934_cov_9.426226-processed-gene-0.14","genemark-NODE_2398_length_9934_cov_9.426226-processed-gene-0.14"],"gene","genemark-NODE_2398_length_9934_cov_9.426226-processed-gene-0.14","NODE_2398_length_9934_cov_9.426226",6595,8231]

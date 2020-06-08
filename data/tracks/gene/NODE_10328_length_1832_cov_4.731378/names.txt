@@ -1,0 +1,2 @@
+[["maker-NODE_10328_length_1832_cov_4.731378-augustus-gene-0.1","maker-NODE_10328_length_1832_cov_4.731378-augustus-gene-0.1"],"gene","maker-NODE_10328_length_1832_cov_4.731378-augustus-gene-0.1","NODE_10328_length_1832_cov_4.731378",13,653]
+[["genemark-NODE_10328_length_1832_cov_4.731378-processed-gene-0.8","genemark-NODE_10328_length_1832_cov_4.731378-processed-gene-0.8"],"gene","genemark-NODE_10328_length_1832_cov_4.731378-processed-gene-0.8","NODE_10328_length_1832_cov_4.731378",1281,1816]
