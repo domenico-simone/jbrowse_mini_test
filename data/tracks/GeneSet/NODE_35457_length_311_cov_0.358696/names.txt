@@ -1,2 +1,0 @@
-[["NODE_35457_length_311_cov_0.358696","NODE_35457_length_311_cov_0.358696"],"GeneSet","NODE_35457_length_311_cov_0.358696","NODE_35457_length_311_cov_0.358696",0,311]
-[["species:(CTATAA)n|genus:Simple_repeat","NODE_35457_length_311_cov_0.358696:hit:3278:1.3.0.0"],"GeneSet","species:(CTATAA)n|genus:Simple_repeat","NODE_35457_length_311_cov_0.358696",112,172]

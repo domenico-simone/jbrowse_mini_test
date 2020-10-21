@@ -1,2 +1,0 @@
-[["maker-NODE_9942_length_1932_cov_2.090305-snap-gene-0.9","maker-NODE_9942_length_1932_cov_2.090305-snap-gene-0.9"],"gene","maker-NODE_9942_length_1932_cov_2.090305-snap-gene-0.9","NODE_9942_length_1932_cov_2.090305",477,1355]
-[["maker-NODE_9942_length_1932_cov_2.090305-snap-gene-0.8","maker-NODE_9942_length_1932_cov_2.090305-snap-gene-0.8"],"gene","maker-NODE_9942_length_1932_cov_2.090305-snap-gene-0.8","NODE_9942_length_1932_cov_2.090305",1358,1907]

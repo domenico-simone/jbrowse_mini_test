@@ -1,2 +1,0 @@
-[["genemark-NODE_3166_length_7697_cov_8.432968-processed-gene-0.10","genemark-NODE_3166_length_7697_cov_8.432968-processed-gene-0.10"],"gene","genemark-NODE_3166_length_7697_cov_8.432968-processed-gene-0.10","NODE_3166_length_7697_cov_8.432968",628,1338]
-[["augustus-NODE_3166_length_7697_cov_8.432968-processed-gene-0.26","augustus-NODE_3166_length_7697_cov_8.432968-processed-gene-0.26"],"gene","augustus-NODE_3166_length_7697_cov_8.432968-processed-gene-0.26","NODE_3166_length_7697_cov_8.432968",3472,5133]

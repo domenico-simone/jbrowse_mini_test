@@ -1,3 +1,0 @@
-[["NODE_26687_length_402_cov_0.654545","NODE_26687_length_402_cov_0.654545"],"GeneSet","NODE_26687_length_402_cov_0.654545","NODE_26687_length_402_cov_0.654545",0,402]
-[["species:(T)n|genus:Simple_repeat","NODE_26687_length_402_cov_0.654545:hit:5825:1.3.0.0"],"GeneSet","species:(T)n|genus:Simple_repeat","NODE_26687_length_402_cov_0.654545",124,155]
-[["species:(T)n|genus:Simple_repeat","NODE_26687_length_402_cov_0.654545:hit:5826:1.3.0.0"],"GeneSet","species:(T)n|genus:Simple_repeat","NODE_26687_length_402_cov_0.654545",347,372]

@@ -1,2 +1,0 @@
-[["TRINITY_DN9074_c0_g1_i1","NODE_21567_length_631_cov_0.914683:hit:2543:3.2.0.0"],"blastn","TRINITY_DN9074_c0_g1_i1","NODE_21567_length_631_cov_0.914683",369,631]
-[["TRINITY_DN9074_c0_g1_i2","NODE_21567_length_631_cov_0.914683:hit:2544:3.2.0.0"],"blastn","TRINITY_DN9074_c0_g1_i2","NODE_21567_length_631_cov_0.914683",369,611]

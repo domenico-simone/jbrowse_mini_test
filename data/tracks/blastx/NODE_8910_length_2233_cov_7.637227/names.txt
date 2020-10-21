@@ -1,1 +1,0 @@
-[["sp|P87033.1|GPA2_USTMA","NODE_8910_length_2233_cov_7.637227:hit:4503:3.10.0.0"],"blastx","sp|P87033.1|GPA2_USTMA","NODE_8910_length_2233_cov_7.637227",54,1913]

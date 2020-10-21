@@ -1,2 +1,0 @@
-[["genemark-NODE_9594_length_2018_cov_1.009519-abinit-gene-0.2-mRNA-1","NODE_9594_length_2018_cov_1.009519:hit:7223:4.5.0.0"],"genemark","genemark-NODE_9594_length_2018_cov_1.009519-abinit-gene-0.2-mRNA-1","NODE_9594_length_2018_cov_1.009519",36,783]
-[["genemark-NODE_9594_length_2018_cov_1.009519-abinit-gene-0.3-mRNA-1","NODE_9594_length_2018_cov_1.009519:hit:7228:4.5.0.0"],"genemark","genemark-NODE_9594_length_2018_cov_1.009519-abinit-gene-0.3-mRNA-1","NODE_9594_length_2018_cov_1.009519",1044,1900]

@@ -1,2 +1,0 @@
-[["maker-NODE_1053_length_17585_cov_7.243198-augustus-gene-0.15","maker-NODE_1053_length_17585_cov_7.243198-augustus-gene-0.15"],"gene","maker-NODE_1053_length_17585_cov_7.243198-augustus-gene-0.15","NODE_1053_length_17585_cov_7.243198",732,3171]
-[["maker-NODE_1053_length_17585_cov_7.243198-snap-gene-0.13","maker-NODE_1053_length_17585_cov_7.243198-snap-gene-0.13"],"gene","maker-NODE_1053_length_17585_cov_7.243198-snap-gene-0.13","NODE_1053_length_17585_cov_7.243198",6599,10068]

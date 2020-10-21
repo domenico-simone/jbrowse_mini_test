@@ -1,2 +1,0 @@
-[["maker-NODE_2190_length_10694_cov_8.124917-snap-gene-0.21-mRNA-1","maker-NODE_2190_length_10694_cov_8.124917-snap-gene-0.21-mRNA-1"],"maker","maker-NODE_2190_length_10694_cov_8.124917-snap-gene-0.21-mRNA-1","NODE_2190_length_10694_cov_8.124917",3199,6638]
-[["genemark-NODE_2190_length_10694_cov_8.124917-processed-gene-0.11-mRNA-1","genemark-NODE_2190_length_10694_cov_8.124917-processed-gene-0.11-mRNA-1"],"maker","genemark-NODE_2190_length_10694_cov_8.124917-processed-gene-0.11-mRNA-1","NODE_2190_length_10694_cov_8.124917",6719,10310]

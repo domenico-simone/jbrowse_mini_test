@@ -1,2 +1,0 @@
-[["NODE_29837_length_351_cov_2.549107","NODE_29837_length_351_cov_2.549107"],"GeneSet","NODE_29837_length_351_cov_2.549107","NODE_29837_length_351_cov_2.549107",0,351]
-[["species:(GCTGACA)n|genus:Simple_repeat","NODE_29837_length_351_cov_2.549107:hit:2172:1.3.0.0"],"GeneSet","species:(GCTGACA)n|genus:Simple_repeat","NODE_29837_length_351_cov_2.549107",210,249]

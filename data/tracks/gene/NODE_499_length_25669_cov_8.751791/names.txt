@@ -1,2 +1,0 @@
-[["snap-NODE_499_length_25669_cov_8.751791-processed-gene-0.11","snap-NODE_499_length_25669_cov_8.751791-processed-gene-0.11"],"gene","snap-NODE_499_length_25669_cov_8.751791-processed-gene-0.11","NODE_499_length_25669_cov_8.751791",5148,11284]
-[["genemark-NODE_499_length_25669_cov_8.751791-processed-gene-0.3","genemark-NODE_499_length_25669_cov_8.751791-processed-gene-0.3"],"gene","genemark-NODE_499_length_25669_cov_8.751791-processed-gene-0.3","NODE_499_length_25669_cov_8.751791",20164,24143]

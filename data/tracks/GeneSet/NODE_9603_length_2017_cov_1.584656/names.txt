@@ -1,3 +1,0 @@
-[["NODE_9603_length_2017_cov_1.584656","NODE_9603_length_2017_cov_1.584656"],"GeneSet","NODE_9603_length_2017_cov_1.584656","NODE_9603_length_2017_cov_1.584656",0,2017]
-[["species:DNA3-4_PSt|genus:DNA","NODE_9603_length_2017_cov_1.584656:hit:5535:1.3.0.0"],"GeneSet","species:DNA3-4_PSt|genus:DNA","NODE_9603_length_2017_cov_1.584656",1099,1167]
-[["species:DNA3-5_PSt|genus:DNA","NODE_9603_length_2017_cov_1.584656:hit:5536:1.3.0.0"],"GeneSet","species:DNA3-5_PSt|genus:DNA","NODE_9603_length_2017_cov_1.584656",1759,1826]

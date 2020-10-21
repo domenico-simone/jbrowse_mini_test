@@ -1,2 +1,0 @@
-[["NODE_37892_length_299_cov_3.744186","NODE_37892_length_299_cov_3.744186"],"GeneSet","NODE_37892_length_299_cov_3.744186","NODE_37892_length_299_cov_3.744186",0,299]
-[["species:Helitron-5_PGr|genus:RC/Helitron","NODE_37892_length_299_cov_3.744186:hit:181:1.3.0.0"],"GeneSet","species:Helitron-5_PGr|genus:RC/Helitron","NODE_37892_length_299_cov_3.744186",67,131]

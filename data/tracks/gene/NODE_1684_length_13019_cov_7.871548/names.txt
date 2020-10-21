@@ -1,3 +1,0 @@
-[["genemark-NODE_1684_length_13019_cov_7.871548-processed-gene-0.22","genemark-NODE_1684_length_13019_cov_7.871548-processed-gene-0.22"],"gene","genemark-NODE_1684_length_13019_cov_7.871548-processed-gene-0.22","NODE_1684_length_13019_cov_7.871548",77,1015]
-[["maker-NODE_1684_length_13019_cov_7.871548-augustus-gene-0.6","maker-NODE_1684_length_13019_cov_7.871548-augustus-gene-0.6"],"gene","maker-NODE_1684_length_13019_cov_7.871548-augustus-gene-0.6","NODE_1684_length_13019_cov_7.871548",1587,4300]
-[["maker-NODE_1684_length_13019_cov_7.871548-snap-gene-0.17","maker-NODE_1684_length_13019_cov_7.871548-snap-gene-0.17"],"gene","maker-NODE_1684_length_13019_cov_7.871548-snap-gene-0.17","NODE_1684_length_13019_cov_7.871548",6405,10807]

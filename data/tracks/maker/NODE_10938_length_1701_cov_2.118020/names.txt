@@ -1,2 +1,0 @@
-[["genemark-NODE_10938_length_1701_cov_2.118020-processed-gene-0.0-mRNA-1","genemark-NODE_10938_length_1701_cov_2.118020-processed-gene-0.0-mRNA-1"],"maker","genemark-NODE_10938_length_1701_cov_2.118020-processed-gene-0.0-mRNA-1","NODE_10938_length_1701_cov_2.118020",633,768]
-[["maker-NODE_10938_length_1701_cov_2.118020-snap-gene-0.4-mRNA-1","maker-NODE_10938_length_1701_cov_2.118020-snap-gene-0.4-mRNA-1"],"maker","maker-NODE_10938_length_1701_cov_2.118020-snap-gene-0.4-mRNA-1","NODE_10938_length_1701_cov_2.118020",805,1376]

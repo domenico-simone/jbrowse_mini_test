@@ -1,2 +1,0 @@
-[["NODE_12037_length_1501_cov_8.855167","NODE_12037_length_1501_cov_8.855167"],"GeneSet","NODE_12037_length_1501_cov_8.855167","NODE_12037_length_1501_cov_8.855167",0,1501]
-[["species:(AACATT)n|genus:Simple_repeat","NODE_12037_length_1501_cov_8.855167:hit:2175:1.3.0.0"],"GeneSet","species:(AACATT)n|genus:Simple_repeat","NODE_12037_length_1501_cov_8.855167",1375,1419]

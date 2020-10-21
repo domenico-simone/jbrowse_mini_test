@@ -1,2 +1,0 @@
-[["NODE_7635_length_2805_cov_1.319642","NODE_7635_length_2805_cov_1.319642"],"GeneSet","NODE_7635_length_2805_cov_1.319642","NODE_7635_length_2805_cov_1.319642",0,2805]
-[["species:DNA3-5_PSt|genus:DNA","NODE_7635_length_2805_cov_1.319642:hit:7967:1.3.0.0"],"GeneSet","species:DNA3-5_PSt|genus:DNA","NODE_7635_length_2805_cov_1.319642",2662,2729]

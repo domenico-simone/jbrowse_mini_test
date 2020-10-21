@@ -1,2 +1,0 @@
-[["maker-NODE_2495_length_9560_cov_5.468462-augustus-gene-0.4-mRNA-1","maker-NODE_2495_length_9560_cov_5.468462-augustus-gene-0.4-mRNA-1"],"maker","maker-NODE_2495_length_9560_cov_5.468462-augustus-gene-0.4-mRNA-1","NODE_2495_length_9560_cov_5.468462",2430,4232]
-[["genemark-NODE_2495_length_9560_cov_5.468462-processed-gene-0.8-mRNA-1","genemark-NODE_2495_length_9560_cov_5.468462-processed-gene-0.8-mRNA-1"],"maker","genemark-NODE_2495_length_9560_cov_5.468462-processed-gene-0.8-mRNA-1","NODE_2495_length_9560_cov_5.468462",6007,6837]

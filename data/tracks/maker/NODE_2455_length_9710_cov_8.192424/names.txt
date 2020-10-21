@@ -1,2 +1,0 @@
-[["snap-NODE_2455_length_9710_cov_8.192424-processed-gene-0.10-mRNA-1","snap-NODE_2455_length_9710_cov_8.192424-processed-gene-0.10-mRNA-1"],"maker","snap-NODE_2455_length_9710_cov_8.192424-processed-gene-0.10-mRNA-1","NODE_2455_length_9710_cov_8.192424",326,1692]
-[["maker-NODE_2455_length_9710_cov_8.192424-snap-gene-0.5-mRNA-1","maker-NODE_2455_length_9710_cov_8.192424-snap-gene-0.5-mRNA-1"],"maker","maker-NODE_2455_length_9710_cov_8.192424-snap-gene-0.5-mRNA-1","NODE_2455_length_9710_cov_8.192424",2853,9101]

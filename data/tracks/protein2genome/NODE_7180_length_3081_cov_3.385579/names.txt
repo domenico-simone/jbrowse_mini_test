@@ -1,3 +1,0 @@
-[["sp|P0CS16.1|UBC2_CRYNJ","NODE_7180_length_3081_cov_3.385579:hit:9385:3.10.0.0"],"protein2genome","sp|P0CS16.1|UBC2_CRYNJ","NODE_7180_length_3081_cov_3.385579",2422,3080]
-[["sp|P0CS17.1|UBC2_CRYNB","NODE_7180_length_3081_cov_3.385579:hit:9386:3.10.0.0"],"protein2genome","sp|P0CS17.1|UBC2_CRYNB","NODE_7180_length_3081_cov_3.385579",2422,3080]
-[["sp|Q4PFA5.1|UBC2_USTMA","NODE_7180_length_3081_cov_3.385579:hit:9387:3.10.0.0"],"protein2genome","sp|Q4PFA5.1|UBC2_USTMA","NODE_7180_length_3081_cov_3.385579",2422,3080]

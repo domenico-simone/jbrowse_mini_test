@@ -1,2 +1,0 @@
-[["maker-NODE_1330_length_15343_cov_7.149317-snap-gene-0.16-mRNA-1","maker-NODE_1330_length_15343_cov_7.149317-snap-gene-0.16-mRNA-1"],"maker","maker-NODE_1330_length_15343_cov_7.149317-snap-gene-0.16-mRNA-1","NODE_1330_length_15343_cov_7.149317",5442,6067]
-[["genemark-NODE_1330_length_15343_cov_7.149317-processed-gene-0.33-mRNA-1","genemark-NODE_1330_length_15343_cov_7.149317-processed-gene-0.33-mRNA-1"],"maker","genemark-NODE_1330_length_15343_cov_7.149317-processed-gene-0.33-mRNA-1","NODE_1330_length_15343_cov_7.149317",6609,14040]

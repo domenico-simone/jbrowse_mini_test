@@ -1,2 +1,0 @@
-[["sp|Q0H8Y6.1|ATP6_USTMA","NODE_14607_length_1186_cov_0.502361:hit:1588:3.10.0.0"],"protein2genome","sp|Q0H8Y6.1|ATP6_USTMA","NODE_14607_length_1186_cov_0.502361",375,828]
-[["sp|Q0H8Y5.1|ATP8_USTMA","NODE_14607_length_1186_cov_0.502361:hit:1589:3.10.0.0"],"protein2genome","sp|Q0H8Y5.1|ATP8_USTMA","NODE_14607_length_1186_cov_0.502361",977,1121]

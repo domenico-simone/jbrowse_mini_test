@@ -1,2 +1,0 @@
-[["TRINITY_DN15180_c0_g1_i1","NODE_22623_length_568_cov_2.233560:hit:944:3.2.0.0"],"blastn","TRINITY_DN15180_c0_g1_i1","NODE_22623_length_568_cov_2.233560",257,365]
-[["TRINITY_DN15180_c1_g1_i1","NODE_22623_length_568_cov_2.233560:hit:945:3.2.0.0"],"blastn","TRINITY_DN15180_c1_g1_i1","NODE_22623_length_568_cov_2.233560",309,520]

@@ -1,2 +1,0 @@
-[["sp|A8NR45.1|ACEA_COPC7","NODE_23_length_64098_cov_9.459067:hit:3548:3.10.0.0"],"protein2genome","sp|A8NR45.1|ACEA_COPC7","NODE_23_length_64098_cov_9.459067",12151,14183]
-[["sp|O13439.1|ACEA_COPCI","NODE_23_length_64098_cov_9.459067:hit:3549:3.10.0.0"],"protein2genome","sp|O13439.1|ACEA_COPCI","NODE_23_length_64098_cov_9.459067",12151,14183]

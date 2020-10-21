@@ -1,5 +1,0 @@
-[["NODE_18100_length_896_cov_6.184655","NODE_18100_length_896_cov_6.184655"],"GeneSet","NODE_18100_length_896_cov_6.184655","NODE_18100_length_896_cov_6.184655",0,896]
-[["TRINITY_DN21935_c0_g1_i1","NODE_18100_length_896_cov_6.184655:hit:7009:3.2.0.0"],"GeneSet","TRINITY_DN21935_c0_g1_i1","NODE_18100_length_896_cov_6.184655",389,694]
-[["TRINITY_DN21935_c0_g1_i1","NODE_18100_length_896_cov_6.184655:hit:7010:3.2.0.0"],"GeneSet","TRINITY_DN21935_c0_g1_i1","NODE_18100_length_896_cov_6.184655",389,694]
-[["species:(TTTAA)n|genus:Simple_repeat","NODE_18100_length_896_cov_6.184655:hit:7007:1.3.0.0"],"GeneSet","species:(TTTAA)n|genus:Simple_repeat","NODE_18100_length_896_cov_6.184655",730,775]
-[["species:A-rich|genus:Low_complexity","NODE_18100_length_896_cov_6.184655:hit:7008:1.3.0.0"],"GeneSet","species:A-rich|genus:Low_complexity","NODE_18100_length_896_cov_6.184655",771,844]

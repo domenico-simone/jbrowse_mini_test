@@ -1,2 +1,0 @@
-[["NODE_7017_length_3205_cov_3.073749","NODE_7017_length_3205_cov_3.073749"],"GeneSet","NODE_7017_length_3205_cov_3.073749","NODE_7017_length_3205_cov_3.073749",0,3205]
-[["species:(AACCTC)n|genus:Simple_repeat","NODE_7017_length_3205_cov_3.073749:hit:3907:1.3.0.0"],"GeneSet","species:(AACCTC)n|genus:Simple_repeat","NODE_7017_length_3205_cov_3.073749",249,296]

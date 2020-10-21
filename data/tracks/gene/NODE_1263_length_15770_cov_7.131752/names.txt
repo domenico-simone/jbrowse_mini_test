@@ -1,3 +1,0 @@
-[["genemark-NODE_1263_length_15770_cov_7.131752-processed-gene-0.3","genemark-NODE_1263_length_15770_cov_7.131752-processed-gene-0.3"],"gene","genemark-NODE_1263_length_15770_cov_7.131752-processed-gene-0.3","NODE_1263_length_15770_cov_7.131752",3075,7169]
-[["snap-NODE_1263_length_15770_cov_7.131752-processed-gene-0.26","snap-NODE_1263_length_15770_cov_7.131752-processed-gene-0.26"],"gene","snap-NODE_1263_length_15770_cov_7.131752-processed-gene-0.26","NODE_1263_length_15770_cov_7.131752",4167,5430]
-[["maker-NODE_1263_length_15770_cov_7.131752-snap-gene-0.10","maker-NODE_1263_length_15770_cov_7.131752-snap-gene-0.10"],"gene","maker-NODE_1263_length_15770_cov_7.131752-snap-gene-0.10","NODE_1263_length_15770_cov_7.131752",10829,13760]

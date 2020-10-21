@@ -1,2 +1,0 @@
-[["sp|B0CQL7.1|PESC_LACBS","NODE_1_length_116622_cov_7.653196:hit:201:3.10.0.0"],"protein2genome","sp|B0CQL7.1|PESC_LACBS","NODE_1_length_116622_cov_7.653196",20175,21358]
-[["sp|A8N1X3.1|PESC_COPC7","NODE_1_length_116622_cov_7.653196:hit:202:3.10.0.0"],"protein2genome","sp|A8N1X3.1|PESC_COPC7","NODE_1_length_116622_cov_7.653196",20178,21358]

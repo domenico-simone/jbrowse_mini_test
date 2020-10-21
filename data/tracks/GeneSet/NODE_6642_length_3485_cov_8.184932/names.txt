@@ -1,5 +1,0 @@
-[["NODE_6642_length_3485_cov_8.184932","NODE_6642_length_3485_cov_8.184932"],"GeneSet","NODE_6642_length_3485_cov_8.184932","NODE_6642_length_3485_cov_8.184932",0,3485]
-[["maker-NODE_6642_length_3485_cov_8.184932-exonerate_est2genome-gene-0.0","maker-NODE_6642_length_3485_cov_8.184932-exonerate_est2genome-gene-0.0"],"GeneSet","maker-NODE_6642_length_3485_cov_8.184932-exonerate_est2genome-gene-0.0","NODE_6642_length_3485_cov_8.184932",1697,3128]
-[["TRINITY_DN2608_c0_g1_i3","NODE_6642_length_3485_cov_8.184932:hit:2468:3.2.0.0"],"GeneSet","TRINITY_DN2608_c0_g1_i3","NODE_6642_length_3485_cov_8.184932",1697,3128]
-[["TRINITY_DN2608_c0_g1_i3","NODE_6642_length_3485_cov_8.184932:hit:2467:3.2.0.0"],"GeneSet","TRINITY_DN2608_c0_g1_i3","NODE_6642_length_3485_cov_8.184932",1700,3128]
-[["species:(TTTTTC)n|genus:Simple_repeat","NODE_6642_length_3485_cov_8.184932:hit:2466:1.3.0.0"],"GeneSet","species:(TTTTTC)n|genus:Simple_repeat","NODE_6642_length_3485_cov_8.184932",2907,2974]

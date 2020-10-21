@@ -1,7 +1,0 @@
-[["NODE_12295_length_1458_cov_1.384384","NODE_12295_length_1458_cov_1.384384"],"GeneSet","NODE_12295_length_1458_cov_1.384384","NODE_12295_length_1458_cov_1.384384",0,1458]
-[["species:MuDRF-2_PGr|genus:DNA/MULE-F","NODE_12295_length_1458_cov_1.384384:hit:3730:1.3.0.0"],"GeneSet","species:MuDRF-2_PGr|genus:DNA/MULE-F","NODE_12295_length_1458_cov_1.384384",434,607]
-[["maker-NODE_12295_length_1458_cov_1.384384-exonerate_est2genome-gene-0.0","maker-NODE_12295_length_1458_cov_1.384384-exonerate_est2genome-gene-0.0"],"GeneSet","maker-NODE_12295_length_1458_cov_1.384384-exonerate_est2genome-gene-0.0","NODE_12295_length_1458_cov_1.384384",523,1458]
-[["TRINITY_DN18674_c0_g1_i1","NODE_12295_length_1458_cov_1.384384:hit:3733:3.2.0.0"],"GeneSet","TRINITY_DN18674_c0_g1_i1","NODE_12295_length_1458_cov_1.384384",523,1458]
-[["TRINITY_DN18674_c0_g1_i2","NODE_12295_length_1458_cov_1.384384:hit:3734:3.2.0.0"],"GeneSet","TRINITY_DN18674_c0_g1_i2","NODE_12295_length_1458_cov_1.384384",523,1458]
-[["TRINITY_DN18674_c0_g1_i1","NODE_12295_length_1458_cov_1.384384:hit:3731:3.2.0.0"],"GeneSet","TRINITY_DN18674_c0_g1_i1","NODE_12295_length_1458_cov_1.384384",725,1458]
-[["TRINITY_DN18674_c0_g1_i2","NODE_12295_length_1458_cov_1.384384:hit:3732:3.2.0.0"],"GeneSet","TRINITY_DN18674_c0_g1_i2","NODE_12295_length_1458_cov_1.384384",725,1458]

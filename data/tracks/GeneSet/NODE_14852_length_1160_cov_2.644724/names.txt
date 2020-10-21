@@ -1,3 +1,0 @@
-[["NODE_14852_length_1160_cov_2.644724","NODE_14852_length_1160_cov_2.644724"],"GeneSet","NODE_14852_length_1160_cov_2.644724","NODE_14852_length_1160_cov_2.644724",0,1160]
-[["species:A-rich|genus:Low_complexity","NODE_14852_length_1160_cov_2.644724:hit:3642:1.3.0.0"],"GeneSet","species:A-rich|genus:Low_complexity","NODE_14852_length_1160_cov_2.644724",498,535]
-[["species:(TC)n|genus:Simple_repeat","NODE_14852_length_1160_cov_2.644724:hit:3643:1.3.0.0"],"GeneSet","species:(TC)n|genus:Simple_repeat","NODE_14852_length_1160_cov_2.644724",555,595]

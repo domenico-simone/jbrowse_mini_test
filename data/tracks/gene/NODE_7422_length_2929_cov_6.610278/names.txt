@@ -1,2 +1,0 @@
-[["maker-NODE_7422_length_2929_cov_6.610278-snap-gene-0.4","maker-NODE_7422_length_2929_cov_6.610278-snap-gene-0.4"],"gene","maker-NODE_7422_length_2929_cov_6.610278-snap-gene-0.4","NODE_7422_length_2929_cov_6.610278",64,998]
-[["genemark-NODE_7422_length_2929_cov_6.610278-processed-gene-0.14","genemark-NODE_7422_length_2929_cov_6.610278-processed-gene-0.14"],"gene","genemark-NODE_7422_length_2929_cov_6.610278-processed-gene-0.14","NODE_7422_length_2929_cov_6.610278",1204,2929]

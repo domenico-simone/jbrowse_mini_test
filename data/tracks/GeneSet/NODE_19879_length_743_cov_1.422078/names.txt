@@ -1,2 +1,0 @@
-[["NODE_19879_length_743_cov_1.422078","NODE_19879_length_743_cov_1.422078"],"GeneSet","NODE_19879_length_743_cov_1.422078","NODE_19879_length_743_cov_1.422078",0,743]
-[["species:(TTA)n|genus:Simple_repeat","NODE_19879_length_743_cov_1.422078:hit:1603:1.3.0.0"],"GeneSet","species:(TTA)n|genus:Simple_repeat","NODE_19879_length_743_cov_1.422078",513,548]

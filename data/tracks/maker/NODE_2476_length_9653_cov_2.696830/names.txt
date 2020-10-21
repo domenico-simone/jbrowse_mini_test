@@ -1,2 +1,0 @@
-[["genemark-NODE_2476_length_9653_cov_2.696830-processed-gene-0.12-mRNA-1","genemark-NODE_2476_length_9653_cov_2.696830-processed-gene-0.12-mRNA-1"],"maker","genemark-NODE_2476_length_9653_cov_2.696830-processed-gene-0.12-mRNA-1","NODE_2476_length_9653_cov_2.696830",7496,8169]
-[["genemark-NODE_2476_length_9653_cov_2.696830-processed-gene-0.13-mRNA-1","genemark-NODE_2476_length_9653_cov_2.696830-processed-gene-0.13-mRNA-1"],"maker","genemark-NODE_2476_length_9653_cov_2.696830-processed-gene-0.13-mRNA-1","NODE_2476_length_9653_cov_2.696830",8401,9346]

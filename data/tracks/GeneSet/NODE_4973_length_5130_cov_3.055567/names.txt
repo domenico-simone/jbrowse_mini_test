@@ -1,5 +1,0 @@
-[["NODE_4973_length_5130_cov_3.055567","NODE_4973_length_5130_cov_3.055567"],"GeneSet","NODE_4973_length_5130_cov_3.055567","NODE_4973_length_5130_cov_3.055567",0,5130]
-[["species:(CT)n|genus:Simple_repeat","NODE_4973_length_5130_cov_3.055567:hit:3:1.3.0.0"],"GeneSet","species:(CT)n|genus:Simple_repeat","NODE_4973_length_5130_cov_3.055567",173,199]
-[["species:Harbinger-4_MLP|genus:DNA/PIF-Harbinger","NODE_4973_length_5130_cov_3.055567:hit:4:1.3.0.0"],"GeneSet","species:Harbinger-4_MLP|genus:DNA/PIF-Harbinger","NODE_4973_length_5130_cov_3.055567",742,2283]
-[["species:Harbinger-4_MLP|genus:DNA/PIF-Harbinger","NODE_4973_length_5130_cov_3.055567:hit:5:1.3.0.0"],"GeneSet","species:Harbinger-4_MLP|genus:DNA/PIF-Harbinger","NODE_4973_length_5130_cov_3.055567",3572,4005]
-[["species:Harbinger-4_MLP|genus:DNA/PIF-Harbinger","NODE_4973_length_5130_cov_3.055567:hit:6:1.3.0.0"],"GeneSet","species:Harbinger-4_MLP|genus:DNA/PIF-Harbinger","NODE_4973_length_5130_cov_3.055567",4283,4472]

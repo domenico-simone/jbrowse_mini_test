@@ -1,3 +1,0 @@
-[["NODE_33926_length_319_cov_1.484375","NODE_33926_length_319_cov_1.484375"],"GeneSet","NODE_33926_length_319_cov_1.484375","NODE_33926_length_319_cov_1.484375",0,319]
-[["TRINITY_DN10025_c0_g1_i1","NODE_33926_length_319_cov_1.484375:hit:111:3.2.0.0"],"GeneSet","TRINITY_DN10025_c0_g1_i1","NODE_33926_length_319_cov_1.484375",61,319]
-[["TRINITY_DN10025_c0_g1_i1","NODE_33926_length_319_cov_1.484375:hit:110:3.2.0.0"],"GeneSet","TRINITY_DN10025_c0_g1_i1","NODE_33926_length_319_cov_1.484375",78,232]

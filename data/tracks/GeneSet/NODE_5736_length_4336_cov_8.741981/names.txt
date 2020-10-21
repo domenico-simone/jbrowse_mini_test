@@ -1,5 +1,0 @@
-[["NODE_5736_length_4336_cov_8.741981","NODE_5736_length_4336_cov_8.741981"],"GeneSet","NODE_5736_length_4336_cov_8.741981","NODE_5736_length_4336_cov_8.741981",0,4336]
-[["TRINITY_DN26457_c0_g1_i1","NODE_5736_length_4336_cov_8.741981:hit:5111:3.2.0.0"],"GeneSet","TRINITY_DN26457_c0_g1_i1","NODE_5736_length_4336_cov_8.741981",627,956]
-[["TRINITY_DN26457_c0_g1_i1","NODE_5736_length_4336_cov_8.741981:hit:5110:3.2.0.0"],"GeneSet","TRINITY_DN26457_c0_g1_i1","NODE_5736_length_4336_cov_8.741981",636,937]
-[["species:(T)n|genus:Simple_repeat","NODE_5736_length_4336_cov_8.741981:hit:5108:1.3.0.0"],"GeneSet","species:(T)n|genus:Simple_repeat","NODE_5736_length_4336_cov_8.741981",1514,1545]
-[["species:DIRS-5_PGr|genus:LTR/Ngaro","NODE_5736_length_4336_cov_8.741981:hit:5109:1.3.0.0"],"GeneSet","species:DIRS-5_PGr|genus:LTR/Ngaro","NODE_5736_length_4336_cov_8.741981",3202,4333]

@@ -1,3 +1,0 @@
-[["NODE_8185_length_2530_cov_2.711610","NODE_8185_length_2530_cov_2.711610"],"GeneSet","NODE_8185_length_2530_cov_2.711610","NODE_8185_length_2530_cov_2.711610",0,2530]
-[["species:LTR-1_PTrit-LTR|genus:LTR","NODE_8185_length_2530_cov_2.711610:hit:6321:1.3.0.0"],"GeneSet","species:LTR-1_PTrit-LTR|genus:LTR","NODE_8185_length_2530_cov_2.711610",1874,1990]
-[["species:(CTG)n|genus:Simple_repeat","NODE_8185_length_2530_cov_2.711610:hit:6322:1.3.0.0"],"GeneSet","species:(CTG)n|genus:Simple_repeat","NODE_8185_length_2530_cov_2.711610",2217,2261]

@@ -1,3 +1,0 @@
-[["NODE_5232_length_4850_cov_2.269109","NODE_5232_length_4850_cov_2.269109"],"GeneSet","NODE_5232_length_4850_cov_2.269109","NODE_5232_length_4850_cov_2.269109",0,4850]
-[["species:Copia-20_MLP-I|genus:LTR/Copia","NODE_5232_length_4850_cov_2.269109:hit:1436:1.3.0.0"],"GeneSet","species:Copia-20_MLP-I|genus:LTR/Copia","NODE_5232_length_4850_cov_2.269109",1237,2135]
-[["species:Copia-20_MLP-I|genus:LTR/Copia","NODE_5232_length_4850_cov_2.269109:hit:1437:1.3.0.0"],"GeneSet","species:Copia-20_MLP-I|genus:LTR/Copia","NODE_5232_length_4850_cov_2.269109",2346,3935]

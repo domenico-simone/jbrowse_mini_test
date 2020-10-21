@@ -1,0 +1,3 @@
+[["TAER_00006722","maker-NODE_2581_length_9309_cov_6.909477-snap-gene-0.25","TAER_00006722"],"Gene spans","TAER_00006722","NODE_2581_length_9309_cov_6.909477",905,1962]
+[["TAER_00006723","maker-NODE_2581_length_9309_cov_6.909477-snap-gene-0.19","TAER_00006723"],"Gene spans","TAER_00006723","NODE_2581_length_9309_cov_6.909477",2137,4103]
+[["TAER_00006724","maker-NODE_2581_length_9309_cov_6.909477-snap-gene-0.23","TAER_00006724"],"Gene spans","TAER_00006724","NODE_2581_length_9309_cov_6.909477",5779,8344]

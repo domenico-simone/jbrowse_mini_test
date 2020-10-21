@@ -1,2 +1,0 @@
-[["NODE_44478_length_276_cov_7.429530","NODE_44478_length_276_cov_7.429530"],"GeneSet","NODE_44478_length_276_cov_7.429530","NODE_44478_length_276_cov_7.429530",0,276]
-[["species:(TTTTTAT)n|genus:Simple_repeat","NODE_44478_length_276_cov_7.429530:hit:3902:1.3.0.0"],"GeneSet","species:(TTTTTAT)n|genus:Simple_repeat","NODE_44478_length_276_cov_7.429530",134,218]

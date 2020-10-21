@@ -1,2 +1,0 @@
-[["genemark-NODE_7040_length_3188_cov_6.403136-processed-gene-0.4-mRNA-1","genemark-NODE_7040_length_3188_cov_6.403136-processed-gene-0.4-mRNA-1"],"maker","genemark-NODE_7040_length_3188_cov_6.403136-processed-gene-0.4-mRNA-1","NODE_7040_length_3188_cov_6.403136",919,1069]
-[["snap-NODE_7040_length_3188_cov_6.403136-processed-gene-0.0-mRNA-1","snap-NODE_7040_length_3188_cov_6.403136-processed-gene-0.0-mRNA-1"],"maker","snap-NODE_7040_length_3188_cov_6.403136-processed-gene-0.0-mRNA-1","NODE_7040_length_3188_cov_6.403136",1379,2494]

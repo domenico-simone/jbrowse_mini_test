@@ -1,5 +1,0 @@
-[["NODE_8923_length_2228_cov_6.124227","NODE_8923_length_2228_cov_6.124227"],"GeneSet","NODE_8923_length_2228_cov_6.124227","NODE_8923_length_2228_cov_6.124227",0,2228]
-[["species:Mariner-6_MLP|genus:DNA/TcMar-Pogo","NODE_8923_length_2228_cov_6.124227:hit:7857:1.3.0.0"],"GeneSet","species:Mariner-6_MLP|genus:DNA/TcMar-Pogo","NODE_8923_length_2228_cov_6.124227",847,981]
-[["TRINITY_DN7456_c0_g1_i1","NODE_8923_length_2228_cov_6.124227:hit:7860:3.2.0.0"],"GeneSet","TRINITY_DN7456_c0_g1_i1","NODE_8923_length_2228_cov_6.124227",920,1484]
-[["TRINITY_DN7456_c0_g1_i1","NODE_8923_length_2228_cov_6.124227:hit:7859:3.2.0.0"],"GeneSet","TRINITY_DN7456_c0_g1_i1","NODE_8923_length_2228_cov_6.124227",1036,1484]
-[["species:(AAGGC)n|genus:Simple_repeat","NODE_8923_length_2228_cov_6.124227:hit:7858:1.3.0.0"],"GeneSet","species:(AAGGC)n|genus:Simple_repeat","NODE_8923_length_2228_cov_6.124227",1301,1331]

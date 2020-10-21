@@ -1,6 +1,0 @@
-[["NODE_7856_length_2675_cov_5.866954","NODE_7856_length_2675_cov_5.866954"],"GeneSet","NODE_7856_length_2675_cov_5.866954","NODE_7856_length_2675_cov_5.866954",0,2675]
-[["TRINITY_DN3667_c0_g1_i7","NODE_7856_length_2675_cov_5.866954:hit:2122:3.2.0.0"],"GeneSet","TRINITY_DN3667_c0_g1_i7","NODE_7856_length_2675_cov_5.866954",37,506]
-[["TRINITY_DN3667_c0_g1_i7","NODE_7856_length_2675_cov_5.866954:hit:2121:3.2.0.0"],"GeneSet","TRINITY_DN3667_c0_g1_i7","NODE_7856_length_2675_cov_5.866954",37,483]
-[["species:(GAAGTT)n|genus:Simple_repeat","NODE_7856_length_2675_cov_5.866954:hit:2118:1.3.0.0"],"GeneSet","species:(GAAGTT)n|genus:Simple_repeat","NODE_7856_length_2675_cov_5.866954",1360,1389]
-[["species:(AGTAC)n|genus:Simple_repeat","NODE_7856_length_2675_cov_5.866954:hit:2119:1.3.0.0"],"GeneSet","species:(AGTAC)n|genus:Simple_repeat","NODE_7856_length_2675_cov_5.866954",1775,1805]
-[["species:Mariner-8_MLP|genus:DNA/TcMar-Ant1","NODE_7856_length_2675_cov_5.866954:hit:2120:1.3.0.0"],"GeneSet","species:Mariner-8_MLP|genus:DNA/TcMar-Ant1","NODE_7856_length_2675_cov_5.866954",2430,2660]

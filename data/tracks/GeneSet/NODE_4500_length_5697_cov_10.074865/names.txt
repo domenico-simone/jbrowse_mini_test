@@ -1,6 +1,0 @@
-[["NODE_4500_length_5697_cov_10.074865","NODE_4500_length_5697_cov_10.074865"],"GeneSet","NODE_4500_length_5697_cov_10.074865","NODE_4500_length_5697_cov_10.074865",0,5697]
-[["TRINITY_DN11783_c0_g1_i1","NODE_4500_length_5697_cov_10.074865:hit:5777:3.2.0.0"],"GeneSet","TRINITY_DN11783_c0_g1_i1","NODE_4500_length_5697_cov_10.074865",37,252]
-[["TRINITY_DN11783_c0_g1_i1","NODE_4500_length_5697_cov_10.074865:hit:5778:3.2.0.0"],"GeneSet","TRINITY_DN11783_c0_g1_i1","NODE_4500_length_5697_cov_10.074865",37,252]
-[["species:(TAATT)n|genus:Simple_repeat","NODE_4500_length_5697_cov_10.074865:hit:5774:1.3.0.0"],"GeneSet","species:(TAATT)n|genus:Simple_repeat","NODE_4500_length_5697_cov_10.074865",387,441]
-[["species:(A)n|genus:Simple_repeat","NODE_4500_length_5697_cov_10.074865:hit:5775:1.3.0.0"],"GeneSet","species:(A)n|genus:Simple_repeat","NODE_4500_length_5697_cov_10.074865",746,780]
-[["species:Copia-6_LBS-I|genus:LTR/Copia","NODE_4500_length_5697_cov_10.074865:hit:5776:1.3.0.0"],"GeneSet","species:Copia-6_LBS-I|genus:LTR/Copia","NODE_4500_length_5697_cov_10.074865",4847,4967]

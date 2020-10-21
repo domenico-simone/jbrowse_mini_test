@@ -1,2 +1,0 @@
-[["NODE_19009_length_810_cov_2.073206","NODE_19009_length_810_cov_2.073206"],"GeneSet","NODE_19009_length_810_cov_2.073206","NODE_19009_length_810_cov_2.073206",0,810]
-[["species:DNA6-2_MLP|genus:DNA","NODE_19009_length_810_cov_2.073206:hit:4426:1.3.0.0"],"GeneSet","species:DNA6-2_MLP|genus:DNA","NODE_19009_length_810_cov_2.073206",9,124]

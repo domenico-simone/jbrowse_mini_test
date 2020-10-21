@@ -1,2 +1,0 @@
-[["NODE_32919_length_325_cov_2.707071","NODE_32919_length_325_cov_2.707071"],"GeneSet","NODE_32919_length_325_cov_2.707071","NODE_32919_length_325_cov_2.707071",0,325]
-[["species:EnSpm-7_MLP|genus:DNA/CMC-EnSpm","NODE_32919_length_325_cov_2.707071:hit:2123:1.3.0.0"],"GeneSet","species:EnSpm-7_MLP|genus:DNA/CMC-EnSpm","NODE_32919_length_325_cov_2.707071",137,282]

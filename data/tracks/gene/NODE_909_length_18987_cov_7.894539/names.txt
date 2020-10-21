@@ -1,2 +1,0 @@
-[["augustus-NODE_909_length_18987_cov_7.894539-processed-gene-0.1","augustus-NODE_909_length_18987_cov_7.894539-processed-gene-0.1"],"gene","augustus-NODE_909_length_18987_cov_7.894539-processed-gene-0.1","NODE_909_length_18987_cov_7.894539",294,3246]
-[["maker-NODE_909_length_18987_cov_7.894539-snap-gene-0.15","maker-NODE_909_length_18987_cov_7.894539-snap-gene-0.15"],"gene","maker-NODE_909_length_18987_cov_7.894539-snap-gene-0.15","NODE_909_length_18987_cov_7.894539",6795,11449]

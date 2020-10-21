@@ -1,4 +1,0 @@
-[["NODE_40233_length_291_cov_1.621951","NODE_40233_length_291_cov_1.621951"],"GeneSet","NODE_40233_length_291_cov_1.621951","NODE_40233_length_291_cov_1.621951",0,291]
-[["species:(TCA)n|genus:Simple_repeat","NODE_40233_length_291_cov_1.621951:hit:2479:1.3.0.0"],"GeneSet","species:(TCA)n|genus:Simple_repeat","NODE_40233_length_291_cov_1.621951",0,21]
-[["species:(AAGA)n|genus:Simple_repeat","NODE_40233_length_291_cov_1.621951:hit:2480:1.3.0.0"],"GeneSet","species:(AAGA)n|genus:Simple_repeat","NODE_40233_length_291_cov_1.621951",50,100]
-[["species:(AATC)n|genus:Simple_repeat","NODE_40233_length_291_cov_1.621951:hit:2481:1.3.0.0"],"GeneSet","species:(AATC)n|genus:Simple_repeat","NODE_40233_length_291_cov_1.621951",150,176]

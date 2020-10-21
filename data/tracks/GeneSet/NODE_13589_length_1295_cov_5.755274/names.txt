@@ -1,3 +1,0 @@
-[["NODE_13589_length_1295_cov_5.755274","NODE_13589_length_1295_cov_5.755274"],"GeneSet","NODE_13589_length_1295_cov_5.755274","NODE_13589_length_1295_cov_5.755274",0,1295]
-[["species:(TTTTATA)n|genus:Simple_repeat","NODE_13589_length_1295_cov_5.755274:hit:3711:1.3.0.0"],"GeneSet","species:(TTTTATA)n|genus:Simple_repeat","NODE_13589_length_1295_cov_5.755274",103,169]
-[["species:A-rich|genus:Low_complexity","NODE_13589_length_1295_cov_5.755274:hit:3712:1.3.0.0"],"GeneSet","species:A-rich|genus:Low_complexity","NODE_13589_length_1295_cov_5.755274",1126,1192]

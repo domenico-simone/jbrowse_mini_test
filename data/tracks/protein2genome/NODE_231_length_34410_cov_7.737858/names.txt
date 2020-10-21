@@ -1,1 +1,0 @@
-[["sp|Q9HDG2.1|NCPR_PHACH","NODE_231_length_34410_cov_7.737858:hit:28024:3.10.0.0"],"protein2genome","sp|Q9HDG2.1|NCPR_PHACH","NODE_231_length_34410_cov_7.737858",18019,19904]

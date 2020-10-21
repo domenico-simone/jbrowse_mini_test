@@ -1,4 +1,0 @@
-[["NODE_8503_length_2391_cov_6.297703","NODE_8503_length_2391_cov_6.297703"],"GeneSet","NODE_8503_length_2391_cov_6.297703","NODE_8503_length_2391_cov_6.297703",0,2391]
-[["species:P-4_MLP|genus:DNA/P-Fungi","NODE_8503_length_2391_cov_6.297703:hit:2290:1.3.0.0"],"GeneSet","species:P-4_MLP|genus:DNA/P-Fungi","NODE_8503_length_2391_cov_6.297703",363,534]
-[["species:P-4_MLP|genus:DNA/P-Fungi","NODE_8503_length_2391_cov_6.297703:hit:2291:1.3.0.0"],"GeneSet","species:P-4_MLP|genus:DNA/P-Fungi","NODE_8503_length_2391_cov_6.297703",963,2151]
-[["species:P-4_MLP|genus:DNA/P-Fungi","NODE_8503_length_2391_cov_6.297703:hit:2292:1.3.0.0"],"GeneSet","species:P-4_MLP|genus:DNA/P-Fungi","NODE_8503_length_2391_cov_6.297703",2255,2391]

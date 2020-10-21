@@ -1,3 +1,0 @@
-[["TRINITY_DN293_c0_g1_i2","NODE_6216_length_3872_cov_3.604539:hit:2418:3.2.0.0"],"est2genome","TRINITY_DN293_c0_g1_i2","NODE_6216_length_3872_cov_3.604539",2963,3872]
-[["TRINITY_DN293_c0_g1_i5","NODE_6216_length_3872_cov_3.604539:hit:2420:3.2.0.0"],"est2genome","TRINITY_DN293_c0_g1_i5","NODE_6216_length_3872_cov_3.604539",2963,3872]
-[["TRINITY_DN293_c0_g1_i24","NODE_6216_length_3872_cov_3.604539:hit:2419:3.2.0.0"],"est2genome","TRINITY_DN293_c0_g1_i24","NODE_6216_length_3872_cov_3.604539",2963,3712]

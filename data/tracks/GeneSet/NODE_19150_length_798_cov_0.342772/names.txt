@@ -1,2 +1,0 @@
-[["NODE_19150_length_798_cov_0.342772","NODE_19150_length_798_cov_0.342772"],"GeneSet","NODE_19150_length_798_cov_0.342772","NODE_19150_length_798_cov_0.342772",0,798]
-[["species:MuDRF-1_PGr|genus:DNA/MULE-F","NODE_19150_length_798_cov_0.342772:hit:9053:1.3.0.0"],"GeneSet","species:MuDRF-1_PGr|genus:DNA/MULE-F","NODE_19150_length_798_cov_0.342772",202,344]

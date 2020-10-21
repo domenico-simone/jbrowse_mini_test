@@ -1,3 +1,0 @@
-[["NODE_23577_length_517_cov_0.794872","NODE_23577_length_517_cov_0.794872"],"GeneSet","NODE_23577_length_517_cov_0.794872","NODE_23577_length_517_cov_0.794872",0,517]
-[["species:(A)n|genus:Simple_repeat","NODE_23577_length_517_cov_0.794872:hit:8190:1.3.0.0"],"GeneSet","species:(A)n|genus:Simple_repeat","NODE_23577_length_517_cov_0.794872",69,93]
-[["species:Tad1-7_PGr|genus:LINE/Tad1","NODE_23577_length_517_cov_0.794872:hit:8191:1.3.0.0"],"GeneSet","species:Tad1-7_PGr|genus:LINE/Tad1","NODE_23577_length_517_cov_0.794872",409,467]

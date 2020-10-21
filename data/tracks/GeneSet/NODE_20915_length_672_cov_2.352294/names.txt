@@ -1,2 +1,0 @@
-[["NODE_20915_length_672_cov_2.352294","NODE_20915_length_672_cov_2.352294"],"GeneSet","NODE_20915_length_672_cov_2.352294","NODE_20915_length_672_cov_2.352294",0,672]
-[["species:(ACA)n|genus:Simple_repeat","NODE_20915_length_672_cov_2.352294:hit:8141:1.3.0.0"],"GeneSet","species:(ACA)n|genus:Simple_repeat","NODE_20915_length_672_cov_2.352294",78,114]

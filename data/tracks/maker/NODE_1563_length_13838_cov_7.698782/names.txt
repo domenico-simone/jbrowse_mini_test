@@ -1,2 +1,0 @@
-[["genemark-NODE_1563_length_13838_cov_7.698782-processed-gene-0.19-mRNA-1","genemark-NODE_1563_length_13838_cov_7.698782-processed-gene-0.19-mRNA-1"],"maker","genemark-NODE_1563_length_13838_cov_7.698782-processed-gene-0.19-mRNA-1","NODE_1563_length_13838_cov_7.698782",3629,5225]
-[["maker-NODE_1563_length_13838_cov_7.698782-augustus-gene-0.12-mRNA-1","maker-NODE_1563_length_13838_cov_7.698782-augustus-gene-0.12-mRNA-1"],"maker","maker-NODE_1563_length_13838_cov_7.698782-augustus-gene-0.12-mRNA-1","NODE_1563_length_13838_cov_7.698782",12935,13636]

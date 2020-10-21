@@ -1,4 +1,0 @@
-[["NODE_16410_length_1022_cov_7.331844","NODE_16410_length_1022_cov_7.331844"],"GeneSet","NODE_16410_length_1022_cov_7.331844","NODE_16410_length_1022_cov_7.331844",0,1022]
-[["species:Sagan-6_MLP|genus:DNA/TcMar-Sagan","NODE_16410_length_1022_cov_7.331844:hit:4892:1.3.0.0"],"GeneSet","species:Sagan-6_MLP|genus:DNA/TcMar-Sagan","NODE_16410_length_1022_cov_7.331844",211,364]
-[["TRINITY_DN18022_c0_g1_i1","NODE_16410_length_1022_cov_7.331844:hit:4894:3.2.0.0"],"GeneSet","TRINITY_DN18022_c0_g1_i1","NODE_16410_length_1022_cov_7.331844",247,563]
-[["TRINITY_DN18022_c0_g1_i1","NODE_16410_length_1022_cov_7.331844:hit:4893:3.2.0.0"],"GeneSet","TRINITY_DN18022_c0_g1_i1","NODE_16410_length_1022_cov_7.331844",422,558]

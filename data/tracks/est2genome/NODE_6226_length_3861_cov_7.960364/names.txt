@@ -1,8 +1,0 @@
-[["TRINITY_DN4512_c0_g1_i6","NODE_6226_length_3861_cov_7.960364:hit:2459:3.2.0.0"],"est2genome","TRINITY_DN4512_c0_g1_i6","NODE_6226_length_3861_cov_7.960364",0,2174]
-[["TRINITY_DN4512_c0_g1_i7","NODE_6226_length_3861_cov_7.960364:hit:2460:3.2.0.0"],"est2genome","TRINITY_DN4512_c0_g1_i7","NODE_6226_length_3861_cov_7.960364",0,2174]
-[["TRINITY_DN4512_c0_g1_i1","NODE_6226_length_3861_cov_7.960364:hit:2461:3.2.0.0"],"est2genome","TRINITY_DN4512_c0_g1_i1","NODE_6226_length_3861_cov_7.960364",0,2174]
-[["TRINITY_DN4512_c0_g1_i2","NODE_6226_length_3861_cov_7.960364:hit:2462:3.2.0.0"],"est2genome","TRINITY_DN4512_c0_g1_i2","NODE_6226_length_3861_cov_7.960364",0,2174]
-[["TRINITY_DN4512_c0_g1_i9","NODE_6226_length_3861_cov_7.960364:hit:2463:3.2.0.0"],"est2genome","TRINITY_DN4512_c0_g1_i9","NODE_6226_length_3861_cov_7.960364",0,2174]
-[["TRINITY_DN4512_c0_g1_i5","NODE_6226_length_3861_cov_7.960364:hit:2464:3.2.0.0"],"est2genome","TRINITY_DN4512_c0_g1_i5","NODE_6226_length_3861_cov_7.960364",0,2174]
-[["TRINITY_DN4512_c0_g1_i4","NODE_6226_length_3861_cov_7.960364:hit:2466:3.2.0.0"],"est2genome","TRINITY_DN4512_c0_g1_i4","NODE_6226_length_3861_cov_7.960364",90,2174]
-[["TRINITY_DN4512_c0_g1_i8","NODE_6226_length_3861_cov_7.960364:hit:2465:3.2.0.0"],"est2genome","TRINITY_DN4512_c0_g1_i8","NODE_6226_length_3861_cov_7.960364",90,1720]

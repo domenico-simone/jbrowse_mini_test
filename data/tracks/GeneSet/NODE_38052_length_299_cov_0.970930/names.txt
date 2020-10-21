@@ -1,3 +1,0 @@
-[["NODE_38052_length_299_cov_0.970930","NODE_38052_length_299_cov_0.970930"],"GeneSet","NODE_38052_length_299_cov_0.970930","NODE_38052_length_299_cov_0.970930",0,299]
-[["species:(ATT)n|genus:Simple_repeat","NODE_38052_length_299_cov_0.970930:hit:3533:1.3.0.0"],"GeneSet","species:(ATT)n|genus:Simple_repeat","NODE_38052_length_299_cov_0.970930",118,142]
-[["species:(AACAA)n|genus:Simple_repeat","NODE_38052_length_299_cov_0.970930:hit:3534:1.3.0.0"],"GeneSet","species:(AACAA)n|genus:Simple_repeat","NODE_38052_length_299_cov_0.970930",215,244]

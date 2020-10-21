@@ -1,2 +1,0 @@
-[["NODE_32955_length_325_cov_2.050505","NODE_32955_length_325_cov_2.050505"],"GeneSet","NODE_32955_length_325_cov_2.050505","NODE_32955_length_325_cov_2.050505",0,325]
-[["species:(TCTC)n|genus:Simple_repeat","NODE_32955_length_325_cov_2.050505:hit:5830:1.3.0.0"],"GeneSet","species:(TCTC)n|genus:Simple_repeat","NODE_32955_length_325_cov_2.050505",33,87]

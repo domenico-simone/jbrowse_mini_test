@@ -1,3 +1,0 @@
-[["NODE_16893_length_984_cov_2.535589","NODE_16893_length_984_cov_2.535589"],"GeneSet","NODE_16893_length_984_cov_2.535589","NODE_16893_length_984_cov_2.535589",0,984]
-[["TRINITY_DN7537_c0_g1_i2","NODE_16893_length_984_cov_2.535589:hit:5585:3.2.0.0"],"GeneSet","TRINITY_DN7537_c0_g1_i2","NODE_16893_length_984_cov_2.535589",471,719]
-[["TRINITY_DN7537_c0_g1_i2","NODE_16893_length_984_cov_2.535589:hit:5584:3.2.0.0"],"GeneSet","TRINITY_DN7537_c0_g1_i2","NODE_16893_length_984_cov_2.535589",512,690]

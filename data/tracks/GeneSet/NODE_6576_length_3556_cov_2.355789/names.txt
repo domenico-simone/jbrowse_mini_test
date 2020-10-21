@@ -1,6 +1,0 @@
-[["NODE_6576_length_3556_cov_2.355789","NODE_6576_length_3556_cov_2.355789"],"GeneSet","NODE_6576_length_3556_cov_2.355789","NODE_6576_length_3556_cov_2.355789",0,3556]
-[["species:MuDRF-1_MLP|genus:DNA/MULE-F","NODE_6576_length_3556_cov_2.355789:hit:94:1.3.0.0"],"GeneSet","species:MuDRF-1_MLP|genus:DNA/MULE-F","NODE_6576_length_3556_cov_2.355789",0,668]
-[["species:MuDRF-1_MLP|genus:DNA/MULE-F","NODE_6576_length_3556_cov_2.355789:hit:95:1.3.0.0"],"GeneSet","species:MuDRF-1_MLP|genus:DNA/MULE-F","NODE_6576_length_3556_cov_2.355789",799,1652]
-[["species:MuDRF-1_MLP|genus:DNA/MULE-F","NODE_6576_length_3556_cov_2.355789:hit:96:1.3.0.0"],"GeneSet","species:MuDRF-1_MLP|genus:DNA/MULE-F","NODE_6576_length_3556_cov_2.355789",1760,2310]
-[["species:(T)n|genus:Simple_repeat","NODE_6576_length_3556_cov_2.355789:hit:97:1.3.0.0"],"GeneSet","species:(T)n|genus:Simple_repeat","NODE_6576_length_3556_cov_2.355789",3175,3201]
-[["species:MuDRF-1_MLP|genus:DNA/MULE-F","NODE_6576_length_3556_cov_2.355789:hit:98:1.3.0.0"],"GeneSet","species:MuDRF-1_MLP|genus:DNA/MULE-F","NODE_6576_length_3556_cov_2.355789",3227,3330]

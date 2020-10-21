@@ -1,2 +1,0 @@
-[["maker-NODE_5116_length_4959_cov_1.706540-augustus-gene-0.2","maker-NODE_5116_length_4959_cov_1.706540-augustus-gene-0.2"],"gene","maker-NODE_5116_length_4959_cov_1.706540-augustus-gene-0.2","NODE_5116_length_4959_cov_1.706540",99,1276]
-[["maker-NODE_5116_length_4959_cov_1.706540-augustus-gene-0.5","maker-NODE_5116_length_4959_cov_1.706540-augustus-gene-0.5"],"gene","maker-NODE_5116_length_4959_cov_1.706540-augustus-gene-0.5","NODE_5116_length_4959_cov_1.706540",3798,4693]

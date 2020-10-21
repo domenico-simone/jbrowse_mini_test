@@ -1,7 +1,0 @@
-[["NODE_6520_length_3610_cov_1.734999","NODE_6520_length_3610_cov_1.734999"],"GeneSet","NODE_6520_length_3610_cov_1.734999","NODE_6520_length_3610_cov_1.734999",0,3610]
-[["TRINITY_DN9747_c0_g1_i1","NODE_6520_length_3610_cov_1.734999:hit:3516:3.2.0.0"],"GeneSet","TRINITY_DN9747_c0_g1_i1","NODE_6520_length_3610_cov_1.734999",1790,2681]
-[["TRINITY_DN9747_c0_g1_i1","NODE_6520_length_3610_cov_1.734999:hit:3514:3.2.0.0"],"GeneSet","TRINITY_DN9747_c0_g1_i1","NODE_6520_length_3610_cov_1.734999",1790,2644]
-[["TRINITY_DN35732_c0_g1_i1","NODE_6520_length_3610_cov_1.734999:hit:3517:3.2.0.0"],"GeneSet","TRINITY_DN35732_c0_g1_i1","NODE_6520_length_3610_cov_1.734999",2551,2954]
-[["TRINITY_DN35732_c0_g1_i1","NODE_6520_length_3610_cov_1.734999:hit:3515:3.2.0.0"],"GeneSet","TRINITY_DN35732_c0_g1_i1","NODE_6520_length_3610_cov_1.734999",2551,2854]
-[["maker-NODE_6520_length_3610_cov_1.734999-exonerate_est2genome-gene-0.0","maker-NODE_6520_length_3610_cov_1.734999-exonerate_est2genome-gene-0.0"],"GeneSet","maker-NODE_6520_length_3610_cov_1.734999-exonerate_est2genome-gene-0.0","NODE_6520_length_3610_cov_1.734999",2552,2953]
-[["species:DNA-5_PSt|genus:DNA/TcMar","NODE_6520_length_3610_cov_1.734999:hit:3513:1.3.0.0"],"GeneSet","species:DNA-5_PSt|genus:DNA/TcMar","NODE_6520_length_3610_cov_1.734999",3240,3303]

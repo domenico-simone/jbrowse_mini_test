@@ -1,3 +1,0 @@
-[["genemark-NODE_8102_length_2562_cov_19.393840-abinit-gene-0.1-mRNA-1","NODE_8102_length_2562_cov_19.393840:hit:710:4.5.0.0"],"genemark","genemark-NODE_8102_length_2562_cov_19.393840-abinit-gene-0.1-mRNA-1","NODE_8102_length_2562_cov_19.393840",21,935]
-[["genemark-NODE_8102_length_2562_cov_19.393840-abinit-gene-0.2-mRNA-1","NODE_8102_length_2562_cov_19.393840:hit:712:4.5.0.0"],"genemark","genemark-NODE_8102_length_2562_cov_19.393840-abinit-gene-0.2-mRNA-1","NODE_8102_length_2562_cov_19.393840",992,1420]
-[["genemark-NODE_8102_length_2562_cov_19.393840-abinit-gene-0.3-mRNA-1","NODE_8102_length_2562_cov_19.393840:hit:713:4.5.0.0"],"genemark","genemark-NODE_8102_length_2562_cov_19.393840-abinit-gene-0.3-mRNA-1","NODE_8102_length_2562_cov_19.393840",1795,2548]

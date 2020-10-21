@@ -1,1 +1,0 @@
-[["sp|Q99128.3|AP1G1_USTMA","NODE_766_length_20766_cov_8.263336:hit:69037:3.10.0.0"],"protein2genome","sp|Q99128.3|AP1G1_USTMA","NODE_766_length_20766_cov_8.263336",16222,19131]

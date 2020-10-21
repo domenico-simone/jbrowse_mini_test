@@ -1,2 +1,0 @@
-[["NODE_25836_length_424_cov_0.696970","NODE_25836_length_424_cov_0.696970"],"GeneSet","NODE_25836_length_424_cov_0.696970","NODE_25836_length_424_cov_0.696970",0,424]
-[["species:Gypsy-49_MLP-I|genus:LTR/Gypsy","NODE_25836_length_424_cov_0.696970:hit:8179:1.3.0.0"],"GeneSet","species:Gypsy-49_MLP-I|genus:LTR/Gypsy","NODE_25836_length_424_cov_0.696970",6,422]

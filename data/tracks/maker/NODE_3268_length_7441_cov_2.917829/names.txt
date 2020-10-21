@@ -1,2 +1,0 @@
-[["maker-NODE_3268_length_7441_cov_2.917829-snap-gene-0.20-mRNA-1","maker-NODE_3268_length_7441_cov_2.917829-snap-gene-0.20-mRNA-1"],"maker","maker-NODE_3268_length_7441_cov_2.917829-snap-gene-0.20-mRNA-1","NODE_3268_length_7441_cov_2.917829",3735,5761]
-[["snap-NODE_3268_length_7441_cov_2.917829-processed-gene-0.15-mRNA-1","snap-NODE_3268_length_7441_cov_2.917829-processed-gene-0.15-mRNA-1"],"maker","snap-NODE_3268_length_7441_cov_2.917829-processed-gene-0.15-mRNA-1","NODE_3268_length_7441_cov_2.917829",6842,7431]

@@ -1,2 +1,0 @@
-[["genemark-NODE_1706_length_12899_cov_5.533740-processed-gene-0.6-mRNA-1","genemark-NODE_1706_length_12899_cov_5.533740-processed-gene-0.6-mRNA-1"],"maker","genemark-NODE_1706_length_12899_cov_5.533740-processed-gene-0.6-mRNA-1","NODE_1706_length_12899_cov_5.533740",462,1065]
-[["maker-NODE_1706_length_12899_cov_5.533740-snap-gene-0.0-mRNA-1","maker-NODE_1706_length_12899_cov_5.533740-snap-gene-0.0-mRNA-1"],"maker","maker-NODE_1706_length_12899_cov_5.533740-snap-gene-0.0-mRNA-1","NODE_1706_length_12899_cov_5.533740",4915,12007]

@@ -1,2 +1,0 @@
-[["maker-NODE_4_length_87038_cov_7.042135-augustus-gene-0.21","maker-NODE_4_length_87038_cov_7.042135-augustus-gene-0.21"],"gene","maker-NODE_4_length_87038_cov_7.042135-augustus-gene-0.21","NODE_4_length_87038_cov_7.042135",49670,49833]
-[["maker-NODE_4_length_87038_cov_7.042135-augustus-gene-0.20","maker-NODE_4_length_87038_cov_7.042135-augustus-gene-0.20"],"gene","maker-NODE_4_length_87038_cov_7.042135-augustus-gene-0.20","NODE_4_length_87038_cov_7.042135",50151,50229]

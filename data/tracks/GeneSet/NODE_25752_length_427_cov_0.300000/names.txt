@@ -1,2 +1,0 @@
-[["NODE_25752_length_427_cov_0.300000","NODE_25752_length_427_cov_0.300000"],"GeneSet","NODE_25752_length_427_cov_0.300000","NODE_25752_length_427_cov_0.300000",0,427]
-[["species:(TAT)n|genus:Simple_repeat","NODE_25752_length_427_cov_0.300000:hit:1920:1.3.0.0"],"GeneSet","species:(TAT)n|genus:Simple_repeat","NODE_25752_length_427_cov_0.300000",332,406]

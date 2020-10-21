@@ -1,2 +1,0 @@
-[["genemark-NODE_5777_length_4303_cov_9.955939-processed-gene-0.3-mRNA-1","genemark-NODE_5777_length_4303_cov_9.955939-processed-gene-0.3-mRNA-1"],"maker","genemark-NODE_5777_length_4303_cov_9.955939-processed-gene-0.3-mRNA-1","NODE_5777_length_4303_cov_9.955939",539,614]
-[["maker-NODE_5777_length_4303_cov_9.955939-augustus-gene-0.6-mRNA-1","maker-NODE_5777_length_4303_cov_9.955939-augustus-gene-0.6-mRNA-1"],"maker","maker-NODE_5777_length_4303_cov_9.955939-augustus-gene-0.6-mRNA-1","NODE_5777_length_4303_cov_9.955939",734,1318]

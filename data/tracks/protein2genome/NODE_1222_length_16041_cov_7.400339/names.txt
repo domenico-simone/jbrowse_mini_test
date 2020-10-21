@@ -1,1 +1,0 @@
-[["sp|Q4P3F1.1|HCS1_USTMA","NODE_1222_length_16041_cov_7.400339:hit:93282:3.10.0.0"],"protein2genome","sp|Q4P3F1.1|HCS1_USTMA","NODE_1222_length_16041_cov_7.400339",4186,5834]

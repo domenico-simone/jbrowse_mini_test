@@ -1,4 +1,0 @@
-[["NODE_14733_length_1173_cov_6.038241","NODE_14733_length_1173_cov_6.038241"],"GeneSet","NODE_14733_length_1173_cov_6.038241","NODE_14733_length_1173_cov_6.038241",0,1173]
-[["species:Deceiver-2_MLP|genus:LINE/Deceiver","NODE_14733_length_1173_cov_6.038241:hit:8977:1.3.0.0"],"GeneSet","species:Deceiver-2_MLP|genus:LINE/Deceiver","NODE_14733_length_1173_cov_6.038241",0,231]
-[["species:(GTGTCA)n|genus:Simple_repeat","NODE_14733_length_1173_cov_6.038241:hit:8978:1.3.0.0"],"GeneSet","species:(GTGTCA)n|genus:Simple_repeat","NODE_14733_length_1173_cov_6.038241",231,291]
-[["species:Deceiver-2_MLP|genus:LINE/Deceiver","NODE_14733_length_1173_cov_6.038241:hit:8979:1.3.0.0"],"GeneSet","species:Deceiver-2_MLP|genus:LINE/Deceiver","NODE_14733_length_1173_cov_6.038241",352,1173]

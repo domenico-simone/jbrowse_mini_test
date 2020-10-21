@@ -1,2 +1,0 @@
-[["NODE_44265_length_279_cov_1.894737","NODE_44265_length_279_cov_1.894737"],"GeneSet","NODE_44265_length_279_cov_1.894737","NODE_44265_length_279_cov_1.894737",0,279]
-[["species:(CAG)n|genus:Simple_repeat","NODE_44265_length_279_cov_1.894737:hit:2250:1.3.0.0"],"GeneSet","species:(CAG)n|genus:Simple_repeat","NODE_44265_length_279_cov_1.894737",154,195]

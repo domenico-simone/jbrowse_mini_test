@@ -1,2 +1,0 @@
-[["snap-NODE_2712_length_8846_cov_3.694231-processed-gene-0.6","snap-NODE_2712_length_8846_cov_3.694231-processed-gene-0.6"],"gene","snap-NODE_2712_length_8846_cov_3.694231-processed-gene-0.6","NODE_2712_length_8846_cov_3.694231",7177,7596]
-[["snap-NODE_2712_length_8846_cov_3.694231-processed-gene-0.7","snap-NODE_2712_length_8846_cov_3.694231-processed-gene-0.7"],"gene","snap-NODE_2712_length_8846_cov_3.694231-processed-gene-0.7","NODE_2712_length_8846_cov_3.694231",8162,8706]

@@ -1,2 +1,0 @@
-[["NODE_21381_length_643_cov_0.552326","NODE_21381_length_643_cov_0.552326"],"GeneSet","NODE_21381_length_643_cov_0.552326","NODE_21381_length_643_cov_0.552326",0,643]
-[["species:(AT)n|genus:Simple_repeat","NODE_21381_length_643_cov_0.552326:hit:4823:1.3.0.0"],"GeneSet","species:(AT)n|genus:Simple_repeat","NODE_21381_length_643_cov_0.552326",152,186]

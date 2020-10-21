@@ -1,2 +1,0 @@
-[["maker-NODE_4121_length_6103_cov_7.579150-augustus-gene-0.0","maker-NODE_4121_length_6103_cov_7.579150-augustus-gene-0.0"],"gene","maker-NODE_4121_length_6103_cov_7.579150-augustus-gene-0.0","NODE_4121_length_6103_cov_7.579150",270,2865]
-[["augustus-NODE_4121_length_6103_cov_7.579150-processed-gene-0.8","augustus-NODE_4121_length_6103_cov_7.579150-processed-gene-0.8"],"gene","augustus-NODE_4121_length_6103_cov_7.579150-processed-gene-0.8","NODE_4121_length_6103_cov_7.579150",3404,5274]

@@ -1,3 +1,0 @@
-[["NODE_8653_length_2329_cov_6.957312","NODE_8653_length_2329_cov_6.957312"],"GeneSet","NODE_8653_length_2329_cov_6.957312","NODE_8653_length_2329_cov_6.957312",0,2329]
-[["species:Gypsy-21_PGr-I|genus:LTR/Gypsy","NODE_8653_length_2329_cov_6.957312:hit:8308:1.3.0.0"],"GeneSet","species:Gypsy-21_PGr-I|genus:LTR/Gypsy","NODE_8653_length_2329_cov_6.957312",1802,1852]
-[["species:(CATGAT)n|genus:Simple_repeat","NODE_8653_length_2329_cov_6.957312:hit:8309:1.3.0.0"],"GeneSet","species:(CATGAT)n|genus:Simple_repeat","NODE_8653_length_2329_cov_6.957312",2167,2238]

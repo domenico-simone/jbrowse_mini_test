@@ -1,2 +1,0 @@
-[["maker-NODE_745_length_20959_cov_6.902890-snap-gene-0.10-mRNA-1","maker-NODE_745_length_20959_cov_6.902890-snap-gene-0.10-mRNA-1"],"maker","maker-NODE_745_length_20959_cov_6.902890-snap-gene-0.10-mRNA-1","NODE_745_length_20959_cov_6.902890",1342,7007]
-[["maker-NODE_745_length_20959_cov_6.902890-snap-gene-0.17-mRNA-1","maker-NODE_745_length_20959_cov_6.902890-snap-gene-0.17-mRNA-1"],"maker","maker-NODE_745_length_20959_cov_6.902890-snap-gene-0.17-mRNA-1","NODE_745_length_20959_cov_6.902890",14362,16889]

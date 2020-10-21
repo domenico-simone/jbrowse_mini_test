@@ -1,2 +1,0 @@
-[["NODE_2949_length_8237_cov_8.027004","NODE_2949_length_8237_cov_8.027004"],"GeneSet","NODE_2949_length_8237_cov_8.027004","NODE_2949_length_8237_cov_8.027004",0,8237]
-[["species:AcademH-5_PGr|genus:DNA/Academ-H","NODE_2949_length_8237_cov_8.027004:hit:5824:1.3.0.0"],"GeneSet","species:AcademH-5_PGr|genus:DNA/Academ-H","NODE_2949_length_8237_cov_8.027004",7783,7979]

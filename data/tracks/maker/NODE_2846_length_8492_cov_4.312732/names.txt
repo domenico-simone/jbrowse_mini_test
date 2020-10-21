@@ -1,2 +1,0 @@
-[["genemark-NODE_2846_length_8492_cov_4.312732-processed-gene-0.7-mRNA-1","genemark-NODE_2846_length_8492_cov_4.312732-processed-gene-0.7-mRNA-1"],"maker","genemark-NODE_2846_length_8492_cov_4.312732-processed-gene-0.7-mRNA-1","NODE_2846_length_8492_cov_4.312732",6123,6876]
-[["maker-NODE_2846_length_8492_cov_4.312732-snap-gene-0.9-mRNA-1","maker-NODE_2846_length_8492_cov_4.312732-snap-gene-0.9-mRNA-1"],"maker","maker-NODE_2846_length_8492_cov_4.312732-snap-gene-0.9-mRNA-1","NODE_2846_length_8492_cov_4.312732",6963,8491]

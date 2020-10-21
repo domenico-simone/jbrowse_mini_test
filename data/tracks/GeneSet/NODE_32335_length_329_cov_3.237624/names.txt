@@ -1,2 +1,0 @@
-[["NODE_32335_length_329_cov_3.237624","NODE_32335_length_329_cov_3.237624"],"GeneSet","NODE_32335_length_329_cov_3.237624","NODE_32335_length_329_cov_3.237624",0,329]
-[["species:(CCTCAG)n|genus:Simple_repeat","NODE_32335_length_329_cov_3.237624:hit:1571:1.3.0.0"],"GeneSet","species:(CCTCAG)n|genus:Simple_repeat","NODE_32335_length_329_cov_3.237624",264,300]

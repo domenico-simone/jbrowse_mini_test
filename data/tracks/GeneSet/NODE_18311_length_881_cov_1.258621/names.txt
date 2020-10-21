@@ -1,2 +1,0 @@
-[["NODE_18311_length_881_cov_1.258621","NODE_18311_length_881_cov_1.258621"],"GeneSet","NODE_18311_length_881_cov_1.258621","NODE_18311_length_881_cov_1.258621",0,881]
-[["species:hAT-7_PGr|genus:DNA/hAT-Ac","NODE_18311_length_881_cov_1.258621:hit:2266:1.3.0.0"],"GeneSet","species:hAT-7_PGr|genus:DNA/hAT-Ac","NODE_18311_length_881_cov_1.258621",228,278]

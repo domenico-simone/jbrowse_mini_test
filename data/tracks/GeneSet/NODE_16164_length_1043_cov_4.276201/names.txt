@@ -1,2 +1,0 @@
-[["NODE_16164_length_1043_cov_4.276201","NODE_16164_length_1043_cov_4.276201"],"GeneSet","NODE_16164_length_1043_cov_4.276201","NODE_16164_length_1043_cov_4.276201",0,1043]
-[["species:(GTG)n|genus:Simple_repeat","NODE_16164_length_1043_cov_4.276201:hit:9776:1.3.0.0"],"GeneSet","species:(GTG)n|genus:Simple_repeat","NODE_16164_length_1043_cov_4.276201",488,527]

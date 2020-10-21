@@ -1,2 +1,0 @@
-[["NODE_18253_length_885_cov_6.660950","NODE_18253_length_885_cov_6.660950"],"GeneSet","NODE_18253_length_885_cov_6.660950","NODE_18253_length_885_cov_6.660950",0,885]
-[["species:(GTT)n|genus:Simple_repeat","NODE_18253_length_885_cov_6.660950:hit:880:1.3.0.0"],"GeneSet","species:(GTT)n|genus:Simple_repeat","NODE_18253_length_885_cov_6.660950",483,517]

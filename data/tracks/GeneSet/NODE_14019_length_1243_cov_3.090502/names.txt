@@ -1,8 +1,0 @@
-[["NODE_14019_length_1243_cov_3.090502","NODE_14019_length_1243_cov_3.090502"],"GeneSet","NODE_14019_length_1243_cov_3.090502","NODE_14019_length_1243_cov_3.090502",0,1243]
-[["species:(AATT)n|genus:Simple_repeat","NODE_14019_length_1243_cov_3.090502:hit:5119:1.3.0.0"],"GeneSet","species:(AATT)n|genus:Simple_repeat","NODE_14019_length_1243_cov_3.090502",187,237]
-[["species:(ATAATTT)n|genus:Simple_repeat","NODE_14019_length_1243_cov_3.090502:hit:5120:1.3.0.0"],"GeneSet","species:(ATAATTT)n|genus:Simple_repeat","NODE_14019_length_1243_cov_3.090502",237,275]
-[["species:(TCAA)n|genus:Simple_repeat","NODE_14019_length_1243_cov_3.090502:hit:5121:1.3.0.0"],"GeneSet","species:(TCAA)n|genus:Simple_repeat","NODE_14019_length_1243_cov_3.090502",274,311]
-[["species:(AATT)n|genus:Simple_repeat","NODE_14019_length_1243_cov_3.090502:hit:5122:1.3.0.0"],"GeneSet","species:(AATT)n|genus:Simple_repeat","NODE_14019_length_1243_cov_3.090502",275,301]
-[["species:(TACA)n|genus:Simple_repeat","NODE_14019_length_1243_cov_3.090502:hit:5123:1.3.0.0"],"GeneSet","species:(TACA)n|genus:Simple_repeat","NODE_14019_length_1243_cov_3.090502",415,450]
-[["TRINITY_DN22719_c0_g1_i2","NODE_14019_length_1243_cov_3.090502:hit:5125:3.2.0.0"],"GeneSet","TRINITY_DN22719_c0_g1_i2","NODE_14019_length_1243_cov_3.090502",567,916]
-[["TRINITY_DN22719_c0_g1_i2","NODE_14019_length_1243_cov_3.090502:hit:5124:3.2.0.0"],"GeneSet","TRINITY_DN22719_c0_g1_i2","NODE_14019_length_1243_cov_3.090502",604,916]

@@ -1,2 +1,0 @@
-[["TRINITY_DN3275_c0_g1_i4","NODE_8189_length_2528_cov_2.596002:hit:1125:3.2.0.0"],"est2genome","TRINITY_DN3275_c0_g1_i4","NODE_8189_length_2528_cov_2.596002",25,987]
-[["TRINITY_DN3275_c0_g2_i1","NODE_8189_length_2528_cov_2.596002:hit:1126:3.2.0.0"],"est2genome","TRINITY_DN3275_c0_g2_i1","NODE_8189_length_2528_cov_2.596002",516,911]

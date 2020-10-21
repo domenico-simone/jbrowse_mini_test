@@ -1,2 +1,0 @@
-[["maker-NODE_13111_length_1350_cov_1.607522-snap-gene-0.2","maker-NODE_13111_length_1350_cov_1.607522-snap-gene-0.2"],"gene","maker-NODE_13111_length_1350_cov_1.607522-snap-gene-0.2","NODE_13111_length_1350_cov_1.607522",125,527]
-[["genemark-NODE_13111_length_1350_cov_1.607522-processed-gene-0.1","genemark-NODE_13111_length_1350_cov_1.607522-processed-gene-0.1"],"gene","genemark-NODE_13111_length_1350_cov_1.607522-processed-gene-0.1","NODE_13111_length_1350_cov_1.607522",629,1344]

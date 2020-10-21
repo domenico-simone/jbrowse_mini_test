@@ -1,5 +1,0 @@
-[["NODE_4228_length_5970_cov_2.631011","NODE_4228_length_5970_cov_2.631011"],"GeneSet","NODE_4228_length_5970_cov_2.631011","NODE_4228_length_5970_cov_2.631011",0,5970]
-[["species:Tad1-1_PSt|genus:LINE/Tad1?","NODE_4228_length_5970_cov_2.631011:hit:4793:1.3.0.0"],"GeneSet","species:Tad1-1_PSt|genus:LINE/Tad1?","NODE_4228_length_5970_cov_2.631011",1979,2976]
-[["species:Tad1-1B_PGr|genus:LINE/Tad1","NODE_4228_length_5970_cov_2.631011:hit:4794:1.3.0.0"],"GeneSet","species:Tad1-1B_PGr|genus:LINE/Tad1","NODE_4228_length_5970_cov_2.631011",3101,3421]
-[["species:Tad1-1_PGr|genus:LINE/Tad1","NODE_4228_length_5970_cov_2.631011:hit:4795:1.3.0.0"],"GeneSet","species:Tad1-1_PGr|genus:LINE/Tad1","NODE_4228_length_5970_cov_2.631011",3871,3915]
-[["species:Copia-43_MLP-I|genus:LTR/Copia","NODE_4228_length_5970_cov_2.631011:hit:4796:1.3.0.0"],"GeneSet","species:Copia-43_MLP-I|genus:LTR/Copia","NODE_4228_length_5970_cov_2.631011",5808,5970]

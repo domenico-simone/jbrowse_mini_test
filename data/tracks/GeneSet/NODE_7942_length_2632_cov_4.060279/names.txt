@@ -1,3 +1,0 @@
-[["NODE_7942_length_2632_cov_4.060279","NODE_7942_length_2632_cov_4.060279"],"GeneSet","NODE_7942_length_2632_cov_4.060279","NODE_7942_length_2632_cov_4.060279",0,2632]
-[["species:(CCCCCG)n|genus:Simple_repeat","NODE_7942_length_2632_cov_4.060279:hit:2394:1.3.0.0"],"GeneSet","species:(CCCCCG)n|genus:Simple_repeat","NODE_7942_length_2632_cov_4.060279",1434,1498]
-[["species:DNA3-8_MLP|genus:DNA","NODE_7942_length_2632_cov_4.060279:hit:2395:1.3.0.0"],"GeneSet","species:DNA3-8_MLP|genus:DNA","NODE_7942_length_2632_cov_4.060279",2427,2551]

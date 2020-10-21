@@ -1,2 +1,0 @@
-[["augustus-NODE_2933_length_8278_cov_7.381426-processed-gene-0.10","augustus-NODE_2933_length_8278_cov_7.381426-processed-gene-0.10"],"gene","augustus-NODE_2933_length_8278_cov_7.381426-processed-gene-0.10","NODE_2933_length_8278_cov_7.381426",4571,5618]
-[["maker-NODE_2933_length_8278_cov_7.381426-snap-gene-0.0","maker-NODE_2933_length_8278_cov_7.381426-snap-gene-0.0"],"gene","maker-NODE_2933_length_8278_cov_7.381426-snap-gene-0.0","NODE_2933_length_8278_cov_7.381426",5718,6893]

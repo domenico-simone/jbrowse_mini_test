@@ -1,3 +1,0 @@
-[["maker-NODE_7440_length_2919_cov_10.583453-snap-gene-0.4","maker-NODE_7440_length_2919_cov_10.583453-snap-gene-0.4"],"gene","maker-NODE_7440_length_2919_cov_10.583453-snap-gene-0.4","NODE_7440_length_2919_cov_10.583453",30,564]
-[["maker-NODE_7440_length_2919_cov_10.583453-snap-gene-0.2","maker-NODE_7440_length_2919_cov_10.583453-snap-gene-0.2"],"gene","maker-NODE_7440_length_2919_cov_10.583453-snap-gene-0.2","NODE_7440_length_2919_cov_10.583453",368,1021]
-[["maker-NODE_7440_length_2919_cov_10.583453-snap-gene-0.6","maker-NODE_7440_length_2919_cov_10.583453-snap-gene-0.6"],"gene","maker-NODE_7440_length_2919_cov_10.583453-snap-gene-0.6","NODE_7440_length_2919_cov_10.583453",1305,2048]

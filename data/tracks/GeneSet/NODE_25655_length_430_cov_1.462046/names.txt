@@ -1,2 +1,0 @@
-[["NODE_25655_length_430_cov_1.462046","NODE_25655_length_430_cov_1.462046"],"GeneSet","NODE_25655_length_430_cov_1.462046","NODE_25655_length_430_cov_1.462046",0,430]
-[["species:hAT-2_PSt|genus:DNA/hAT-Ac","NODE_25655_length_430_cov_1.462046:hit:9568:1.3.0.0"],"GeneSet","species:hAT-2_PSt|genus:DNA/hAT-Ac","NODE_25655_length_430_cov_1.462046",293,404]

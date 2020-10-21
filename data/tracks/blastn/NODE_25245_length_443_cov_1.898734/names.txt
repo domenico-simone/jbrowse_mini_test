@@ -1,2 +1,0 @@
-[["TRINITY_DN4112_c0_g1_i3","NODE_25245_length_443_cov_1.898734:hit:1545:3.2.0.0"],"blastn","TRINITY_DN4112_c0_g1_i3","NODE_25245_length_443_cov_1.898734",45,443]
-[["TRINITY_DN4112_c0_g1_i8","NODE_25245_length_443_cov_1.898734:hit:1546:3.2.0.0"],"blastn","TRINITY_DN4112_c0_g1_i8","NODE_25245_length_443_cov_1.898734",45,443]

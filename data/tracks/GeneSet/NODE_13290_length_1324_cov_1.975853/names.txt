@@ -1,3 +1,0 @@
-[["NODE_13290_length_1324_cov_1.975853","NODE_13290_length_1324_cov_1.975853"],"GeneSet","NODE_13290_length_1324_cov_1.975853","NODE_13290_length_1324_cov_1.975853",0,1324]
-[["species:DNA3-9_PSt|genus:DNA","NODE_13290_length_1324_cov_1.975853:hit:3466:1.3.0.0"],"GeneSet","species:DNA3-9_PSt|genus:DNA","NODE_13290_length_1324_cov_1.975853",56,118]
-[["species:Gypsy-57_MLP-LTR|genus:LTR/Gypsy","NODE_13290_length_1324_cov_1.975853:hit:3467:1.3.0.0"],"GeneSet","species:Gypsy-57_MLP-LTR|genus:LTR/Gypsy","NODE_13290_length_1324_cov_1.975853",379,418]

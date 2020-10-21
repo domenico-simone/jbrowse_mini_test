@@ -1,2 +1,0 @@
-[["NODE_20743_length_683_cov_2.345324","NODE_20743_length_683_cov_2.345324"],"GeneSet","NODE_20743_length_683_cov_2.345324","NODE_20743_length_683_cov_2.345324",0,683]
-[["species:(ATTT)n|genus:Simple_repeat","NODE_20743_length_683_cov_2.345324:hit:4400:1.3.0.0"],"GeneSet","species:(ATTT)n|genus:Simple_repeat","NODE_20743_length_683_cov_2.345324",624,683]

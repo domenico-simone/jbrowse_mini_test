@@ -1,3 +1,0 @@
-[["NODE_11445_length_1606_cov_3.383367","NODE_11445_length_1606_cov_3.383367"],"GeneSet","NODE_11445_length_1606_cov_3.383367","NODE_11445_length_1606_cov_3.383367",0,1606]
-[["species:(AATAT)n|genus:Simple_repeat","NODE_11445_length_1606_cov_3.383367:hit:2613:1.3.0.0"],"GeneSet","species:(AATAT)n|genus:Simple_repeat","NODE_11445_length_1606_cov_3.383367",1236,1282]
-[["species:(TGAG)n|genus:Simple_repeat","NODE_11445_length_1606_cov_3.383367:hit:2614:1.3.0.0"],"GeneSet","species:(TGAG)n|genus:Simple_repeat","NODE_11445_length_1606_cov_3.383367",1441,1502]

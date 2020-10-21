@@ -1,3 +1,0 @@
-[["NODE_23639_length_514_cov_0.627907","NODE_23639_length_514_cov_0.627907"],"GeneSet","NODE_23639_length_514_cov_0.627907","NODE_23639_length_514_cov_0.627907",0,514]
-[["species:(ATATATT)n|genus:Simple_repeat","NODE_23639_length_514_cov_0.627907:hit:5116:1.3.0.0"],"GeneSet","species:(ATATATT)n|genus:Simple_repeat","NODE_23639_length_514_cov_0.627907",1,454]
-[["species:(T)n|genus:Simple_repeat","NODE_23639_length_514_cov_0.627907:hit:5117:1.3.0.0"],"GeneSet","species:(T)n|genus:Simple_repeat","NODE_23639_length_514_cov_0.627907",379,514]

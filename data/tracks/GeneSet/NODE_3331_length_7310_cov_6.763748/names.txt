@@ -1,4 +1,0 @@
-[["NODE_3331_length_7310_cov_6.763748","NODE_3331_length_7310_cov_6.763748"],"GeneSet","NODE_3331_length_7310_cov_6.763748","NODE_3331_length_7310_cov_6.763748",0,7310]
-[["species:Zisupton-2_PGr|genus:DNA/Zisupton","NODE_3331_length_7310_cov_6.763748:hit:9137:1.3.0.0"],"GeneSet","species:Zisupton-2_PGr|genus:DNA/Zisupton","NODE_3331_length_7310_cov_6.763748",1635,1780]
-[["species:REP-16_PSt|genus:Unknown","NODE_3331_length_7310_cov_6.763748:hit:9138:1.3.0.0"],"GeneSet","species:REP-16_PSt|genus:Unknown","NODE_3331_length_7310_cov_6.763748",2822,2947]
-[["species:Zisupton-4_PGr|genus:DNA/Zisupton","NODE_3331_length_7310_cov_6.763748:hit:9139:1.3.0.0"],"GeneSet","species:Zisupton-4_PGr|genus:DNA/Zisupton","NODE_3331_length_7310_cov_6.763748",3228,3384]

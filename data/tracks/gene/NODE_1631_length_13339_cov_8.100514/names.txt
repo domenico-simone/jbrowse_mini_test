@@ -1,2 +1,0 @@
-[["genemark-NODE_1631_length_13339_cov_8.100514-processed-gene-0.1","genemark-NODE_1631_length_13339_cov_8.100514-processed-gene-0.1"],"gene","genemark-NODE_1631_length_13339_cov_8.100514-processed-gene-0.1","NODE_1631_length_13339_cov_8.100514",2856,7368]
-[["genemark-NODE_1631_length_13339_cov_8.100514-processed-gene-0.2","genemark-NODE_1631_length_13339_cov_8.100514-processed-gene-0.2"],"gene","genemark-NODE_1631_length_13339_cov_8.100514-processed-gene-0.2","NODE_1631_length_13339_cov_8.100514",7607,11319]

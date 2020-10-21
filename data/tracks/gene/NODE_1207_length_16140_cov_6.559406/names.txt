@@ -1,2 +1,0 @@
-[["snap-NODE_1207_length_16140_cov_6.559406-processed-gene-0.9","snap-NODE_1207_length_16140_cov_6.559406-processed-gene-0.9"],"gene","snap-NODE_1207_length_16140_cov_6.559406-processed-gene-0.9","NODE_1207_length_16140_cov_6.559406",6815,8151]
-[["augustus-NODE_1207_length_16140_cov_6.559406-processed-gene-0.2","augustus-NODE_1207_length_16140_cov_6.559406-processed-gene-0.2"],"gene","augustus-NODE_1207_length_16140_cov_6.559406-processed-gene-0.2","NODE_1207_length_16140_cov_6.559406",9110,12766]

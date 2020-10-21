@@ -1,2 +1,0 @@
-[["maker-NODE_1599_length_13558_cov_10.942968-augustus-gene-0.6-mRNA-1","maker-NODE_1599_length_13558_cov_10.942968-augustus-gene-0.6-mRNA-1"],"maker","maker-NODE_1599_length_13558_cov_10.942968-augustus-gene-0.6-mRNA-1","NODE_1599_length_13558_cov_10.942968",925,11209]
-[["maker-NODE_1599_length_13558_cov_10.942968-snap-gene-0.13-mRNA-1","maker-NODE_1599_length_13558_cov_10.942968-snap-gene-0.13-mRNA-1"],"maker","maker-NODE_1599_length_13558_cov_10.942968-snap-gene-0.13-mRNA-1","NODE_1599_length_13558_cov_10.942968",11302,12331]

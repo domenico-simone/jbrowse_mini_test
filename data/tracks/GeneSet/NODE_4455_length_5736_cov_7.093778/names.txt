@@ -1,2 +1,0 @@
-[["NODE_4455_length_5736_cov_7.093778","NODE_4455_length_5736_cov_7.093778"],"GeneSet","NODE_4455_length_5736_cov_7.093778","NODE_4455_length_5736_cov_7.093778",0,5736]
-[["species:Copia-3_ADe-I|genus:LTR/Ngaro","NODE_4455_length_5736_cov_7.093778:hit:2325:1.3.0.0"],"GeneSet","species:Copia-3_ADe-I|genus:LTR/Ngaro","NODE_4455_length_5736_cov_7.093778",1328,1496]

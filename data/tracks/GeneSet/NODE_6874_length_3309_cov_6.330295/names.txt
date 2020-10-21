@@ -1,5 +1,0 @@
-[["NODE_6874_length_3309_cov_6.330295","NODE_6874_length_3309_cov_6.330295"],"GeneSet","NODE_6874_length_3309_cov_6.330295","NODE_6874_length_3309_cov_6.330295",0,3309]
-[["species:(CTCTGG)n|genus:Simple_repeat","NODE_6874_length_3309_cov_6.330295:hit:2354:1.3.0.0"],"GeneSet","species:(CTCTGG)n|genus:Simple_repeat","NODE_6874_length_3309_cov_6.330295",511,569]
-[["species:(CTCTCA)n|genus:Simple_repeat","NODE_6874_length_3309_cov_6.330295:hit:2355:1.3.0.0"],"GeneSet","species:(CTCTCA)n|genus:Simple_repeat","NODE_6874_length_3309_cov_6.330295",559,613]
-[["species:Gypsy-49_MLP-I|genus:LTR/Gypsy","NODE_6874_length_3309_cov_6.330295:hit:2356:1.3.0.0"],"GeneSet","species:Gypsy-49_MLP-I|genus:LTR/Gypsy","NODE_6874_length_3309_cov_6.330295",2396,2450]
-[["species:(TATTT)n|genus:Simple_repeat","NODE_6874_length_3309_cov_6.330295:hit:2357:1.3.0.0"],"GeneSet","species:(TATTT)n|genus:Simple_repeat","NODE_6874_length_3309_cov_6.330295",3154,3199]

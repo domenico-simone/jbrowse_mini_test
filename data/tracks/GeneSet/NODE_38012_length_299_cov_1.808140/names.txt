@@ -1,2 +1,0 @@
-[["NODE_38012_length_299_cov_1.808140","NODE_38012_length_299_cov_1.808140"],"GeneSet","NODE_38012_length_299_cov_1.808140","NODE_38012_length_299_cov_1.808140",0,299]
-[["species:DNA3-5_PSt|genus:DNA","NODE_38012_length_299_cov_1.808140:hit:4294:1.3.0.0"],"GeneSet","species:DNA3-5_PSt|genus:DNA","NODE_38012_length_299_cov_1.808140",186,253]

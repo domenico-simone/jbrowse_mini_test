@@ -1,2 +1,0 @@
-[["maker-NODE_2599_length_9263_cov_6.467491-snap-gene-0.2-mRNA-1","maker-NODE_2599_length_9263_cov_6.467491-snap-gene-0.2-mRNA-1"],"maker","maker-NODE_2599_length_9263_cov_6.467491-snap-gene-0.2-mRNA-1","NODE_2599_length_9263_cov_6.467491",2862,5017]
-[["maker-NODE_2599_length_9263_cov_6.467491-snap-gene-0.3-mRNA-1","maker-NODE_2599_length_9263_cov_6.467491-snap-gene-0.3-mRNA-1"],"maker","maker-NODE_2599_length_9263_cov_6.467491-snap-gene-0.3-mRNA-1","NODE_2599_length_9263_cov_6.467491",5522,7443]

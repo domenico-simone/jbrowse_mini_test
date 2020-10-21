@@ -1,4 +1,0 @@
-[["sp|Q94ZI2.1|NU4LM_SCHCO","NODE_30357_length_346_cov_0.260274:hit:346:3.10.0.0"],"protein2genome","sp|Q94ZI2.1|NU4LM_SCHCO","NODE_30357_length_346_cov_0.260274",68,332]
-[["sp|Q36832.1|NU4LM_TRIPI","NODE_30357_length_346_cov_0.260274:hit:348:3.10.0.0"],"protein2genome","sp|Q36832.1|NU4LM_TRIPI","NODE_30357_length_346_cov_0.260274",68,332]
-[["sp|Q0H8X1.1|NU4LM_USTMA","NODE_30357_length_346_cov_0.260274:hit:345:3.10.0.0"],"protein2genome","sp|Q0H8X1.1|NU4LM_USTMA","NODE_30357_length_346_cov_0.260274",68,329]
-[["sp|Q6U7Y2.1|NU4LM_MONPE","NODE_30357_length_346_cov_0.260274:hit:347:3.10.0.0"],"protein2genome","sp|Q6U7Y2.1|NU4LM_MONPE","NODE_30357_length_346_cov_0.260274",68,308]

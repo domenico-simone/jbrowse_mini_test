@@ -1,2 +1,0 @@
-[["augustus-NODE_3076_length_7932_cov_8.113261-processed-gene-0.28","augustus-NODE_3076_length_7932_cov_8.113261-processed-gene-0.28"],"gene","augustus-NODE_3076_length_7932_cov_8.113261-processed-gene-0.28","NODE_3076_length_7932_cov_8.113261",5,2248]
-[["maker-NODE_3076_length_7932_cov_8.113261-augustus-gene-0.4","maker-NODE_3076_length_7932_cov_8.113261-augustus-gene-0.4"],"gene","maker-NODE_3076_length_7932_cov_8.113261-augustus-gene-0.4","NODE_3076_length_7932_cov_8.113261",2522,7932]

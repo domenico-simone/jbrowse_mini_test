@@ -1,2 +1,0 @@
-[["NODE_20776_length_681_cov_2.875451","NODE_20776_length_681_cov_2.875451"],"GeneSet","NODE_20776_length_681_cov_2.875451","NODE_20776_length_681_cov_2.875451",0,681]
-[["species:(TGATGGA)n|genus:Simple_repeat","NODE_20776_length_681_cov_2.875451:hit:6583:1.3.0.0"],"GeneSet","species:(TGATGGA)n|genus:Simple_repeat","NODE_20776_length_681_cov_2.875451",255,302]

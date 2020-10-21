@@ -1,2 +1,0 @@
-[["maker-NODE_1601_length_13557_cov_2.912360-augustus-gene-0.12-mRNA-1","maker-NODE_1601_length_13557_cov_2.912360-augustus-gene-0.12-mRNA-1"],"maker","maker-NODE_1601_length_13557_cov_2.912360-augustus-gene-0.12-mRNA-1","NODE_1601_length_13557_cov_2.912360",6126,8824]
-[["maker-NODE_1601_length_13557_cov_2.912360-augustus-gene-0.15-mRNA-1","maker-NODE_1601_length_13557_cov_2.912360-augustus-gene-0.15-mRNA-1"],"maker","maker-NODE_1601_length_13557_cov_2.912360-augustus-gene-0.15-mRNA-1","NODE_1601_length_13557_cov_2.912360",9264,10375]

@@ -1,2 +1,0 @@
-[["TRINITY_DN4648_c0_g1_i6","NODE_8473_length_2407_cov_7.757456:hit:2432:3.2.0.0"],"est2genome","TRINITY_DN4648_c0_g1_i6","NODE_8473_length_2407_cov_7.757456",1920,2339]
-[["TRINITY_DN4648_c0_g1_i7","NODE_8473_length_2407_cov_7.757456:hit:2433:3.2.0.0"],"est2genome","TRINITY_DN4648_c0_g1_i7","NODE_8473_length_2407_cov_7.757456",1920,2339]

@@ -1,2 +1,0 @@
-[["NODE_17655_length_927_cov_1.861250","NODE_17655_length_927_cov_1.861250"],"GeneSet","NODE_17655_length_927_cov_1.861250","NODE_17655_length_927_cov_1.861250",0,927]
-[["species:DIRS-1_MLP-LTR|genus:LTR/Copia","NODE_17655_length_927_cov_1.861250:hit:5936:1.3.0.0"],"GeneSet","species:DIRS-1_MLP-LTR|genus:LTR/Copia","NODE_17655_length_927_cov_1.861250",189,251]

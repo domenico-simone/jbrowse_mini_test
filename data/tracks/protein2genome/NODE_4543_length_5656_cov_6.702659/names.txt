@@ -1,8 +1,0 @@
-[["sp|Q9Y896.1|ACT2_SCHCO","NODE_4543_length_5656_cov_6.702659:hit:6138:3.10.0.0"],"protein2genome","sp|Q9Y896.1|ACT2_SCHCO","NODE_4543_length_5656_cov_6.702659",3616,5214]
-[["sp|Q9Y701.1|ACT1_SUIBO","NODE_4543_length_5656_cov_6.702659:hit:6139:3.10.0.0"],"protein2genome","sp|Q9Y701.1|ACT1_SUIBO","NODE_4543_length_5656_cov_6.702659",4248,5214]
-[["sp|Q9UVX4.1|ACT_COPC7","NODE_4543_length_5656_cov_6.702659:hit:6140:3.10.0.0"],"protein2genome","sp|Q9UVX4.1|ACT_COPC7","NODE_4543_length_5656_cov_6.702659",4254,5214]
-[["sp|P53689.1|ACT_PHARH","NODE_4543_length_5656_cov_6.702659:hit:6141:3.10.0.0"],"protein2genome","sp|P53689.1|ACT_PHARH","NODE_4543_length_5656_cov_6.702659",4254,5214]
-[["sp|Q9Y707.1|ACT2_SUIBO","NODE_4543_length_5656_cov_6.702659:hit:6142:3.10.0.0"],"protein2genome","sp|Q9Y707.1|ACT2_SUIBO","NODE_4543_length_5656_cov_6.702659",4254,5214]
-[["sp|Q9Y702.1|ACT1_SCHCO","NODE_4543_length_5656_cov_6.702659:hit:6143:3.10.0.0"],"protein2genome","sp|Q9Y702.1|ACT1_SCHCO","NODE_4543_length_5656_cov_6.702659",4254,5214]
-[["sp|P50138.1|ACT_PUCGR","NODE_4543_length_5656_cov_6.702659:hit:6144:3.10.0.0"],"protein2genome","sp|P50138.1|ACT_PUCGR","NODE_4543_length_5656_cov_6.702659",4254,5214]
-[["sp|P48465.2|ACT_CRYNH","NODE_4543_length_5656_cov_6.702659:hit:6145:3.10.0.0"],"protein2genome","sp|P48465.2|ACT_CRYNH","NODE_4543_length_5656_cov_6.702659",4254,5214]

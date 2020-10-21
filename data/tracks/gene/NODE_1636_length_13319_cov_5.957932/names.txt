@@ -1,2 +1,0 @@
-[["maker-NODE_1636_length_13319_cov_5.957932-augustus-gene-0.28","maker-NODE_1636_length_13319_cov_5.957932-augustus-gene-0.28"],"gene","maker-NODE_1636_length_13319_cov_5.957932-augustus-gene-0.28","NODE_1636_length_13319_cov_5.957932",6738,9586]
-[["maker-NODE_1636_length_13319_cov_5.957932-augustus-gene-0.33","maker-NODE_1636_length_13319_cov_5.957932-augustus-gene-0.33"],"gene","maker-NODE_1636_length_13319_cov_5.957932-augustus-gene-0.33","NODE_1636_length_13319_cov_5.957932",10948,13319]

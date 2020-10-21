@@ -1,3 +1,0 @@
-[["NODE_5186_length_4896_cov_2.849025","NODE_5186_length_4896_cov_2.849025"],"GeneSet","NODE_5186_length_4896_cov_2.849025","NODE_5186_length_4896_cov_2.849025",0,4896]
-[["species:Mariner-9_PGr|genus:DNA/TcMar-Ant1","NODE_5186_length_4896_cov_2.849025:hit:2477:1.3.0.0"],"GeneSet","species:Mariner-9_PGr|genus:DNA/TcMar-Ant1","NODE_5186_length_4896_cov_2.849025",883,1000]
-[["species:GA-rich|genus:Low_complexity","NODE_5186_length_4896_cov_2.849025:hit:2478:1.3.0.0"],"GeneSet","species:GA-rich|genus:Low_complexity","NODE_5186_length_4896_cov_2.849025",4265,4311]

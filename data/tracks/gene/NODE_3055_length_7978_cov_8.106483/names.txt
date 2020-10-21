@@ -1,2 +1,0 @@
-[["maker-NODE_3055_length_7978_cov_8.106483-snap-gene-0.39","maker-NODE_3055_length_7978_cov_8.106483-snap-gene-0.39"],"gene","maker-NODE_3055_length_7978_cov_8.106483-snap-gene-0.39","NODE_3055_length_7978_cov_8.106483",1290,4212]
-[["maker-NODE_3055_length_7978_cov_8.106483-augustus-gene-0.17","maker-NODE_3055_length_7978_cov_8.106483-augustus-gene-0.17"],"gene","maker-NODE_3055_length_7978_cov_8.106483-augustus-gene-0.17","NODE_3055_length_7978_cov_8.106483",5544,7208]

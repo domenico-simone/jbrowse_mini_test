@@ -1,6 +1,0 @@
-[["NODE_34342_length_316_cov_3.629630","NODE_34342_length_316_cov_3.629630"],"GeneSet","NODE_34342_length_316_cov_3.629630","NODE_34342_length_316_cov_3.629630",0,316]
-[["TRINITY_DN11129_c0_g1_i1","NODE_34342_length_316_cov_3.629630:hit:8607:3.2.0.0"],"GeneSet","TRINITY_DN11129_c0_g1_i1","NODE_34342_length_316_cov_3.629630",27,315]
-[["TRINITY_DN11129_c0_g1_i2","NODE_34342_length_316_cov_3.629630:hit:8608:3.2.0.0"],"GeneSet","TRINITY_DN11129_c0_g1_i2","NODE_34342_length_316_cov_3.629630",27,315]
-[["TRINITY_DN11129_c0_g1_i1","NODE_34342_length_316_cov_3.629630:hit:8609:3.2.0.0"],"GeneSet","TRINITY_DN11129_c0_g1_i1","NODE_34342_length_316_cov_3.629630",27,315]
-[["TRINITY_DN11129_c0_g1_i2","NODE_34342_length_316_cov_3.629630:hit:8610:3.2.0.0"],"GeneSet","TRINITY_DN11129_c0_g1_i2","NODE_34342_length_316_cov_3.629630",27,315]
-[["maker-NODE_34342_length_316_cov_3.629630-exonerate_est2genome-gene-0.0","maker-NODE_34342_length_316_cov_3.629630-exonerate_est2genome-gene-0.0"],"GeneSet","maker-NODE_34342_length_316_cov_3.629630-exonerate_est2genome-gene-0.0","NODE_34342_length_316_cov_3.629630",28,315]

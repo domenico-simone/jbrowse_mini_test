@@ -1,3 +1,0 @@
-[["NODE_12964_length_1368_cov_5.874295","NODE_12964_length_1368_cov_5.874295"],"GeneSet","NODE_12964_length_1368_cov_5.874295","NODE_12964_length_1368_cov_5.874295",0,1368]
-[["species:Tad1-7_PGr|genus:LINE/Tad1","NODE_12964_length_1368_cov_5.874295:hit:2275:1.3.0.0"],"GeneSet","species:Tad1-7_PGr|genus:LINE/Tad1","NODE_12964_length_1368_cov_5.874295",157,499]
-[["species:Tad1-7_PGr|genus:LINE/Tad1","NODE_12964_length_1368_cov_5.874295:hit:2276:1.3.0.0"],"GeneSet","species:Tad1-7_PGr|genus:LINE/Tad1","NODE_12964_length_1368_cov_5.874295",726,1039]

@@ -1,3 +1,0 @@
-[["NODE_17960_length_906_cov_6.915276","NODE_17960_length_906_cov_6.915276"],"GeneSet","NODE_17960_length_906_cov_6.915276","NODE_17960_length_906_cov_6.915276",0,906]
-[["TRINITY_DN300_c1_g3_i1","NODE_17960_length_906_cov_6.915276:hit:6068:3.2.0.0"],"GeneSet","TRINITY_DN300_c1_g3_i1","NODE_17960_length_906_cov_6.915276",245,906]
-[["TRINITY_DN300_c1_g3_i1","NODE_17960_length_906_cov_6.915276:hit:6067:3.2.0.0"],"GeneSet","TRINITY_DN300_c1_g3_i1","NODE_17960_length_906_cov_6.915276",287,906]

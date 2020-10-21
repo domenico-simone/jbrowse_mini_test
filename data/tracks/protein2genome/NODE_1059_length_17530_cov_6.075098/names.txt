@@ -1,1 +1,0 @@
-[["sp|Q4P333.1|CHS7_USTMA","NODE_1059_length_17530_cov_6.075098:hit:85362:3.10.0.0"],"protein2genome","sp|Q4P333.1|CHS7_USTMA","NODE_1059_length_17530_cov_6.075098",5770,8923]

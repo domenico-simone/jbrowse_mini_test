@@ -1,6 +1,0 @@
-[["NODE_15311_length_1116_cov_4.538928","NODE_15311_length_1116_cov_4.538928"],"GeneSet","NODE_15311_length_1116_cov_4.538928","NODE_15311_length_1116_cov_4.538928",0,1116]
-[["maker-NODE_15311_length_1116_cov_4.538928-exonerate_est2genome-gene-0.0","maker-NODE_15311_length_1116_cov_4.538928-exonerate_est2genome-gene-0.0"],"GeneSet","maker-NODE_15311_length_1116_cov_4.538928-exonerate_est2genome-gene-0.0","NODE_15311_length_1116_cov_4.538928",117,676]
-[["TRINITY_DN9885_c0_g1_i1","NODE_15311_length_1116_cov_4.538928:hit:4019:3.2.0.0"],"GeneSet","TRINITY_DN9885_c0_g1_i1","NODE_15311_length_1116_cov_4.538928",117,676]
-[["TRINITY_DN9885_c0_g1_i4","NODE_15311_length_1116_cov_4.538928:hit:4018:3.2.0.0"],"GeneSet","TRINITY_DN9885_c0_g1_i4","NODE_15311_length_1116_cov_4.538928",117,654]
-[["TRINITY_DN9885_c0_g1_i4","NODE_15311_length_1116_cov_4.538928:hit:4016:3.2.0.0"],"GeneSet","TRINITY_DN9885_c0_g1_i4","NODE_15311_length_1116_cov_4.538928",125,650]
-[["TRINITY_DN9885_c0_g1_i1","NODE_15311_length_1116_cov_4.538928:hit:4017:3.2.0.0"],"GeneSet","TRINITY_DN9885_c0_g1_i1","NODE_15311_length_1116_cov_4.538928",125,417]

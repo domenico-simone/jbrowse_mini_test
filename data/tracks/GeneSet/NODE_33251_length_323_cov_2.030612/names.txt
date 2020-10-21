@@ -1,2 +1,0 @@
-[["NODE_33251_length_323_cov_2.030612","NODE_33251_length_323_cov_2.030612"],"GeneSet","NODE_33251_length_323_cov_2.030612","NODE_33251_length_323_cov_2.030612",0,323]
-[["species:(CTTT)n|genus:Simple_repeat","NODE_33251_length_323_cov_2.030612:hit:9815:1.3.0.0"],"GeneSet","species:(CTTT)n|genus:Simple_repeat","NODE_33251_length_323_cov_2.030612",220,323]

@@ -1,2 +1,0 @@
-[["TRINITY_DN483_c0_g1_i6","NODE_16493_length_1015_cov_5.239865:hit:1228:3.2.0.0"],"blastn","TRINITY_DN483_c0_g1_i6","NODE_16493_length_1015_cov_5.239865",179,771]
-[["TRINITY_DN483_c0_g1_i5","NODE_16493_length_1015_cov_5.239865:hit:1229:3.2.0.0"],"blastn","TRINITY_DN483_c0_g1_i5","NODE_16493_length_1015_cov_5.239865",479,771]

@@ -1,3 +1,0 @@
-[["NODE_14012_length_1244_cov_2.342883","NODE_14012_length_1244_cov_2.342883"],"GeneSet","NODE_14012_length_1244_cov_2.342883","NODE_14012_length_1244_cov_2.342883",0,1244]
-[["species:(TGGTGT)n|genus:Simple_repeat","NODE_14012_length_1244_cov_2.342883:hit:5730:1.3.0.0"],"GeneSet","species:(TGGTGT)n|genus:Simple_repeat","NODE_14012_length_1244_cov_2.342883",252,343]
-[["species:(TGAG)n|genus:Simple_repeat","NODE_14012_length_1244_cov_2.342883:hit:5731:1.3.0.0"],"GeneSet","species:(TGAG)n|genus:Simple_repeat","NODE_14012_length_1244_cov_2.342883",331,386]

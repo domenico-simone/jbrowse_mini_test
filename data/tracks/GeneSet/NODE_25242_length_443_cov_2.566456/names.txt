@@ -1,3 +1,0 @@
-[["NODE_25242_length_443_cov_2.566456","NODE_25242_length_443_cov_2.566456"],"GeneSet","NODE_25242_length_443_cov_2.566456","NODE_25242_length_443_cov_2.566456",0,443]
-[["species:(AT)n|genus:Simple_repeat","NODE_25242_length_443_cov_2.566456:hit:4295:1.3.0.0"],"GeneSet","species:(AT)n|genus:Simple_repeat","NODE_25242_length_443_cov_2.566456",16,55]
-[["species:MuDR-1_MLP|genus:DNA/MULE-MuDR","NODE_25242_length_443_cov_2.566456:hit:4296:1.3.0.0"],"GeneSet","species:MuDR-1_MLP|genus:DNA/MULE-MuDR","NODE_25242_length_443_cov_2.566456",394,443]

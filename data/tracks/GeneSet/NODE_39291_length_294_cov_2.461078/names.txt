@@ -1,2 +1,0 @@
-[["NODE_39291_length_294_cov_2.461078","NODE_39291_length_294_cov_2.461078"],"GeneSet","NODE_39291_length_294_cov_2.461078","NODE_39291_length_294_cov_2.461078",0,294]
-[["species:Tad1-8_PGr|genus:LINE/Tad1","NODE_39291_length_294_cov_2.461078:hit:7185:1.3.0.0"],"GeneSet","species:Tad1-8_PGr|genus:LINE/Tad1","NODE_39291_length_294_cov_2.461078",199,293]

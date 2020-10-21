@@ -1,2 +1,0 @@
-[["genemark-NODE_504_length_25561_cov_8.020131-processed-gene-0.13-mRNA-1","genemark-NODE_504_length_25561_cov_8.020131-processed-gene-0.13-mRNA-1"],"maker","genemark-NODE_504_length_25561_cov_8.020131-processed-gene-0.13-mRNA-1","NODE_504_length_25561_cov_8.020131",21436,23203]
-[["maker-NODE_504_length_25561_cov_8.020131-augustus-gene-0.29-mRNA-1","maker-NODE_504_length_25561_cov_8.020131-augustus-gene-0.29-mRNA-1"],"maker","maker-NODE_504_length_25561_cov_8.020131-augustus-gene-0.29-mRNA-1","NODE_504_length_25561_cov_8.020131",23634,25225]

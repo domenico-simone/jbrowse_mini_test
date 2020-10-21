@@ -1,2 +1,0 @@
-[["NODE_44347_length_279_cov_1.078947","NODE_44347_length_279_cov_1.078947"],"GeneSet","NODE_44347_length_279_cov_1.078947","NODE_44347_length_279_cov_1.078947",0,279]
-[["species:Copia-79_MLP-I|genus:LTR/Copia","NODE_44347_length_279_cov_1.078947:hit:2324:1.3.0.0"],"GeneSet","species:Copia-79_MLP-I|genus:LTR/Copia","NODE_44347_length_279_cov_1.078947",0,279]

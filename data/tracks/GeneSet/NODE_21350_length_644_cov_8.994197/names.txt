@@ -1,4 +1,0 @@
-[["NODE_21350_length_644_cov_8.994197","NODE_21350_length_644_cov_8.994197"],"GeneSet","NODE_21350_length_644_cov_8.994197","NODE_21350_length_644_cov_8.994197",0,644]
-[["species:Gypsy-90_MLP-I|genus:LTR/Gypsy","NODE_21350_length_644_cov_8.994197:hit:8180:1.3.0.0"],"GeneSet","species:Gypsy-90_MLP-I|genus:LTR/Gypsy","NODE_21350_length_644_cov_8.994197",7,175]
-[["species:(CTA)n|genus:Simple_repeat","NODE_21350_length_644_cov_8.994197:hit:8181:1.3.0.0"],"GeneSet","species:(CTA)n|genus:Simple_repeat","NODE_21350_length_644_cov_8.994197",187,216]
-[["species:(CTT)n|genus:Simple_repeat","NODE_21350_length_644_cov_8.994197:hit:8182:1.3.0.0"],"GeneSet","species:(CTT)n|genus:Simple_repeat","NODE_21350_length_644_cov_8.994197",286,326]

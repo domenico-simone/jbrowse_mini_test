@@ -1,2 +1,0 @@
-[["NODE_28257_length_372_cov_1.987755","NODE_28257_length_372_cov_1.987755"],"GeneSet","NODE_28257_length_372_cov_1.987755","NODE_28257_length_372_cov_1.987755",0,372]
-[["species:Copia-22_MLP-I|genus:LTR/Copia","NODE_28257_length_372_cov_1.987755:hit:1921:1.3.0.0"],"GeneSet","species:Copia-22_MLP-I|genus:LTR/Copia","NODE_28257_length_372_cov_1.987755",167,284]

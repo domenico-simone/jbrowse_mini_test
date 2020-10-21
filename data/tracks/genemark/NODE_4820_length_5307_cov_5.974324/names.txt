@@ -1,3 +1,0 @@
-[["genemark-NODE_4820_length_5307_cov_5.974324-abinit-gene-0.9-mRNA-1","NODE_4820_length_5307_cov_5.974324:hit:9502:4.5.0.0"],"genemark","genemark-NODE_4820_length_5307_cov_5.974324-abinit-gene-0.9-mRNA-1","NODE_4820_length_5307_cov_5.974324",696,2578]
-[["genemark-NODE_4820_length_5307_cov_5.974324-abinit-gene-0.10-mRNA-1","NODE_4820_length_5307_cov_5.974324:hit:9506:4.5.0.0"],"genemark","genemark-NODE_4820_length_5307_cov_5.974324-abinit-gene-0.10-mRNA-1","NODE_4820_length_5307_cov_5.974324",3338,3788]
-[["genemark-NODE_4820_length_5307_cov_5.974324-abinit-gene-0.11-mRNA-1","NODE_4820_length_5307_cov_5.974324:hit:9508:4.5.0.0"],"genemark","genemark-NODE_4820_length_5307_cov_5.974324-abinit-gene-0.11-mRNA-1","NODE_4820_length_5307_cov_5.974324",4092,5130]

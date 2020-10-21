@@ -1,2 +1,0 @@
-[["NODE_9937_length_1933_cov_3.972868","NODE_9937_length_1933_cov_3.972868"],"GeneSet","NODE_9937_length_1933_cov_3.972868","NODE_9937_length_1933_cov_3.972868",0,1933]
-[["species:(CCTCCA)n|genus:Simple_repeat","NODE_9937_length_1933_cov_3.972868:hit:8153:1.3.0.0"],"GeneSet","species:(CCTCCA)n|genus:Simple_repeat","NODE_9937_length_1933_cov_3.972868",1715,1752]

@@ -1,2 +1,0 @@
-[["snap-NODE_2336_length_10147_cov_6.229142-processed-gene-0.10","snap-NODE_2336_length_10147_cov_6.229142-processed-gene-0.10"],"gene","snap-NODE_2336_length_10147_cov_6.229142-processed-gene-0.10","NODE_2336_length_10147_cov_6.229142",632,4190]
-[["maker-NODE_2336_length_10147_cov_6.229142-snap-gene-0.15","maker-NODE_2336_length_10147_cov_6.229142-snap-gene-0.15"],"gene","maker-NODE_2336_length_10147_cov_6.229142-snap-gene-0.15","NODE_2336_length_10147_cov_6.229142",4236,5609]

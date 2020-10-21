@@ -1,3 +1,0 @@
-[["NODE_22259_length_588_cov_3.596529","NODE_22259_length_588_cov_3.596529"],"GeneSet","NODE_22259_length_588_cov_3.596529","NODE_22259_length_588_cov_3.596529",0,588]
-[["TRINITY_DN9365_c0_g1_i1","NODE_22259_length_588_cov_3.596529:hit:4811:3.2.0.0"],"GeneSet","TRINITY_DN9365_c0_g1_i1","NODE_22259_length_588_cov_3.596529",94,485]
-[["TRINITY_DN9365_c0_g1_i1","NODE_22259_length_588_cov_3.596529:hit:4812:3.2.0.0"],"GeneSet","TRINITY_DN9365_c0_g1_i1","NODE_22259_length_588_cov_3.596529",94,485]

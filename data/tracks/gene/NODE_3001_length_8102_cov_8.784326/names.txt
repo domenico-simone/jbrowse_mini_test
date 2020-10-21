@@ -1,2 +1,0 @@
-[["snap-NODE_3001_length_8102_cov_8.784326-processed-gene-0.0","snap-NODE_3001_length_8102_cov_8.784326-processed-gene-0.0"],"gene","snap-NODE_3001_length_8102_cov_8.784326-processed-gene-0.0","NODE_3001_length_8102_cov_8.784326",3479,4943]
-[["snap-NODE_3001_length_8102_cov_8.784326-processed-gene-0.2","snap-NODE_3001_length_8102_cov_8.784326-processed-gene-0.2"],"gene","snap-NODE_3001_length_8102_cov_8.784326-processed-gene-0.2","NODE_3001_length_8102_cov_8.784326",5143,6005]

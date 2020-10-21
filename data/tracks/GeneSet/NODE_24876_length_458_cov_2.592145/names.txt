@@ -1,2 +1,0 @@
-[["NODE_24876_length_458_cov_2.592145","NODE_24876_length_458_cov_2.592145"],"GeneSet","NODE_24876_length_458_cov_2.592145","NODE_24876_length_458_cov_2.592145",0,458]
-[["species:Harbinger-1_SLL|genus:DNA/PIF-Harbinger","NODE_24876_length_458_cov_2.592145:hit:4970:1.3.0.0"],"GeneSet","species:Harbinger-1_SLL|genus:DNA/PIF-Harbinger","NODE_24876_length_458_cov_2.592145",142,446]

@@ -1,3 +1,0 @@
-[["NODE_18473_length_862_cov_4.144218","NODE_18473_length_862_cov_4.144218"],"GeneSet","NODE_18473_length_862_cov_4.144218","NODE_18473_length_862_cov_4.144218",0,862]
-[["species:(TTAA)n|genus:Simple_repeat","NODE_18473_length_862_cov_4.144218:hit:8262:1.3.0.0"],"GeneSet","species:(TTAA)n|genus:Simple_repeat","NODE_18473_length_862_cov_4.144218",212,240]
-[["species:(TTTTAA)n|genus:Simple_repeat","NODE_18473_length_862_cov_4.144218:hit:8263:1.3.0.0"],"GeneSet","species:(TTTTAA)n|genus:Simple_repeat","NODE_18473_length_862_cov_4.144218",618,651]

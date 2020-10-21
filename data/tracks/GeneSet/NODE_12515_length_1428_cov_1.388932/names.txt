@@ -1,2 +1,0 @@
-[["NODE_12515_length_1428_cov_1.388932","NODE_12515_length_1428_cov_1.388932"],"GeneSet","NODE_12515_length_1428_cov_1.388932","NODE_12515_length_1428_cov_1.388932",0,1428]
-[["species:(ATATCA)n|genus:Simple_repeat","NODE_12515_length_1428_cov_1.388932:hit:4213:1.3.0.0"],"GeneSet","species:(ATATCA)n|genus:Simple_repeat","NODE_12515_length_1428_cov_1.388932",119,179]

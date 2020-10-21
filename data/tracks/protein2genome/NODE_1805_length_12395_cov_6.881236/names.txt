@@ -1,1 +1,0 @@
-[["sp|P27800.3|ALDX_SPOSA","NODE_1805_length_12395_cov_6.881236:hit:117120:3.10.0.0"],"protein2genome","sp|P27800.3|ALDX_SPOSA","NODE_1805_length_12395_cov_6.881236",1589,3034]

@@ -1,8 +1,0 @@
-[["NODE_9626_length_2008_cov_3.178439","NODE_9626_length_2008_cov_3.178439"],"GeneSet","NODE_9626_length_2008_cov_3.178439","NODE_9626_length_2008_cov_3.178439",0,2008]
-[["species:(TTC)n|genus:Simple_repeat","NODE_9626_length_2008_cov_3.178439:hit:881:1.3.0.0"],"GeneSet","species:(TTC)n|genus:Simple_repeat","NODE_9626_length_2008_cov_3.178439",158,213]
-[["TRINITY_DN19733_c0_g1_i1","NODE_9626_length_2008_cov_3.178439:hit:884:3.2.0.0"],"GeneSet","TRINITY_DN19733_c0_g1_i1","NODE_9626_length_2008_cov_3.178439",937,1190]
-[["TRINITY_DN19733_c0_g1_i1","NODE_9626_length_2008_cov_3.178439:hit:886:3.2.0.0"],"GeneSet","TRINITY_DN19733_c0_g1_i1","NODE_9626_length_2008_cov_3.178439",937,1190]
-[["species:(AATA)n|genus:Simple_repeat","NODE_9626_length_2008_cov_3.178439:hit:882:1.3.0.0"],"GeneSet","species:(AATA)n|genus:Simple_repeat","NODE_9626_length_2008_cov_3.178439",1200,1235]
-[["species:(AATAATT)n|genus:Simple_repeat","NODE_9626_length_2008_cov_3.178439:hit:883:1.3.0.0"],"GeneSet","species:(AATAATT)n|genus:Simple_repeat","NODE_9626_length_2008_cov_3.178439",1235,1241]
-[["TRINITY_DN22121_c0_g1_i1","NODE_9626_length_2008_cov_3.178439:hit:885:3.2.0.0"],"GeneSet","TRINITY_DN22121_c0_g1_i1","NODE_9626_length_2008_cov_3.178439",1636,1982]
-[["TRINITY_DN22121_c0_g1_i1","NODE_9626_length_2008_cov_3.178439:hit:887:3.2.0.0"],"GeneSet","TRINITY_DN22121_c0_g1_i1","NODE_9626_length_2008_cov_3.178439",1636,1982]

@@ -1,2 +1,0 @@
-[["NODE_22708_length_563_cov_10.605505","NODE_22708_length_563_cov_10.605505"],"GeneSet","NODE_22708_length_563_cov_10.605505","NODE_22708_length_563_cov_10.605505",0,563]
-[["species:A-rich|genus:Low_complexity","NODE_22708_length_563_cov_10.605505:hit:1922:1.3.0.0"],"GeneSet","species:A-rich|genus:Low_complexity","NODE_22708_length_563_cov_10.605505",156,191]

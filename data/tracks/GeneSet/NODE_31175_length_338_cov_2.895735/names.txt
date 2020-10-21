@@ -1,2 +1,0 @@
-[["NODE_31175_length_338_cov_2.895735","NODE_31175_length_338_cov_2.895735"],"GeneSet","NODE_31175_length_338_cov_2.895735","NODE_31175_length_338_cov_2.895735",0,338]
-[["species:(A)n|genus:Simple_repeat","NODE_31175_length_338_cov_2.895735:hit:7283:1.3.0.0"],"GeneSet","species:(A)n|genus:Simple_repeat","NODE_31175_length_338_cov_2.895735",44,68]

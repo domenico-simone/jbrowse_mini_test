@@ -1,2 +1,0 @@
-[["NODE_39337_length_294_cov_2.095808","NODE_39337_length_294_cov_2.095808"],"GeneSet","NODE_39337_length_294_cov_2.095808","NODE_39337_length_294_cov_2.095808",0,294]
-[["species:(ATTGTG)n|genus:Simple_repeat","NODE_39337_length_294_cov_2.095808:hit:2059:1.3.0.0"],"GeneSet","species:(ATTGTG)n|genus:Simple_repeat","NODE_39337_length_294_cov_2.095808",32,85]

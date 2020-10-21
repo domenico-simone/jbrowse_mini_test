@@ -1,2 +1,0 @@
-[["maker-NODE_6805_length_3367_cov_6.977160-augustus-gene-0.2","maker-NODE_6805_length_3367_cov_6.977160-augustus-gene-0.2"],"gene","maker-NODE_6805_length_3367_cov_6.977160-augustus-gene-0.2","NODE_6805_length_3367_cov_6.977160",0,2150]
-[["genemark-NODE_6805_length_3367_cov_6.977160-processed-gene-0.6","genemark-NODE_6805_length_3367_cov_6.977160-processed-gene-0.6"],"gene","genemark-NODE_6805_length_3367_cov_6.977160-processed-gene-0.6","NODE_6805_length_3367_cov_6.977160",2186,2753]

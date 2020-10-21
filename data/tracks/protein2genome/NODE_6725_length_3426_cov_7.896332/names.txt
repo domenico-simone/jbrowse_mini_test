@@ -1,2 +1,0 @@
-[["sp|P0CO52.1|KYNU_CRYNJ","NODE_6725_length_3426_cov_7.896332:hit:6056:3.10.0.0"],"protein2genome","sp|P0CO52.1|KYNU_CRYNJ","NODE_6725_length_3426_cov_7.896332",888,1934]
-[["sp|P0CO53.1|KYNU_CRYNB","NODE_6725_length_3426_cov_7.896332:hit:6057:3.10.0.0"],"protein2genome","sp|P0CO53.1|KYNU_CRYNB","NODE_6725_length_3426_cov_7.896332",888,1934]

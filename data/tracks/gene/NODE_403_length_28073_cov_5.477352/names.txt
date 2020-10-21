@@ -1,3 +1,0 @@
-[["genemark-NODE_403_length_28073_cov_5.477352-processed-gene-0.0","genemark-NODE_403_length_28073_cov_5.477352-processed-gene-0.0"],"gene","genemark-NODE_403_length_28073_cov_5.477352-processed-gene-0.0","NODE_403_length_28073_cov_5.477352",3,1132]
-[["maker-NODE_403_length_28073_cov_5.477352-snap-gene-0.11","maker-NODE_403_length_28073_cov_5.477352-snap-gene-0.11"],"gene","maker-NODE_403_length_28073_cov_5.477352-snap-gene-0.11","NODE_403_length_28073_cov_5.477352",1942,5016]
-[["maker-NODE_403_length_28073_cov_5.477352-augustus-gene-0.41","maker-NODE_403_length_28073_cov_5.477352-augustus-gene-0.41"],"gene","maker-NODE_403_length_28073_cov_5.477352-augustus-gene-0.41","NODE_403_length_28073_cov_5.477352",8953,19798]

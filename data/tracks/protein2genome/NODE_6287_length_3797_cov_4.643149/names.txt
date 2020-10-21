@@ -1,1 +1,0 @@
-[["sp|O74187.1|ALDH_AGABI","NODE_6287_length_3797_cov_4.643149:hit:2935:3.10.0.0"],"protein2genome","sp|O74187.1|ALDH_AGABI","NODE_6287_length_3797_cov_4.643149",4,1189]

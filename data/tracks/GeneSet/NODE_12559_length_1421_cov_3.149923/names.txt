@@ -1,3 +1,0 @@
-[["NODE_12559_length_1421_cov_3.149923","NODE_12559_length_1421_cov_3.149923"],"GeneSet","NODE_12559_length_1421_cov_3.149923","NODE_12559_length_1421_cov_3.149923",0,1421]
-[["species:(TGTATG)n|genus:Simple_repeat","NODE_12559_length_1421_cov_3.149923:hit:6355:1.3.0.0"],"GeneSet","species:(TGTATG)n|genus:Simple_repeat","NODE_12559_length_1421_cov_3.149923",44,83]
-[["species:DNA3-8B_MLP|genus:DNA","NODE_12559_length_1421_cov_3.149923:hit:6356:1.3.0.0"],"GeneSet","species:DNA3-8B_MLP|genus:DNA","NODE_12559_length_1421_cov_3.149923",315,353]

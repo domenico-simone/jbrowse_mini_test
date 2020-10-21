@@ -1,3 +1,0 @@
-[["NODE_12511_length_1429_cov_0.625960","NODE_12511_length_1429_cov_0.625960"],"GeneSet","NODE_12511_length_1429_cov_0.625960","NODE_12511_length_1429_cov_0.625960",0,1429]
-[["species:MuDRF-1_MLP|genus:DNA/MULE-F","NODE_12511_length_1429_cov_0.625960:hit:7021:1.3.0.0"],"GeneSet","species:MuDRF-1_MLP|genus:DNA/MULE-F","NODE_12511_length_1429_cov_0.625960",214,348]
-[["species:MuDRF-1_MLP|genus:DNA/MULE-F","NODE_12511_length_1429_cov_0.625960:hit:7022:1.3.0.0"],"GeneSet","species:MuDRF-1_MLP|genus:DNA/MULE-F","NODE_12511_length_1429_cov_0.625960",596,811]

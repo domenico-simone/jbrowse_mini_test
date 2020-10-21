@@ -1,4 +1,0 @@
-[["NODE_17939_length_907_cov_6.117949","NODE_17939_length_907_cov_6.117949"],"GeneSet","NODE_17939_length_907_cov_6.117949","NODE_17939_length_907_cov_6.117949",0,907]
-[["species:DNA3-5_PSt|genus:DNA","NODE_17939_length_907_cov_6.117949:hit:8904:1.3.0.0"],"GeneSet","species:DNA3-5_PSt|genus:DNA","NODE_17939_length_907_cov_6.117949",13,111]
-[["species:Gypsy-100_MLP-I|genus:LTR/Gypsy","NODE_17939_length_907_cov_6.117949:hit:8905:1.3.0.0"],"GeneSet","species:Gypsy-100_MLP-I|genus:LTR/Gypsy","NODE_17939_length_907_cov_6.117949",699,750]
-[["species:(GTAAT)n|genus:Simple_repeat","NODE_17939_length_907_cov_6.117949:hit:8906:1.3.0.0"],"GeneSet","species:(GTAAT)n|genus:Simple_repeat","NODE_17939_length_907_cov_6.117949",806,870]

@@ -1,7 +1,0 @@
-[["NODE_6236_length_3849_cov_2.727028","NODE_6236_length_3849_cov_2.727028"],"GeneSet","NODE_6236_length_3849_cov_2.727028","NODE_6236_length_3849_cov_2.727028",0,3849]
-[["species:(TTTATTT)n|genus:Simple_repeat","NODE_6236_length_3849_cov_2.727028:hit:5542:1.3.0.0"],"GeneSet","species:(TTTATTT)n|genus:Simple_repeat","NODE_6236_length_3849_cov_2.727028",2325,2368]
-[["TRINITY_DN3504_c0_g1_i8","NODE_6236_length_3849_cov_2.727028:hit:5544:3.2.0.0"],"GeneSet","TRINITY_DN3504_c0_g1_i8","NODE_6236_length_3849_cov_2.727028",2627,3564]
-[["TRINITY_DN3504_c0_g1_i8","NODE_6236_length_3849_cov_2.727028:hit:5546:3.2.0.0"],"GeneSet","TRINITY_DN3504_c0_g1_i8","NODE_6236_length_3849_cov_2.727028",2627,3564]
-[["TRINITY_DN3504_c0_g1_i9","NODE_6236_length_3849_cov_2.727028:hit:5545:3.2.0.0"],"GeneSet","TRINITY_DN3504_c0_g1_i9","NODE_6236_length_3849_cov_2.727028",3445,3697]
-[["TRINITY_DN3504_c0_g1_i9","NODE_6236_length_3849_cov_2.727028:hit:5547:3.2.0.0"],"GeneSet","TRINITY_DN3504_c0_g1_i9","NODE_6236_length_3849_cov_2.727028",3445,3697]
-[["species:(ATCAAC)n|genus:Simple_repeat","NODE_6236_length_3849_cov_2.727028:hit:5543:1.3.0.0"],"GeneSet","species:(ATCAAC)n|genus:Simple_repeat","NODE_6236_length_3849_cov_2.727028",3587,3632]

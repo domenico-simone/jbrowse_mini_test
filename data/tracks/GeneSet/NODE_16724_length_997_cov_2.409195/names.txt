@@ -1,2 +1,0 @@
-[["NODE_16724_length_997_cov_2.409195","NODE_16724_length_997_cov_2.409195"],"GeneSet","NODE_16724_length_997_cov_2.409195","NODE_16724_length_997_cov_2.409195",0,997]
-[["species:(CT)n|genus:Simple_repeat","NODE_16724_length_997_cov_2.409195:hit:6009:1.3.0.0"],"GeneSet","species:(CT)n|genus:Simple_repeat","NODE_16724_length_997_cov_2.409195",726,757]

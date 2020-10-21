@@ -1,2 +1,0 @@
-[["NODE_21964_length_606_cov_0.439583","NODE_21964_length_606_cov_0.439583"],"GeneSet","NODE_21964_length_606_cov_0.439583","NODE_21964_length_606_cov_0.439583",0,606]
-[["species:Harbinger-19_PGr|genus:DNA/PIF-Harbinger","NODE_21964_length_606_cov_0.439583:hit:7949:1.3.0.0"],"GeneSet","species:Harbinger-19_PGr|genus:DNA/PIF-Harbinger","NODE_21964_length_606_cov_0.439583",143,598]

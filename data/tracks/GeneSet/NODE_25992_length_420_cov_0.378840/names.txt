@@ -1,2 +1,0 @@
-[["NODE_25992_length_420_cov_0.378840","NODE_25992_length_420_cov_0.378840"],"GeneSet","NODE_25992_length_420_cov_0.378840","NODE_25992_length_420_cov_0.378840",0,420]
-[["species:(ATACTAT)n|genus:Simple_repeat","NODE_25992_length_420_cov_0.378840:hit:947:1.3.0.0"],"GeneSet","species:(ATACTAT)n|genus:Simple_repeat","NODE_25992_length_420_cov_0.378840",378,420]

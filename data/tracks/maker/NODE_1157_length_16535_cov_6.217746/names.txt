@@ -1,2 +1,0 @@
-[["augustus-NODE_1157_length_16535_cov_6.217746-processed-gene-0.32-mRNA-1","augustus-NODE_1157_length_16535_cov_6.217746-processed-gene-0.32-mRNA-1"],"maker","augustus-NODE_1157_length_16535_cov_6.217746-processed-gene-0.32-mRNA-1","NODE_1157_length_16535_cov_6.217746",238,2387]
-[["genemark-NODE_1157_length_16535_cov_6.217746-processed-gene-0.25-mRNA-1","genemark-NODE_1157_length_16535_cov_6.217746-processed-gene-0.25-mRNA-1"],"maker","genemark-NODE_1157_length_16535_cov_6.217746-processed-gene-0.25-mRNA-1","NODE_1157_length_16535_cov_6.217746",13072,16099]

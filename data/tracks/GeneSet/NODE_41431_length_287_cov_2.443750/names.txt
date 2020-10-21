@@ -1,2 +1,0 @@
-[["NODE_41431_length_287_cov_2.443750","NODE_41431_length_287_cov_2.443750"],"GeneSet","NODE_41431_length_287_cov_2.443750","NODE_41431_length_287_cov_2.443750",0,287]
-[["species:Gypsy-90_MLP-I|genus:LTR/Gypsy","NODE_41431_length_287_cov_2.443750:hit:3276:1.3.0.0"],"GeneSet","species:Gypsy-90_MLP-I|genus:LTR/Gypsy","NODE_41431_length_287_cov_2.443750",193,287]

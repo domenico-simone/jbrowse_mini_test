@@ -1,2 +1,0 @@
-[["NODE_15993_length_1059_cov_2.604077","NODE_15993_length_1059_cov_2.604077"],"GeneSet","NODE_15993_length_1059_cov_2.604077","NODE_15993_length_1059_cov_2.604077",0,1059]
-[["species:(AATTAA)n|genus:Simple_repeat","NODE_15993_length_1059_cov_2.604077:hit:7195:1.3.0.0"],"GeneSet","species:(AATTAA)n|genus:Simple_repeat","NODE_15993_length_1059_cov_2.604077",642,680]

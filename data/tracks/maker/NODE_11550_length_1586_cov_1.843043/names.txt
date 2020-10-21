@@ -1,2 +1,0 @@
-[["genemark-NODE_11550_length_1586_cov_1.843043-processed-gene-0.3-mRNA-1","genemark-NODE_11550_length_1586_cov_1.843043-processed-gene-0.3-mRNA-1"],"maker","genemark-NODE_11550_length_1586_cov_1.843043-processed-gene-0.3-mRNA-1","NODE_11550_length_1586_cov_1.843043",81,1052]
-[["genemark-NODE_11550_length_1586_cov_1.843043-processed-gene-0.2-mRNA-1","genemark-NODE_11550_length_1586_cov_1.843043-processed-gene-0.2-mRNA-1"],"maker","genemark-NODE_11550_length_1586_cov_1.843043-processed-gene-0.2-mRNA-1","NODE_11550_length_1586_cov_1.843043",1283,1571]

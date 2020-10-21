@@ -1,2 +1,0 @@
-[["NODE_45385_length_183_cov_16.035714","NODE_45385_length_183_cov_16.035714"],"GeneSet","NODE_45385_length_183_cov_16.035714","NODE_45385_length_183_cov_16.035714",0,183]
-[["species:SSU-rRNA_Sce|genus:rRNA","NODE_45385_length_183_cov_16.035714:hit:2264:1.3.0.0"],"GeneSet","species:SSU-rRNA_Sce|genus:rRNA","NODE_45385_length_183_cov_16.035714",5,64]

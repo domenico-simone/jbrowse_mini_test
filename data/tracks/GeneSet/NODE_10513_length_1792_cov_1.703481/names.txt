@@ -1,2 +1,0 @@
-[["NODE_10513_length_1792_cov_1.703481","NODE_10513_length_1792_cov_1.703481"],"GeneSet","NODE_10513_length_1792_cov_1.703481","NODE_10513_length_1792_cov_1.703481",0,1792]
-[["species:Sagan-1_PSt|genus:DNA/TcMar-Sagan","NODE_10513_length_1792_cov_1.703481:hit:2190:1.3.0.0"],"GeneSet","species:Sagan-1_PSt|genus:DNA/TcMar-Sagan","NODE_10513_length_1792_cov_1.703481",1198,1412]

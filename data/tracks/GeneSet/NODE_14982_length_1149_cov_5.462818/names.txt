@@ -1,2 +1,0 @@
-[["NODE_14982_length_1149_cov_5.462818","NODE_14982_length_1149_cov_5.462818"],"GeneSet","NODE_14982_length_1149_cov_5.462818","NODE_14982_length_1149_cov_5.462818",0,1149]
-[["species:P-8_MLP|genus:DNA/P-Fungi","NODE_14982_length_1149_cov_5.462818:hit:9304:1.3.0.0"],"GeneSet","species:P-8_MLP|genus:DNA/P-Fungi","NODE_14982_length_1149_cov_5.462818",795,951]

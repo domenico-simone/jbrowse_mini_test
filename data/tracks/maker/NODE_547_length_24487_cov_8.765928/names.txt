@@ -1,3 +1,0 @@
-[["snap-NODE_547_length_24487_cov_8.765928-processed-gene-0.8-mRNA-1","snap-NODE_547_length_24487_cov_8.765928-processed-gene-0.8-mRNA-1"],"maker","snap-NODE_547_length_24487_cov_8.765928-processed-gene-0.8-mRNA-1","NODE_547_length_24487_cov_8.765928",1210,3447]
-[["maker-NODE_547_length_24487_cov_8.765928-snap-gene-0.32-mRNA-1","maker-NODE_547_length_24487_cov_8.765928-snap-gene-0.32-mRNA-1"],"maker","maker-NODE_547_length_24487_cov_8.765928-snap-gene-0.32-mRNA-1","NODE_547_length_24487_cov_8.765928",4789,6948]
-[["maker-NODE_547_length_24487_cov_8.765928-snap-gene-0.34-mRNA-1","maker-NODE_547_length_24487_cov_8.765928-snap-gene-0.34-mRNA-1"],"maker","maker-NODE_547_length_24487_cov_8.765928-snap-gene-0.34-mRNA-1","NODE_547_length_24487_cov_8.765928",8772,10841]

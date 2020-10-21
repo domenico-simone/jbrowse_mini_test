@@ -1,4 +1,0 @@
-[["NODE_14885_length_1157_cov_5.974757","NODE_14885_length_1157_cov_5.974757"],"GeneSet","NODE_14885_length_1157_cov_5.974757","NODE_14885_length_1157_cov_5.974757",0,1157]
-[["TRINITY_DN49654_c0_g1_i1","NODE_14885_length_1157_cov_5.974757:hit:5443:3.2.0.0"],"GeneSet","TRINITY_DN49654_c0_g1_i1","NODE_14885_length_1157_cov_5.974757",497,802]
-[["TRINITY_DN49654_c0_g1_i1","NODE_14885_length_1157_cov_5.974757:hit:5444:3.2.0.0"],"GeneSet","TRINITY_DN49654_c0_g1_i1","NODE_14885_length_1157_cov_5.974757",497,802]
-[["species:(TTCAAC)n|genus:Simple_repeat","NODE_14885_length_1157_cov_5.974757:hit:5442:1.3.0.0"],"GeneSet","species:(TTCAAC)n|genus:Simple_repeat","NODE_14885_length_1157_cov_5.974757",1062,1109]

@@ -1,2 +1,0 @@
-[["NODE_8765_length_2286_cov_11.584993","NODE_8765_length_2286_cov_11.584993"],"GeneSet","NODE_8765_length_2286_cov_11.584993","NODE_8765_length_2286_cov_11.584993",0,2286]
-[["species:(CTTCGC)n|genus:Simple_repeat","NODE_8765_length_2286_cov_11.584993:hit:4013:1.3.0.0"],"GeneSet","species:(CTTCGC)n|genus:Simple_repeat","NODE_8765_length_2286_cov_11.584993",2194,2240]

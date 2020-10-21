@@ -1,2 +1,0 @@
-[["NODE_45872_length_133_cov_3.333333","NODE_45872_length_133_cov_3.333333"],"GeneSet","NODE_45872_length_133_cov_3.333333","NODE_45872_length_133_cov_3.333333",0,133]
-[["species:(TCATTT)n|genus:Simple_repeat","NODE_45872_length_133_cov_3.333333:hit:6645:1.3.0.0"],"GeneSet","species:(TCATTT)n|genus:Simple_repeat","NODE_45872_length_133_cov_3.333333",0,133]

@@ -1,3 +1,0 @@
-[["NODE_3851_length_6477_cov_1.849291","NODE_3851_length_6477_cov_1.849291"],"GeneSet","NODE_3851_length_6477_cov_1.849291","NODE_3851_length_6477_cov_1.849291",0,6477]
-[["species:(TACTGA)n|genus:Simple_repeat","NODE_3851_length_6477_cov_1.849291:hit:7965:1.3.0.0"],"GeneSet","species:(TACTGA)n|genus:Simple_repeat","NODE_3851_length_6477_cov_1.849291",1613,1649]
-[["species:EnSpm-1_PSt|genus:DNA/CMC-EnSpm","NODE_3851_length_6477_cov_1.849291:hit:7966:1.3.0.0"],"GeneSet","species:EnSpm-1_PSt|genus:DNA/CMC-EnSpm","NODE_3851_length_6477_cov_1.849291",3204,3464]

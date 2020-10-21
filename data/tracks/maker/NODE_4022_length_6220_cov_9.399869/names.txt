@@ -1,2 +1,0 @@
-[["augustus-NODE_4022_length_6220_cov_9.399869-processed-gene-0.25-mRNA-1","augustus-NODE_4022_length_6220_cov_9.399869-processed-gene-0.25-mRNA-1"],"maker","augustus-NODE_4022_length_6220_cov_9.399869-processed-gene-0.25-mRNA-1","NODE_4022_length_6220_cov_9.399869",0,4553]
-[["maker-NODE_4022_length_6220_cov_9.399869-augustus-gene-0.20-mRNA-1","maker-NODE_4022_length_6220_cov_9.399869-augustus-gene-0.20-mRNA-1"],"maker","maker-NODE_4022_length_6220_cov_9.399869-augustus-gene-0.20-mRNA-1","NODE_4022_length_6220_cov_9.399869",5240,6219]

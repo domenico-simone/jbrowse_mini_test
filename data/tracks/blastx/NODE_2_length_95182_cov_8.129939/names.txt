@@ -1,1 +1,0 @@
-[["sp|P0C199.1|KES1_USTMA","NODE_2_length_95182_cov_8.129939:hit:499:3.10.0.0"],"blastx","sp|P0C199.1|KES1_USTMA","NODE_2_length_95182_cov_8.129939",13749,15568]

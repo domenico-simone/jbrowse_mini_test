@@ -1,3 +1,0 @@
-[["NODE_6205_length_3883_cov_6.212726","NODE_6205_length_3883_cov_6.212726"],"GeneSet","NODE_6205_length_3883_cov_6.212726","NODE_6205_length_3883_cov_6.212726",0,3883]
-[["species:Helitron-5_PGr|genus:RC/Helitron","NODE_6205_length_3883_cov_6.212726:hit:4214:1.3.0.0"],"GeneSet","species:Helitron-5_PGr|genus:RC/Helitron","NODE_6205_length_3883_cov_6.212726",2076,2214]
-[["species:Gypsy-6_MLP-LTR|genus:LTR/Gypsy","NODE_6205_length_3883_cov_6.212726:hit:4215:1.3.0.0"],"GeneSet","species:Gypsy-6_MLP-LTR|genus:LTR/Gypsy","NODE_6205_length_3883_cov_6.212726",3636,3728]

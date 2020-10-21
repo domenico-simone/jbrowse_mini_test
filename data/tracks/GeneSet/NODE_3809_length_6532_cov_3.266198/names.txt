@@ -1,7 +1,0 @@
-[["NODE_3809_length_6532_cov_3.266198","NODE_3809_length_6532_cov_3.266198"],"GeneSet","NODE_3809_length_6532_cov_3.266198","NODE_3809_length_6532_cov_3.266198",0,6532]
-[["species:(A)n|genus:Simple_repeat","NODE_3809_length_6532_cov_3.266198:hit:7951:1.3.0.0"],"GeneSet","species:(A)n|genus:Simple_repeat","NODE_3809_length_6532_cov_3.266198",2287,2313]
-[["TRINITY_DN14085_c0_g1_i1","NODE_3809_length_6532_cov_3.266198:hit:7955:3.2.0.0"],"GeneSet","TRINITY_DN14085_c0_g1_i1","NODE_3809_length_6532_cov_3.266198",2941,3696]
-[["TRINITY_DN14085_c0_g1_i2","NODE_3809_length_6532_cov_3.266198:hit:7956:3.2.0.0"],"GeneSet","TRINITY_DN14085_c0_g1_i2","NODE_3809_length_6532_cov_3.266198",2941,3696]
-[["TRINITY_DN14085_c0_g1_i1","NODE_3809_length_6532_cov_3.266198:hit:7953:3.2.0.0"],"GeneSet","TRINITY_DN14085_c0_g1_i1","NODE_3809_length_6532_cov_3.266198",2952,3696]
-[["TRINITY_DN14085_c0_g1_i2","NODE_3809_length_6532_cov_3.266198:hit:7954:3.2.0.0"],"GeneSet","TRINITY_DN14085_c0_g1_i2","NODE_3809_length_6532_cov_3.266198",2952,3696]
-[["species:Gypsy-124_MLP-LTR|genus:LTR/Gypsy","NODE_3809_length_6532_cov_3.266198:hit:7952:1.3.0.0"],"GeneSet","species:Gypsy-124_MLP-LTR|genus:LTR/Gypsy","NODE_3809_length_6532_cov_3.266198",6277,6434]

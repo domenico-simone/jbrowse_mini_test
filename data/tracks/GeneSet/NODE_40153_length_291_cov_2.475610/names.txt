@@ -1,2 +1,0 @@
-[["NODE_40153_length_291_cov_2.475610","NODE_40153_length_291_cov_2.475610"],"GeneSet","NODE_40153_length_291_cov_2.475610","NODE_40153_length_291_cov_2.475610",0,291]
-[["species:DNA3-4_MLP|genus:DNA","NODE_40153_length_291_cov_2.475610:hit:2360:1.3.0.0"],"GeneSet","species:DNA3-4_MLP|genus:DNA","NODE_40153_length_291_cov_2.475610",146,289]

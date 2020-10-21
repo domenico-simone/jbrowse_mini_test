@@ -1,6 +1,0 @@
-[["NODE_6108_length_3979_cov_4.394860","NODE_6108_length_3979_cov_4.394860"],"GeneSet","NODE_6108_length_3979_cov_4.394860","NODE_6108_length_3979_cov_4.394860",0,3979]
-[["species:(A)n|genus:Simple_repeat","NODE_6108_length_3979_cov_4.394860:hit:2516:1.3.0.0"],"GeneSet","species:(A)n|genus:Simple_repeat","NODE_6108_length_3979_cov_4.394860",7,41]
-[["species:DNA3-8_MLP|genus:DNA","NODE_6108_length_3979_cov_4.394860:hit:2517:1.3.0.0"],"GeneSet","species:DNA3-8_MLP|genus:DNA","NODE_6108_length_3979_cov_4.394860",291,360]
-[["species:I-4_AO|genus:LINE/Tad1","NODE_6108_length_3979_cov_4.394860:hit:2518:1.3.0.0"],"GeneSet","species:I-4_AO|genus:LINE/Tad1","NODE_6108_length_3979_cov_4.394860",1601,1933]
-[["species:Tad1-1_PTrit|genus:LINE/Tad1","NODE_6108_length_3979_cov_4.394860:hit:2519:1.3.0.0"],"GeneSet","species:Tad1-1_PTrit|genus:LINE/Tad1","NODE_6108_length_3979_cov_4.394860",2020,2319]
-[["species:Tad1-9_PGr|genus:LINE/Tad1","NODE_6108_length_3979_cov_4.394860:hit:2520:1.3.0.0"],"GeneSet","species:Tad1-9_PGr|genus:LINE/Tad1","NODE_6108_length_3979_cov_4.394860",3389,3469]

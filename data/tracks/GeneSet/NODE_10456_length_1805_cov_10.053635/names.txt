@@ -1,3 +1,0 @@
-[["NODE_10456_length_1805_cov_10.053635","NODE_10456_length_1805_cov_10.053635"],"GeneSet","NODE_10456_length_1805_cov_10.053635","NODE_10456_length_1805_cov_10.053635",0,1805]
-[["species:(TGTCTC)n|genus:Simple_repeat","NODE_10456_length_1805_cov_10.053635:hit:874:1.3.0.0"],"GeneSet","species:(TGTCTC)n|genus:Simple_repeat","NODE_10456_length_1805_cov_10.053635",999,1032]
-[["species:(CTGTCT)n|genus:Simple_repeat","NODE_10456_length_1805_cov_10.053635:hit:875:1.3.0.0"],"GeneSet","species:(CTGTCT)n|genus:Simple_repeat","NODE_10456_length_1805_cov_10.053635",1039,1076]

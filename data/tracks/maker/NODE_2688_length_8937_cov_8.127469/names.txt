@@ -1,2 +1,0 @@
-[["snap-NODE_2688_length_8937_cov_8.127469-processed-gene-0.6-mRNA-1","snap-NODE_2688_length_8937_cov_8.127469-processed-gene-0.6-mRNA-1"],"maker","snap-NODE_2688_length_8937_cov_8.127469-processed-gene-0.6-mRNA-1","NODE_2688_length_8937_cov_8.127469",189,2056]
-[["genemark-NODE_2688_length_8937_cov_8.127469-processed-gene-0.5-mRNA-1","genemark-NODE_2688_length_8937_cov_8.127469-processed-gene-0.5-mRNA-1"],"maker","genemark-NODE_2688_length_8937_cov_8.127469-processed-gene-0.5-mRNA-1","NODE_2688_length_8937_cov_8.127469",2279,5750]

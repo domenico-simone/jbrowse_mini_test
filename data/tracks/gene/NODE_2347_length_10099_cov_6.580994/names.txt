@@ -1,3 +1,0 @@
-[["maker-NODE_2347_length_10099_cov_6.580994-snap-gene-0.14","maker-NODE_2347_length_10099_cov_6.580994-snap-gene-0.14"],"gene","maker-NODE_2347_length_10099_cov_6.580994-snap-gene-0.14","NODE_2347_length_10099_cov_6.580994",2052,2675]
-[["maker-NODE_2347_length_10099_cov_6.580994-augustus-gene-0.6","maker-NODE_2347_length_10099_cov_6.580994-augustus-gene-0.6"],"gene","maker-NODE_2347_length_10099_cov_6.580994-augustus-gene-0.6","NODE_2347_length_10099_cov_6.580994",6281,8832]
-[["maker-NODE_2347_length_10099_cov_6.580994-snap-gene-0.20","maker-NODE_2347_length_10099_cov_6.580994-snap-gene-0.20"],"gene","maker-NODE_2347_length_10099_cov_6.580994-snap-gene-0.20","NODE_2347_length_10099_cov_6.580994",8818,10085]

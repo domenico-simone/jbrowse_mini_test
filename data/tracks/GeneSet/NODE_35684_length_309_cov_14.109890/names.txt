@@ -1,2 +1,0 @@
-[["NODE_35684_length_309_cov_14.109890","NODE_35684_length_309_cov_14.109890"],"GeneSet","NODE_35684_length_309_cov_14.109890","NODE_35684_length_309_cov_14.109890",0,309]
-[["species:(GGT)n|genus:Simple_repeat","NODE_35684_length_309_cov_14.109890:hit:12:1.3.0.0"],"GeneSet","species:(GGT)n|genus:Simple_repeat","NODE_35684_length_309_cov_14.109890",66,104]

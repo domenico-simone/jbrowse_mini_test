@@ -1,2 +1,0 @@
-[["NODE_41831_length_286_cov_2.100629","NODE_41831_length_286_cov_2.100629"],"GeneSet","NODE_41831_length_286_cov_2.100629","NODE_41831_length_286_cov_2.100629",0,286]
-[["species:(ATTTA)n|genus:Simple_repeat","NODE_41831_length_286_cov_2.100629:hit:597:1.3.0.0"],"GeneSet","species:(ATTTA)n|genus:Simple_repeat","NODE_41831_length_286_cov_2.100629",156,208]

@@ -1,3 +1,0 @@
-[["maker-NODE_2183_length_10729_cov_9.016978-snap-gene-0.22-mRNA-1","maker-NODE_2183_length_10729_cov_9.016978-snap-gene-0.22-mRNA-1"],"maker","maker-NODE_2183_length_10729_cov_9.016978-snap-gene-0.22-mRNA-1","NODE_2183_length_10729_cov_9.016978",106,2327]
-[["maker-NODE_2183_length_10729_cov_9.016978-snap-gene-0.20-mRNA-1","maker-NODE_2183_length_10729_cov_9.016978-snap-gene-0.20-mRNA-1"],"maker","maker-NODE_2183_length_10729_cov_9.016978-snap-gene-0.20-mRNA-1","NODE_2183_length_10729_cov_9.016978",2858,3961]
-[["maker-NODE_2183_length_10729_cov_9.016978-snap-gene-0.30-mRNA-1","maker-NODE_2183_length_10729_cov_9.016978-snap-gene-0.30-mRNA-1"],"maker","maker-NODE_2183_length_10729_cov_9.016978-snap-gene-0.30-mRNA-1","NODE_2183_length_10729_cov_9.016978",8209,10686]
