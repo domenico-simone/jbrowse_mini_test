@@ -1,1 +1,0 @@
-[["sp|Q4PD66.1|CCPR2_USTMA","NODE_126_length_42854_cov_9.385424:hit:16964:3.10.0.0"],"protein2genome","sp|Q4PD66.1|CCPR2_USTMA","NODE_126_length_42854_cov_9.385424",37401,38554]

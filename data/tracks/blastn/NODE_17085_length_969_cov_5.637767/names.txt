@@ -1,2 +1,0 @@
-[["TRINITY_DN5775_c0_g1_i8","NODE_17085_length_969_cov_5.637767:hit:2507:3.2.0.0"],"blastn","TRINITY_DN5775_c0_g1_i8","NODE_17085_length_969_cov_5.637767",125,742]
-[["TRINITY_DN5775_c0_g1_i5","NODE_17085_length_969_cov_5.637767:hit:2508:3.2.0.0"],"blastn","TRINITY_DN5775_c0_g1_i5","NODE_17085_length_969_cov_5.637767",228,618]

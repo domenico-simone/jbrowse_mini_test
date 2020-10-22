@@ -1,4 +1,0 @@
-[["sp|Q4P7J7.3|H31_USTMA","NODE_86_length_48267_cov_6.601595:hit:11763:3.10.0.0"],"protein2genome","sp|Q4P7J7.3|H31_USTMA","NODE_86_length_48267_cov_6.601595",31772,32337]
-[["sp|P0CO05.1|H3_CRYNB","NODE_86_length_48267_cov_6.601595:hit:11764:3.10.0.0"],"protein2genome","sp|P0CO05.1|H3_CRYNB","NODE_86_length_48267_cov_6.601595",31772,32337]
-[["sp|Q4PB04.3|H32_USTMA","NODE_86_length_48267_cov_6.601595:hit:11765:3.10.0.0"],"protein2genome","sp|Q4PB04.3|H32_USTMA","NODE_86_length_48267_cov_6.601595",31772,32337]
-[["sp|P0CO04.1|H3_CRYNJ","NODE_86_length_48267_cov_6.601595:hit:11766:3.10.0.0"],"protein2genome","sp|P0CO04.1|H3_CRYNJ","NODE_86_length_48267_cov_6.601595",31772,32337]

@@ -1,3 +1,0 @@
-[["sp|P13860.1|GUX1_PHACH","NODE_103_length_45625_cov_8.319838:hit:13695:3.10.0.0"],"protein2genome","sp|P13860.1|GUX1_PHACH","NODE_103_length_45625_cov_8.319838",851,2505]
-[["sp|Q70KF8.1|SDHB_UROFA","NODE_103_length_45625_cov_8.319838:hit:13696:3.10.0.0"],"protein2genome","sp|Q70KF8.1|SDHB_UROFA","NODE_103_length_45625_cov_8.319838",4071,5194]
-[["sp|P32420.1|SDHB_USTMA","NODE_103_length_45625_cov_8.319838:hit:13697:3.10.0.0"],"protein2genome","sp|P32420.1|SDHB_USTMA","NODE_103_length_45625_cov_8.319838",4206,5215]

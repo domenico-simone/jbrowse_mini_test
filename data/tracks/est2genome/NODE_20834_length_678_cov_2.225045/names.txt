@@ -1,2 +1,0 @@
-[["TRINITY_DN3265_c0_g1_i7","NODE_20834_length_678_cov_2.225045:hit:1384:3.2.0.0"],"est2genome","TRINITY_DN3265_c0_g1_i7","NODE_20834_length_678_cov_2.225045",8,564]
-[["TRINITY_DN3265_c0_g1_i8","NODE_20834_length_678_cov_2.225045:hit:1385:3.2.0.0"],"est2genome","TRINITY_DN3265_c0_g1_i8","NODE_20834_length_678_cov_2.225045",8,564]

@@ -1,2 +1,0 @@
-[["sp|O93868.3|MTDH_AGABI","NODE_2421_length_9831_cov_8.777721:hit:11995:3.10.0.0"],"protein2genome","sp|O93868.3|MTDH_AGABI","NODE_2421_length_9831_cov_8.777721",6457,7781]
-[["sp|O00058.1|MTDH_UROFA","NODE_2421_length_9831_cov_8.777721:hit:11996:3.10.0.0"],"protein2genome","sp|O00058.1|MTDH_UROFA","NODE_2421_length_9831_cov_8.777721",6457,7781]

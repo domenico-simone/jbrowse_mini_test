@@ -1,1 +1,0 @@
-[["sp|P46056.1|CARB_CUTCT","NODE_728_length_21289_cov_7.555949:hit:66501:3.10.0.0"],"protein2genome","sp|P46056.1|CARB_CUTCT","NODE_728_length_21289_cov_7.555949",2129,5264]

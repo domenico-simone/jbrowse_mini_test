@@ -1,2 +1,0 @@
-[["TAER_00007590-RA","maker-NODE_3770_length_6572_cov_5.517910-snap-gene-0.27-mRNA-1","TAER_00007590-RA"],"maker","TAER_00007590-RA","NODE_3770_length_6572_cov_5.517910",19,914]
-[["TAER_00007591-RA","genemark-NODE_3770_length_6572_cov_5.517910-processed-gene-0.30-mRNA-1","TAER_00007591-RA"],"maker","TAER_00007591-RA","NODE_3770_length_6572_cov_5.517910",864,5990]

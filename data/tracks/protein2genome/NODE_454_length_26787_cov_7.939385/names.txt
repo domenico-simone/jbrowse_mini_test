@@ -1,1 +1,0 @@
-[["sp|Q9UVN9.1|MRE11_COPC7","NODE_454_length_26787_cov_7.939385:hit:47207:3.10.0.0"],"protein2genome","sp|Q9UVN9.1|MRE11_COPC7","NODE_454_length_26787_cov_7.939385",4439,6962]

@@ -1,2 +1,0 @@
-[["TAER_00009244-RA","genemark-NODE_9884_length_1947_cov_2.846703-processed-gene-0.1-mRNA-1","TAER_00009244-RA"],"maker","TAER_00009244-RA","NODE_9884_length_1947_cov_2.846703",932,1331]
-[["TAER_00009245-RA","maker-NODE_9884_length_1947_cov_2.846703-snap-gene-0.4-mRNA-1","TAER_00009245-RA"],"maker","TAER_00009245-RA","NODE_9884_length_1947_cov_2.846703",1728,1878]

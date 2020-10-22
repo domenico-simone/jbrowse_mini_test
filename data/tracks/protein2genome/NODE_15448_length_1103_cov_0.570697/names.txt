@@ -1,4 +1,0 @@
-[["sp|Q0H8X3.1|CYB_USTMA","NODE_15448_length_1103_cov_0.570697:hit:3576:3.10.0.0"],"protein2genome","sp|Q0H8X3.1|CYB_USTMA","NODE_15448_length_1103_cov_0.570697",2,1016]
-[["sp|Q94ZJ2.1|CYB_SCHCO","NODE_15448_length_1103_cov_0.570697:hit:3577:3.10.0.0"],"protein2genome","sp|Q94ZJ2.1|CYB_SCHCO","NODE_15448_length_1103_cov_0.570697",2,1016]
-[["sp|Q36551.1|CYB_STRTC","NODE_15448_length_1103_cov_0.570697:hit:3578:3.10.0.0"],"protein2genome","sp|Q36551.1|CYB_STRTC","NODE_15448_length_1103_cov_0.570697",5,1016]
-[["sp|Q36445.1|CYB_MYCVI","NODE_15448_length_1103_cov_0.570697:hit:3579:3.10.0.0"],"protein2genome","sp|Q36445.1|CYB_MYCVI","NODE_15448_length_1103_cov_0.570697",5,1016]

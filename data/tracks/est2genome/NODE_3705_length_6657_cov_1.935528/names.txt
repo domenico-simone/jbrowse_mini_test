@@ -1,2 +1,0 @@
-[["TRINITY_DN486_c0_g3_i1","NODE_3705_length_6657_cov_1.935528:hit:37137:3.2.0.0"],"est2genome","TRINITY_DN486_c0_g3_i1","NODE_3705_length_6657_cov_1.935528",4842,5794]
-[["TRINITY_DN486_c0_g2_i1","NODE_3705_length_6657_cov_1.935528:hit:37138:3.2.0.0"],"est2genome","TRINITY_DN486_c0_g2_i1","NODE_3705_length_6657_cov_1.935528",5771,6366]

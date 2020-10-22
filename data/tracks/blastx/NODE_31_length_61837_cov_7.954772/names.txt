@@ -1,1 +1,0 @@
-[["sp|P49605.2|KAPR_USTMA","NODE_31_length_61837_cov_7.954772:hit:4656:3.10.0.0"],"blastx","sp|P49605.2|KAPR_USTMA","NODE_31_length_61837_cov_7.954772",16128,18100]

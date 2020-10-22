@@ -1,3 +1,0 @@
-[["sp|Q6ZXX3.4|H4_USTMA","NODE_18300_length_881_cov_6.087533:hit:694:3.10.0.0"],"blastx","sp|Q6ZXX3.4|H4_USTMA","NODE_18300_length_881_cov_6.087533",1,393]
-[["sp|P62793.2|H4_AGABI","NODE_18300_length_881_cov_6.087533:hit:695:3.10.0.0"],"blastx","sp|P62793.2|H4_AGABI","NODE_18300_length_881_cov_6.087533",1,393]
-[["sp|P62792.2|H4_PHACH","NODE_18300_length_881_cov_6.087533:hit:696:3.10.0.0"],"blastx","sp|P62792.2|H4_PHACH","NODE_18300_length_881_cov_6.087533",1,393]

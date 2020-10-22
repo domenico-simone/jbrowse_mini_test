@@ -1,2 +1,0 @@
-[["TRINITY_DN1756_c0_g1_i5","NODE_9649_length_2003_cov_2.099147:hit:7465:3.2.0.0"],"blastn","TRINITY_DN1756_c0_g1_i5","NODE_9649_length_2003_cov_2.099147",0,675]
-[["TRINITY_DN1756_c0_g1_i3","NODE_9649_length_2003_cov_2.099147:hit:7466:3.2.0.0"],"blastn","TRINITY_DN1756_c0_g1_i3","NODE_9649_length_2003_cov_2.099147",417,675]

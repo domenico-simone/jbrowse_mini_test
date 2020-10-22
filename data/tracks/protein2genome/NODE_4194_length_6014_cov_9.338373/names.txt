@@ -1,2 +1,0 @@
-[["sp|Q99127.2|CHS4_USTMA","NODE_4194_length_6014_cov_9.338373:hit:2188:3.10.0.0"],"protein2genome","sp|Q99127.2|CHS4_USTMA","NODE_4194_length_6014_cov_9.338373",783,3799]
-[["sp|P30596.1|CHS1_SCHCO","NODE_4194_length_6014_cov_9.338373:hit:2189:3.10.0.0"],"protein2genome","sp|P30596.1|CHS1_SCHCO","NODE_4194_length_6014_cov_9.338373",1207,1948]

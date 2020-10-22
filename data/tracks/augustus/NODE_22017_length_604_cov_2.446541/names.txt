@@ -1,1 +1,0 @@
-[["augustus-NODE_22017_length_604_cov_2.446541-abinit-gene-0.0-mRNA-1","NODE_22017_length_604_cov_2.446541:hit:40:4.5.0.0"],"augustus","augustus-NODE_22017_length_604_cov_2.446541-abinit-gene-0.0-mRNA-1","NODE_22017_length_604_cov_2.446541",20,602]

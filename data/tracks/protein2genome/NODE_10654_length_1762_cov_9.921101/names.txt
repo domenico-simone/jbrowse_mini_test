@@ -1,2 +1,0 @@
-[["sp|P0CO36.1|ISY1_CRYNJ","NODE_10654_length_1762_cov_9.921101:hit:2290:3.10.0.0"],"protein2genome","sp|P0CO36.1|ISY1_CRYNJ","NODE_10654_length_1762_cov_9.921101",40,706]
-[["sp|P0CO37.1|ISY1_CRYNB","NODE_10654_length_1762_cov_9.921101:hit:2291:3.10.0.0"],"protein2genome","sp|P0CO37.1|ISY1_CRYNB","NODE_10654_length_1762_cov_9.921101",40,706]

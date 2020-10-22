@@ -1,2 +1,0 @@
-[["TAER_00005925","maker-NODE_1930_length_11815_cov_7.327772-augustus-gene-0.2","TAER_00005925"],"gene","TAER_00005925","NODE_1930_length_11815_cov_7.327772",848,4476]
-[["TAER_00005926","genemark-NODE_1930_length_11815_cov_7.327772-processed-gene-0.21","TAER_00005926"],"gene","TAER_00005926","NODE_1930_length_11815_cov_7.327772",5894,9197]

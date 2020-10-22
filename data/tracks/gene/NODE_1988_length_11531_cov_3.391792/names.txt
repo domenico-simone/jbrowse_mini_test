@@ -1,2 +1,0 @@
-[["TAER_00005996","maker-NODE_1988_length_11531_cov_3.391792-augustus-gene-0.15","TAER_00005996"],"gene","TAER_00005996","NODE_1988_length_11531_cov_3.391792",192,665]
-[["TAER_00005997","snap-NODE_1988_length_11531_cov_3.391792-processed-gene-0.9","TAER_00005997"],"gene","TAER_00005997","NODE_1988_length_11531_cov_3.391792",1426,1980]

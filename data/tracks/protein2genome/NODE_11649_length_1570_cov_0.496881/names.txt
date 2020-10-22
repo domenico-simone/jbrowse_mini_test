@@ -1,3 +1,0 @@
-[["sp|Q0H8X0.1|NU5M_USTMA","NODE_11649_length_1570_cov_0.496881:hit:5569:3.10.0.0"],"protein2genome","sp|Q0H8X0.1|NU5M_USTMA","NODE_11649_length_1570_cov_0.496881",1,1570]
-[["sp|Q85T01.1|NU5M_CRYNH","NODE_11649_length_1570_cov_0.496881:hit:5570:3.10.0.0"],"protein2genome","sp|Q85T01.1|NU5M_CRYNH","NODE_11649_length_1570_cov_0.496881",1,1570]
-[["sp|P50368.1|NU5M_SCHCO","NODE_11649_length_1570_cov_0.496881:hit:5571:3.10.0.0"],"protein2genome","sp|P50368.1|NU5M_SCHCO","NODE_11649_length_1570_cov_0.496881",4,1564]

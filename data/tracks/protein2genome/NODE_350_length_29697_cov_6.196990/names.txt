@@ -1,1 +1,0 @@
-[["sp|Q9Y8B5.1|MPPB_LENED","NODE_350_length_29697_cov_6.196990:hit:38703:3.10.0.0"],"protein2genome","sp|Q9Y8B5.1|MPPB_LENED","NODE_350_length_29697_cov_6.196990",8051,9558]

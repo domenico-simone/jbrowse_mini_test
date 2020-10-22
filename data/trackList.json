@@ -17,48 +17,6 @@
       },
       {
          "compress" : 0,
-         "key" : "Gene spans",
-         "label" : "gene",
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "feature"
-         },
-         "trackType" : null,
-         "type" : "FeatureTrack",
-         "urlTemplate" : "tracks/gene/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
-         "key" : "BLASTN",
-         "label" : "blastn",
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "generic_parent",
-            "subfeatureClasses" : {
-               "match_part" : "blastn_part"
-            }
-         },
-         "trackType" : null,
-         "type" : "FeatureTrack",
-         "urlTemplate" : "tracks/blastn/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
-         "key" : "BLASTX",
-         "label" : "blastx",
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "generic_parent",
-            "subfeatureClasses" : {
-               "match_part" : "blastx_part"
-            }
-         },
-         "trackType" : null,
-         "type" : "FeatureTrack",
-         "urlTemplate" : "tracks/blastx/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
          "key" : "Transcripts",
          "label" : "maker",
          "storeClass" : "JBrowse/Store/SeqFeature/NCList",
@@ -92,21 +50,6 @@
       },
       {
          "compress" : 0,
-         "key" : "iprscan",
-         "label" : "iprscan",
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "generic_parent",
-            "subfeatureClasses" : {
-               "match_part" : "iprscan_part"
-            }
-         },
-         "trackType" : null,
-         "type" : "FeatureTrack",
-         "urlTemplate" : "tracks/iprscan/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
          "key" : "est2genome",
          "label" : "est2genome",
          "storeClass" : "JBrowse/Store/SeqFeature/NCList",
@@ -119,6 +62,33 @@
          "trackType" : null,
          "type" : "FeatureTrack",
          "urlTemplate" : "tracks/est2genome/{refseq}/trackData.json"
+      },
+      {
+         "compress" : 0,
+         "key" : "iprscan",
+         "label" : "iprscan",
+         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
+         "style" : {
+            "className" : "transcript",
+            "subfeatureClasses" : {
+               "match_part" : "match_part"
+            }
+         },
+         "trackType" : null,
+         "type" : "FeatureTrack",
+         "urlTemplate" : "tracks/iprscan/{refseq}/trackData.json"
+      },
+      {
+         "compress" : 0,
+         "key" : "Gene spans",
+         "label" : "gene",
+         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
+         "style" : {
+            "className" : "feature"
+         },
+         "trackType" : null,
+         "type" : "FeatureTrack",
+         "urlTemplate" : "tracks/gene/{refseq}/trackData.json"
       },
       {
          "compress" : 0,
@@ -137,18 +107,18 @@
       },
       {
          "compress" : 0,
-         "key" : "protein2genome",
-         "label" : "protein2genome",
+         "key" : "BLASTN",
+         "label" : "blastn",
          "storeClass" : "JBrowse/Store/SeqFeature/NCList",
          "style" : {
             "className" : "generic_parent",
             "subfeatureClasses" : {
-               "match_part" : "protein2genome_part"
+               "match_part" : "blastn_part"
             }
          },
          "trackType" : null,
          "type" : "FeatureTrack",
-         "urlTemplate" : "tracks/protein2genome/{refseq}/trackData.json"
+         "urlTemplate" : "tracks/blastn/{refseq}/trackData.json"
       }
    ]
 }

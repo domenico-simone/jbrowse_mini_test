@@ -1,2 +1,0 @@
-[["TRINITY_DN1141_c0_g1_i21","NODE_12045_length_1491_cov_5.130371:hit:158:3.2.0.0"],"est2genome","TRINITY_DN1141_c0_g1_i21","NODE_12045_length_1491_cov_5.130371",0,450]
-[["TRINITY_DN1141_c0_g1_i20","NODE_12045_length_1491_cov_5.130371:hit:159:3.2.0.0"],"est2genome","TRINITY_DN1141_c0_g1_i20","NODE_12045_length_1491_cov_5.130371",121,456]

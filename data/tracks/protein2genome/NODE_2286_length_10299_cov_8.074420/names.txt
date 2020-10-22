@@ -1,1 +1,0 @@
-[["sp|Q870G5.1|GBG_LENED","NODE_2286_length_10299_cov_8.074420:hit:8290:3.10.0.0"],"protein2genome","sp|Q870G5.1|GBG_LENED","NODE_2286_length_10299_cov_8.074420",3565,3884]

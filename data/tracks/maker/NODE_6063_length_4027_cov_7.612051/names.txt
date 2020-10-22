@@ -1,2 +1,0 @@
-[["TAER_00008494-RA","augustus-NODE_6063_length_4027_cov_7.612051-processed-gene-0.6-mRNA-1","TAER_00008494-RA"],"maker","TAER_00008494-RA","NODE_6063_length_4027_cov_7.612051",14,1686]
-[["TAER_00008495-RA","genemark-NODE_6063_length_4027_cov_7.612051-processed-gene-0.9-mRNA-1","TAER_00008495-RA"],"maker","TAER_00008495-RA","NODE_6063_length_4027_cov_7.612051",1973,4025]

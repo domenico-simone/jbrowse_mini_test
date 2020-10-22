@@ -1,1 +1,0 @@
-[["sp|O59845.1|KCY_LENED","NODE_5929_length_4152_cov_8.189317:hit:19589:3.10.0.0"],"protein2genome","sp|O59845.1|KCY_LENED","NODE_5929_length_4152_cov_8.189317",1811,2478]

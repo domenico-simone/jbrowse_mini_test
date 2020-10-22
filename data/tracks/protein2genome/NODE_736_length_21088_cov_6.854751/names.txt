@@ -1,2 +1,0 @@
-[["sp|P0CR14.1|CWC2_CRYNJ","NODE_736_length_21088_cov_6.854751:hit:67135:3.10.0.0"],"protein2genome","sp|P0CR14.1|CWC2_CRYNJ","NODE_736_length_21088_cov_6.854751",6694,7733]
-[["sp|P0CR15.1|CWC2_CRYNB","NODE_736_length_21088_cov_6.854751:hit:67136:3.10.0.0"],"protein2genome","sp|P0CR15.1|CWC2_CRYNB","NODE_736_length_21088_cov_6.854751",6694,7733]

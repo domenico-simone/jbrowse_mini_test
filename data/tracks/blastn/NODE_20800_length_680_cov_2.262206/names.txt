@@ -1,2 +1,0 @@
-[["TRINITY_DN7400_c1_g1_i1","NODE_20800_length_680_cov_2.262206:hit:1319:3.2.0.0"],"blastn","TRINITY_DN7400_c1_g1_i1","NODE_20800_length_680_cov_2.262206",0,246]
-[["TRINITY_DN7400_c0_g1_i1","NODE_20800_length_680_cov_2.262206:hit:1320:3.2.0.0"],"blastn","TRINITY_DN7400_c0_g1_i1","NODE_20800_length_680_cov_2.262206",252,460]

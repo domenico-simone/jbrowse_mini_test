@@ -1,1 +1,0 @@
-[["sp|Q92196.1|ATPD_AGABI","NODE_404_length_28053_cov_7.143144:hit:43382:3.10.0.0"],"protein2genome","sp|Q92196.1|ATPD_AGABI","NODE_404_length_28053_cov_7.143144",10758,11329]

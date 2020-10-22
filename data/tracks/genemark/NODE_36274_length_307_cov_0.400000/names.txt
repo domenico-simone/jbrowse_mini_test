@@ -1,1 +1,0 @@
-[["genemark-NODE_36274_length_307_cov_0.400000-abinit-gene-0.2-mRNA-1","NODE_36274_length_307_cov_0.400000:hit:233:4.5.0.0"],"genemark","genemark-NODE_36274_length_307_cov_0.400000-abinit-gene-0.2-mRNA-1","NODE_36274_length_307_cov_0.400000",21,279]

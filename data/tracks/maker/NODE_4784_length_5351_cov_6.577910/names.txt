@@ -1,2 +1,0 @@
-[["TAER_00008022-RA","maker-NODE_4784_length_5351_cov_6.577910-augustus-gene-0.2-mRNA-1","TAER_00008022-RA"],"maker","TAER_00008022-RA","NODE_4784_length_5351_cov_6.577910",2354,5341]
-[["TAER_00008023-RA","maker-NODE_4784_length_5351_cov_6.577910-augustus-gene-0.8-mRNA-1","TAER_00008023-RA"],"maker","TAER_00008023-RA","NODE_4784_length_5351_cov_6.577910",2590,4831]

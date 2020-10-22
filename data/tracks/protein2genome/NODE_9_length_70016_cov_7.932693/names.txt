@@ -1,5 +1,0 @@
-[["sp|P0CO59.1|LIPA_CRYNB","NODE_9_length_70016_cov_7.932693:hit:1500:3.10.0.0"],"protein2genome","sp|P0CO59.1|LIPA_CRYNB","NODE_9_length_70016_cov_7.932693",21852,23231]
-[["sp|P0CO58.1|LIPA_CRYNJ","NODE_9_length_70016_cov_7.932693:hit:1503:3.10.0.0"],"protein2genome","sp|P0CO58.1|LIPA_CRYNJ","NODE_9_length_70016_cov_7.932693",21852,23231]
-[["sp|B0CQH8.1|LIPA_LACBS","NODE_9_length_70016_cov_7.932693:hit:1501:3.10.0.0"],"protein2genome","sp|B0CQH8.1|LIPA_LACBS","NODE_9_length_70016_cov_7.932693",21852,22826]
-[["sp|A8N1T1.1|LIPA_COPC7","NODE_9_length_70016_cov_7.932693:hit:1502:3.10.0.0"],"protein2genome","sp|A8N1T1.1|LIPA_COPC7","NODE_9_length_70016_cov_7.932693",21852,22826]
-[["sp|M2R8W9.1|MFS1_CERS8","NODE_9_length_70016_cov_7.932693:hit:1504:3.10.0.0"],"protein2genome","sp|M2R8W9.1|MFS1_CERS8","NODE_9_length_70016_cov_7.932693",36944,38553]

@@ -1,2 +1,0 @@
-[["TAER_00007142-RA","maker-NODE_3078_length_7928_cov_8.726574-snap-gene-0.15-mRNA-1","TAER_00007142-RA"],"maker","TAER_00007142-RA","NODE_3078_length_7928_cov_8.726574",2003,6872]
-[["TAER_00007143-RA","genemark-NODE_3078_length_7928_cov_8.726574-processed-gene-0.28-mRNA-1","TAER_00007143-RA"],"maker","TAER_00007143-RA","NODE_3078_length_7928_cov_8.726574",6916,7646]

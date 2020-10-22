@@ -1,3 +1,0 @@
-[["sp|P0CM20.1|ARGJ_CRYNJ","NODE_11910_length_1520_cov_6.314429:hit:6427:3.10.0.0"],"protein2genome","sp|P0CM20.1|ARGJ_CRYNJ","NODE_11910_length_1520_cov_6.314429",36,828]
-[["sp|P0CM21.1|ARGJ_CRYNB","NODE_11910_length_1520_cov_6.314429:hit:6428:3.10.0.0"],"protein2genome","sp|P0CM21.1|ARGJ_CRYNB","NODE_11910_length_1520_cov_6.314429",36,792]
-[["sp|B8PH83.1|ARGJ_POSPM","NODE_11910_length_1520_cov_6.314429:hit:6429:3.10.0.0"],"protein2genome","sp|B8PH83.1|ARGJ_POSPM","NODE_11910_length_1520_cov_6.314429",45,1134]

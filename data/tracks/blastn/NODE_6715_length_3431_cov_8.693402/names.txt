@@ -1,5 +1,0 @@
-[["TRINITY_DN797_c0_g1_i8","NODE_6715_length_3431_cov_8.693402:hit:5949:3.2.0.0"],"blastn","TRINITY_DN797_c0_g1_i8","NODE_6715_length_3431_cov_8.693402",0,3431]
-[["TRINITY_DN797_c0_g1_i4","NODE_6715_length_3431_cov_8.693402:hit:5950:3.2.0.0"],"blastn","TRINITY_DN797_c0_g1_i4","NODE_6715_length_3431_cov_8.693402",0,3431]
-[["TRINITY_DN7820_c0_g1_i1","NODE_6715_length_3431_cov_8.693402:hit:5951:3.2.0.0"],"blastn","TRINITY_DN7820_c0_g1_i1","NODE_6715_length_3431_cov_8.693402",55,280]
-[["TRINITY_DN797_c0_g1_i9","NODE_6715_length_3431_cov_8.693402:hit:5952:3.2.0.0"],"blastn","TRINITY_DN797_c0_g1_i9","NODE_6715_length_3431_cov_8.693402",512,3431]
-[["TRINITY_DN797_c0_g1_i5","NODE_6715_length_3431_cov_8.693402:hit:5953:3.2.0.0"],"blastn","TRINITY_DN797_c0_g1_i5","NODE_6715_length_3431_cov_8.693402",512,3431]

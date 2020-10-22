@@ -1,1 +1,0 @@
-[["TRINITY_DN10600_c0_g1_i2","NODE_41249_length_288_cov_0.819876:hit:864:3.2.0.0"],"est2genome","TRINITY_DN10600_c0_g1_i2","NODE_41249_length_288_cov_0.819876",22,288]

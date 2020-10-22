@@ -1,2 +1,0 @@
-[["sp|P40909.2|RL40_CRYNJ","NODE_424_length_27531_cov_7.577106:hit:44881:3.10.0.0"],"protein2genome","sp|P40909.2|RL40_CRYNJ","NODE_424_length_27531_cov_7.577106",8210,8816]
-[["sp|P19848.1|UBIQ_COPCO","NODE_424_length_27531_cov_7.577106:hit:44882:3.10.0.0"],"protein2genome","sp|P19848.1|UBIQ_COPCO","NODE_424_length_27531_cov_7.577106",8210,8586]

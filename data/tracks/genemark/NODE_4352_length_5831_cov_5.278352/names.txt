@@ -1,3 +1,0 @@
-[["genemark-NODE_4352_length_5831_cov_5.278352-abinit-gene-0.19-mRNA-1","NODE_4352_length_5831_cov_5.278352:hit:4111:4.5.0.0"],"genemark","genemark-NODE_4352_length_5831_cov_5.278352-abinit-gene-0.19-mRNA-1","NODE_4352_length_5831_cov_5.278352",10,934]
-[["genemark-NODE_4352_length_5831_cov_5.278352-abinit-gene-0.17-mRNA-1","NODE_4352_length_5831_cov_5.278352:hit:4116:4.5.0.0"],"genemark","genemark-NODE_4352_length_5831_cov_5.278352-abinit-gene-0.17-mRNA-1","NODE_4352_length_5831_cov_5.278352",1262,2930]
-[["genemark-NODE_4352_length_5831_cov_5.278352-abinit-gene-0.18-mRNA-1","NODE_4352_length_5831_cov_5.278352:hit:4119:4.5.0.0"],"genemark","genemark-NODE_4352_length_5831_cov_5.278352-abinit-gene-0.18-mRNA-1","NODE_4352_length_5831_cov_5.278352",3619,4489]

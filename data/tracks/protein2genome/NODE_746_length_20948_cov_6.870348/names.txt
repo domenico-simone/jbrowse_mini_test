@@ -1,2 +1,0 @@
-[["sp|P0CQ91.1|MAK5_CRYNB","NODE_746_length_20948_cov_6.870348:hit:67792:3.10.0.0"],"protein2genome","sp|P0CQ91.1|MAK5_CRYNB","NODE_746_length_20948_cov_6.870348",2997,4356]
-[["sp|P0CQ90.1|MAK5_CRYNJ","NODE_746_length_20948_cov_6.870348:hit:67793:3.10.0.0"],"protein2genome","sp|P0CQ90.1|MAK5_CRYNJ","NODE_746_length_20948_cov_6.870348",2997,4356]

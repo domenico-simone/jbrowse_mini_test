@@ -1,3 +1,0 @@
-[["TAER_00003739-RA","genemark-NODE_857_length_19620_cov_6.686378-processed-gene-0.3-mRNA-1","TAER_00003739-RA"],"maker","TAER_00003739-RA","NODE_857_length_19620_cov_6.686378",9463,9862]
-[["TAER_00003740-RA","genemark-NODE_857_length_19620_cov_6.686378-processed-gene-0.0-mRNA-1","TAER_00003740-RA"],"maker","TAER_00003740-RA","NODE_857_length_19620_cov_6.686378",11978,15741]
-[["TAER_00003741-RA","maker-NODE_857_length_19620_cov_6.686378-augustus-gene-0.18-mRNA-1","TAER_00003741-RA"],"maker","TAER_00003741-RA","NODE_857_length_19620_cov_6.686378",16310,17108]

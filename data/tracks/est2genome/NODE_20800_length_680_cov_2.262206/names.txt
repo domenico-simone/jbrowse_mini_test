@@ -1,2 +1,0 @@
-[["TRINITY_DN7400_c1_g1_i1","NODE_20800_length_680_cov_2.262206:hit:1321:3.2.0.0"],"est2genome","TRINITY_DN7400_c1_g1_i1","NODE_20800_length_680_cov_2.262206",0,251]
-[["TRINITY_DN7400_c0_g1_i1","NODE_20800_length_680_cov_2.262206:hit:1322:3.2.0.0"],"est2genome","TRINITY_DN7400_c0_g1_i1","NODE_20800_length_680_cov_2.262206",252,460]

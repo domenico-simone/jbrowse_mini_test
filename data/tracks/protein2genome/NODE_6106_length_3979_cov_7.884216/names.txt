@@ -1,2 +1,0 @@
-[["sp|Q5KPJ5.1|ILVB_CRYNJ","NODE_6106_length_3979_cov_7.884216:hit:1142:3.10.0.0"],"protein2genome","sp|Q5KPJ5.1|ILVB_CRYNJ","NODE_6106_length_3979_cov_7.884216",868,2239]
-[["sp|Q6SSJ3.1|ILVB_CRYNH","NODE_6106_length_3979_cov_7.884216:hit:1143:3.10.0.0"],"protein2genome","sp|Q6SSJ3.1|ILVB_CRYNH","NODE_6106_length_3979_cov_7.884216",868,2239]

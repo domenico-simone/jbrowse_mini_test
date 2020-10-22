@@ -1,2 +1,0 @@
-[["genemark-NODE_6053_length_4037_cov_7.451407-abinit-gene-0.16-mRNA-1","NODE_6053_length_4037_cov_7.451407:hit:647:4.5.0.0"],"genemark","genemark-NODE_6053_length_4037_cov_7.451407-abinit-gene-0.16-mRNA-1","NODE_6053_length_4037_cov_7.451407",60,688]
-[["genemark-NODE_6053_length_4037_cov_7.451407-abinit-gene-0.17-mRNA-1","NODE_6053_length_4037_cov_7.451407:hit:651:4.5.0.0"],"genemark","genemark-NODE_6053_length_4037_cov_7.451407-abinit-gene-0.17-mRNA-1","NODE_6053_length_4037_cov_7.451407",2074,3817]

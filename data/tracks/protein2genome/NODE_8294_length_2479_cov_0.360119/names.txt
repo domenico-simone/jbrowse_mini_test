@@ -1,1 +1,0 @@
-[["sp|Q0H8X6.1|NU4M_USTMA","NODE_8294_length_2479_cov_0.360119:hit:1567:3.10.0.0"],"protein2genome","sp|Q0H8X6.1|NU4M_USTMA","NODE_8294_length_2479_cov_0.360119",680,2153]

@@ -1,3 +1,0 @@
-[["sp|P0CP46.1|PABP_CRYNJ","NODE_4042_length_6197_cov_7.565239:hit:554:3.10.0.0"],"protein2genome","sp|P0CP46.1|PABP_CRYNJ","NODE_4042_length_6197_cov_7.565239",861,3074]
-[["sp|P0CP47.1|PABP_CRYNB","NODE_4042_length_6197_cov_7.565239:hit:555:3.10.0.0"],"protein2genome","sp|P0CP47.1|PABP_CRYNB","NODE_4042_length_6197_cov_7.565239",861,3074]
-[["sp|Q4P8R9.1|PABP_USTMA","NODE_4042_length_6197_cov_7.565239:hit:556:3.10.0.0"],"protein2genome","sp|Q4P8R9.1|PABP_USTMA","NODE_4042_length_6197_cov_7.565239",867,3074]

@@ -1,1 +1,0 @@
-[["sp|P31301.2|PYRC_USTMA","NODE_6878_length_3302_cov_2.189172:hit:7304:3.10.0.0"],"protein2genome","sp|P31301.2|PYRC_USTMA","NODE_6878_length_3302_cov_2.189172",2101,3130]

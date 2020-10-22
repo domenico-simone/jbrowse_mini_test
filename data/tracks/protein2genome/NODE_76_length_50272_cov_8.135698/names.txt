@@ -1,2 +1,0 @@
-[["sp|P0CS14.1|DDI1_CRYNJ","NODE_76_length_50272_cov_8.135698:hit:10632:3.10.0.0"],"protein2genome","sp|P0CS14.1|DDI1_CRYNJ","NODE_76_length_50272_cov_8.135698",24563,25700]
-[["sp|P0CS15.1|DDI1_CRYNB","NODE_76_length_50272_cov_8.135698:hit:10633:3.10.0.0"],"protein2genome","sp|P0CS15.1|DDI1_CRYNB","NODE_76_length_50272_cov_8.135698",24563,25700]
