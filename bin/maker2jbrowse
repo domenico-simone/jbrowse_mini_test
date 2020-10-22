@@ -144,7 +144,7 @@ my %commands = (
     snap_masked     => [ '--key' => "SNAP",
                          '--className' => 'transcript',
                          '--subfeatureClasses' => '{"match_part": "snap-exon"}',
-                         '--type' => 'match:snap_masked',
+                         '--type' => 'match:snap',
                        ],
     augustus        => [ '--key' => "Augustus",
                          '--className' => 'transcript',
