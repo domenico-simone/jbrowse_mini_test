@@ -190,7 +190,7 @@ my %commands = (
     #functional annotation
     iprscan         => [ '--key' =>  "iprscan",
                          '--className' => 'generic_parent',
-                         '--subfeatureClasses' => '{"match_part": "iprscan_exon"}',
+                         '--subfeatureClasses' => '{"match_part": "iprscan_part"}',
                          '--type' => 'match:iprscan',
                        ],
     #evidence alignments
