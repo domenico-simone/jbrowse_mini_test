@@ -1,0 +1,2 @@
+[["genemark-NODE_9695_length_1987_cov_7.681720-abinit-gene-0.15-mRNA-1","NODE_9695_length_1987_cov_7.681720:hit:7674:4.5.0.0"],"genemark","genemark-NODE_9695_length_1987_cov_7.681720-abinit-gene-0.15-mRNA-1","NODE_9695_length_1987_cov_7.681720",332,893]
+[["genemark-NODE_9695_length_1987_cov_7.681720-abinit-gene-0.14-mRNA-1","NODE_9695_length_1987_cov_7.681720:hit:7675:4.5.0.0"],"genemark","genemark-NODE_9695_length_1987_cov_7.681720-abinit-gene-0.14-mRNA-1","NODE_9695_length_1987_cov_7.681720",924,1940]

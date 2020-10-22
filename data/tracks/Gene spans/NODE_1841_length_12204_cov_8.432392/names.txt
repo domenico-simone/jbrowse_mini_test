@@ -1,3 +1,0 @@
-[["TAER_00005764","maker-NODE_1841_length_12204_cov_8.432392-snap-gene-0.7","TAER_00005764"],"Gene spans","TAER_00005764","NODE_1841_length_12204_cov_8.432392",1506,2095]
-[["TAER_00005765","maker-NODE_1841_length_12204_cov_8.432392-snap-gene-0.9","TAER_00005765"],"Gene spans","TAER_00005765","NODE_1841_length_12204_cov_8.432392",4838,9269]
-[["TAER_00005766","genemark-NODE_1841_length_12204_cov_8.432392-processed-gene-0.6","TAER_00005766"],"Gene spans","TAER_00005766","NODE_1841_length_12204_cov_8.432392",10087,10940]

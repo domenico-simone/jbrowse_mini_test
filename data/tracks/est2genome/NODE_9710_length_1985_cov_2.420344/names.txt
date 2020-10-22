@@ -1,0 +1,2 @@
+[["TRINITY_DN12092_c0_g1_i1","NODE_9710_length_1985_cov_2.420344:hit:7744:3.2.0.0"],"est2genome","TRINITY_DN12092_c0_g1_i1","NODE_9710_length_1985_cov_2.420344",933,1985]
+[["TRINITY_DN12092_c0_g1_i2","NODE_9710_length_1985_cov_2.420344:hit:7745:3.2.0.0"],"est2genome","TRINITY_DN12092_c0_g1_i2","NODE_9710_length_1985_cov_2.420344",933,1985]

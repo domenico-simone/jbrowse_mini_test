@@ -1,0 +1,2 @@
+[["TAER_00004017","maker-NODE_966_length_18531_cov_7.380337-snap-gene-0.12","TAER_00004017"],"gene","TAER_00004017","NODE_966_length_18531_cov_7.380337",3108,7729]
+[["TAER_00004018","genemark-NODE_966_length_18531_cov_7.380337-processed-gene-0.1","TAER_00004018"],"gene","TAER_00004018","NODE_966_length_18531_cov_7.380337",12932,17551]

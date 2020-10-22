@@ -1,1 +1,1 @@
-{"hash_bits":"12","lowercase_keys":1,"format":"json","track_names":["Gene spans"],"compress":0}
+{"compress":0,"lowercase_keys":1,"hash_bits":"16","format":"json","track_names":["augustus","blastn","blastx","est2genome","gene","genemark","maker","protein2genome"]}

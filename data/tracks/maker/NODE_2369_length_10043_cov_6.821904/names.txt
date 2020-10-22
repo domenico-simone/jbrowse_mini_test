@@ -1,0 +1,2 @@
+[["TAER_00006490-RA","genemark-NODE_2369_length_10043_cov_6.821904-processed-gene-0.26-mRNA-1","TAER_00006490-RA"],"maker","TAER_00006490-RA","NODE_2369_length_10043_cov_6.821904",2576,5640]
+[["TAER_00006491-RA","augustus-NODE_2369_length_10043_cov_6.821904-processed-gene-0.27-mRNA-1","TAER_00006491-RA"],"maker","TAER_00006491-RA","NODE_2369_length_10043_cov_6.821904",5793,7449]

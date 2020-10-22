@@ -1,0 +1,2 @@
+[["TAER_00007970-RA","maker-NODE_4672_length_5504_cov_8.049284-augustus-gene-0.15-mRNA-1","TAER_00007970-RA"],"maker","TAER_00007970-RA","NODE_4672_length_5504_cov_8.049284",2578,3765]
+[["TAER_00007971-RA","maker-NODE_4672_length_5504_cov_8.049284-augustus-gene-0.16-mRNA-1","TAER_00007971-RA"],"maker","TAER_00007971-RA","NODE_4672_length_5504_cov_8.049284",3801,5339]

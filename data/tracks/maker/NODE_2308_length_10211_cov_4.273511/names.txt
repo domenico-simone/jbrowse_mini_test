@@ -1,0 +1,2 @@
+[["TAER_00006416-RA","maker-NODE_2308_length_10211_cov_4.273511-augustus-gene-0.4-mRNA-1","TAER_00006416-RA"],"maker","TAER_00006416-RA","NODE_2308_length_10211_cov_4.273511",4170,5137]
+[["TAER_00006417-RA","genemark-NODE_2308_length_10211_cov_4.273511-processed-gene-0.25-mRNA-1","TAER_00006417-RA"],"maker","TAER_00006417-RA","NODE_2308_length_10211_cov_4.273511",5806,8507]

@@ -1,0 +1,1 @@
+[["sp|Q870B9.1|ENO_RHOMI","NODE_2081_length_11132_cov_7.759746:hit:2472:3.10.0.0"],"protein2genome","sp|Q870B9.1|ENO_RHOMI","NODE_2081_length_11132_cov_7.759746",2754,4676]

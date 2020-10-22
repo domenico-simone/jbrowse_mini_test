@@ -1,0 +1,2 @@
+[["TRINITY_DN15462_c0_g1_i1","NODE_20456_length_702_cov_2.643478:hit:758:3.2.0.0"],"blastn","TRINITY_DN15462_c0_g1_i1","NODE_20456_length_702_cov_2.643478",191,411]
+[["TRINITY_DN21337_c0_g1_i1","NODE_20456_length_702_cov_2.643478:hit:759:3.2.0.0"],"blastn","TRINITY_DN21337_c0_g1_i1","NODE_20456_length_702_cov_2.643478",495,686]

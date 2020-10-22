@@ -1,0 +1,1 @@
+[["sp|Q4P9R2.2|HUT1_USTMA","NODE_6058_length_4033_cov_7.397081:hit:721:3.10.0.0"],"protein2genome","sp|Q4P9R2.2|HUT1_USTMA","NODE_6058_length_4033_cov_7.397081",2458,3355]

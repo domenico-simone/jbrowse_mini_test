@@ -1,0 +1,2 @@
+[["TAER_00002561-RA","genemark-NODE_504_length_25561_cov_8.020131-processed-gene-0.13-mRNA-1","TAER_00002561-RA"],"maker","TAER_00002561-RA","NODE_504_length_25561_cov_8.020131",21436,23203]
+[["TAER_00002562-RA","maker-NODE_504_length_25561_cov_8.020131-augustus-gene-0.29-mRNA-1","TAER_00002562-RA"],"maker","TAER_00002562-RA","NODE_504_length_25561_cov_8.020131",23634,25225]

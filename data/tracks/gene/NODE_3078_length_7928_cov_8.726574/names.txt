@@ -1,0 +1,2 @@
+[["TAER_00007142","maker-NODE_3078_length_7928_cov_8.726574-snap-gene-0.15","TAER_00007142"],"gene","TAER_00007142","NODE_3078_length_7928_cov_8.726574",2003,6872]
+[["TAER_00007143","genemark-NODE_3078_length_7928_cov_8.726574-processed-gene-0.28","TAER_00007143"],"gene","TAER_00007143","NODE_3078_length_7928_cov_8.726574",6916,7646]

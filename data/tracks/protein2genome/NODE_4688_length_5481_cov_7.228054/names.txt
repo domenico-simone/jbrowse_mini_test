@@ -1,0 +1,3 @@
+[["sp|P0C017.1|PUR6_CRYNH","NODE_4688_length_5481_cov_7.228054:hit:7999:3.10.0.0"],"protein2genome","sp|P0C017.1|PUR6_CRYNH","NODE_4688_length_5481_cov_7.228054",2561,3901]
+[["sp|P0CQ36.1|PUR6_CRYNJ","NODE_4688_length_5481_cov_7.228054:hit:8000:3.10.0.0"],"protein2genome","sp|P0CQ36.1|PUR6_CRYNJ","NODE_4688_length_5481_cov_7.228054",2561,3901]
+[["sp|P0CQ37.1|PUR6_CRYNB","NODE_4688_length_5481_cov_7.228054:hit:8001:3.10.0.0"],"protein2genome","sp|P0CQ37.1|PUR6_CRYNB","NODE_4688_length_5481_cov_7.228054",2561,3901]

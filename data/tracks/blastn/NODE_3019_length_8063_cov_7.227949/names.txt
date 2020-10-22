@@ -1,0 +1,2 @@
+[["TRINITY_DN750_c0_g1_i1","NODE_3019_length_8063_cov_7.227949:hit:24819:3.2.0.0"],"blastn","TRINITY_DN750_c0_g1_i1","NODE_3019_length_8063_cov_7.227949",3985,5653]
+[["TRINITY_DN750_c0_g1_i3","NODE_3019_length_8063_cov_7.227949:hit:24820:3.2.0.0"],"blastn","TRINITY_DN750_c0_g1_i3","NODE_3019_length_8063_cov_7.227949",4273,5653]

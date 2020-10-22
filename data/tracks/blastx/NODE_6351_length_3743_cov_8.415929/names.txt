@@ -1,0 +1,1 @@
+[["sp|A8PRS6.2|MMM1_MALGO","NODE_6351_length_3743_cov_8.415929:hit:3351:3.10.0.0"],"blastx","sp|A8PRS6.2|MMM1_MALGO","NODE_6351_length_3743_cov_8.415929",877,1972]

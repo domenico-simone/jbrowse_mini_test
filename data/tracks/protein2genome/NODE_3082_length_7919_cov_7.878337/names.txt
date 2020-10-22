@@ -1,0 +1,1 @@
+[["sp|E3L408.2|RRG9_PUCGT","NODE_3082_length_7919_cov_7.878337:hit:25996:3.10.0.0"],"protein2genome","sp|E3L408.2|RRG9_PUCGT","NODE_3082_length_7919_cov_7.878337",3544,3928]

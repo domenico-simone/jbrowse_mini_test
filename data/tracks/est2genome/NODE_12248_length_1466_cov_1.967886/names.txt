@@ -1,0 +1,2 @@
+[["TRINITY_DN5880_c0_g1_i1","NODE_12248_length_1466_cov_1.967886:hit:699:3.2.0.0"],"est2genome","TRINITY_DN5880_c0_g1_i1","NODE_12248_length_1466_cov_1.967886",561,1466]
+[["TRINITY_DN5880_c0_g1_i2","NODE_12248_length_1466_cov_1.967886:hit:700:3.2.0.0"],"est2genome","TRINITY_DN5880_c0_g1_i2","NODE_12248_length_1466_cov_1.967886",561,1466]

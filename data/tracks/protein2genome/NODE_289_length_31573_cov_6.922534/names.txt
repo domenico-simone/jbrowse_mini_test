@@ -1,0 +1,1 @@
+[["sp|E3KY53.1|MTND_PUCGT","NODE_289_length_31573_cov_6.922534:hit:33103:3.10.0.0"],"protein2genome","sp|E3KY53.1|MTND_PUCGT","NODE_289_length_31573_cov_6.922534",27626,28528]

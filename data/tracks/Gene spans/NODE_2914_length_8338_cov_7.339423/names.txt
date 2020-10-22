@@ -1,2 +1,0 @@
-[["TAER_00007016","maker-NODE_2914_length_8338_cov_7.339423-augustus-gene-0.15","TAER_00007016"],"Gene spans","TAER_00007016","NODE_2914_length_8338_cov_7.339423",1071,6146]
-[["TAER_00007017","maker-NODE_2914_length_8338_cov_7.339423-snap-gene-0.0","TAER_00007017"],"Gene spans","TAER_00007017","NODE_2914_length_8338_cov_7.339423",1315,2422]

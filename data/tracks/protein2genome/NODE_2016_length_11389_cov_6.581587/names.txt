@@ -1,0 +1,1 @@
+[["sp|O94122.1|KPYK_AGABI","NODE_2016_length_11389_cov_6.581587:hit:550:3.10.0.0"],"protein2genome","sp|O94122.1|KPYK_AGABI","NODE_2016_length_11389_cov_6.581587",4887,7004]

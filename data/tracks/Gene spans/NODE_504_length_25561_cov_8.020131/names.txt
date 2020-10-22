@@ -1,2 +1,0 @@
-[["TAER_00002561","genemark-NODE_504_length_25561_cov_8.020131-processed-gene-0.13","TAER_00002561"],"Gene spans","TAER_00002561","NODE_504_length_25561_cov_8.020131",21436,23203]
-[["TAER_00002562","maker-NODE_504_length_25561_cov_8.020131-augustus-gene-0.29","TAER_00002562"],"Gene spans","TAER_00002562","NODE_504_length_25561_cov_8.020131",23634,25225]

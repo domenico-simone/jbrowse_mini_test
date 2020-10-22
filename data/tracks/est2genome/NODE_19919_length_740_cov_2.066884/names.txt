@@ -1,0 +1,2 @@
+[["TRINITY_DN6582_c0_g1_i2","NODE_19919_length_740_cov_2.066884:hit:3527:3.2.0.0"],"est2genome","TRINITY_DN6582_c0_g1_i2","NODE_19919_length_740_cov_2.066884",260,740]
+[["TRINITY_DN6582_c0_g1_i1","NODE_19919_length_740_cov_2.066884:hit:3526:3.2.0.0"],"est2genome","TRINITY_DN6582_c0_g1_i1","NODE_19919_length_740_cov_2.066884",260,636]

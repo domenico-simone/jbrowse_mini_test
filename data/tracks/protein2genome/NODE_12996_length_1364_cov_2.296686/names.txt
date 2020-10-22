@@ -1,0 +1,2 @@
+[["sp|P0CM54.1|CANB_CRYNJ","NODE_12996_length_1364_cov_2.296686:hit:2803:3.10.0.0"],"protein2genome","sp|P0CM54.1|CANB_CRYNJ","NODE_12996_length_1364_cov_2.296686",341,1340]
+[["sp|P0CM55.1|CANB_CRYNB","NODE_12996_length_1364_cov_2.296686:hit:2804:3.10.0.0"],"protein2genome","sp|P0CM55.1|CANB_CRYNB","NODE_12996_length_1364_cov_2.296686",341,1340]

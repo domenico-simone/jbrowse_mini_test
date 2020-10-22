@@ -1,7 +1,0 @@
-[["TAER_00000714","maker-NODE_98_length_46509_cov_7.399845-snap-gene-0.6","TAER_00000714"],"Gene spans","TAER_00000714","NODE_98_length_46509_cov_7.399845",3740,6794]
-[["TAER_00000715","maker-NODE_98_length_46509_cov_7.399845-augustus-gene-0.39","TAER_00000715"],"Gene spans","TAER_00000715","NODE_98_length_46509_cov_7.399845",15319,21637]
-[["TAER_00000716","maker-NODE_98_length_46509_cov_7.399845-snap-gene-0.20","TAER_00000716"],"Gene spans","TAER_00000716","NODE_98_length_46509_cov_7.399845",25281,27251]
-[["TAER_00000717","maker-NODE_98_length_46509_cov_7.399845-augustus-gene-0.44","TAER_00000717"],"Gene spans","TAER_00000717","NODE_98_length_46509_cov_7.399845",31542,36646]
-[["TAER_00000718","maker-NODE_98_length_46509_cov_7.399845-snap-gene-0.18","TAER_00000718"],"Gene spans","TAER_00000718","NODE_98_length_46509_cov_7.399845",40888,43743]
-[["TAER_00000719","maker-NODE_98_length_46509_cov_7.399845-snap-gene-0.23","TAER_00000719"],"Gene spans","TAER_00000719","NODE_98_length_46509_cov_7.399845",42253,43242]
-[["TAER_00000720","maker-NODE_98_length_46509_cov_7.399845-snap-gene-0.24","TAER_00000720"],"Gene spans","TAER_00000720","NODE_98_length_46509_cov_7.399845",43651,44813]

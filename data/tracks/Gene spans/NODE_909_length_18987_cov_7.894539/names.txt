@@ -1,2 +1,0 @@
-[["TAER_00003879","augustus-NODE_909_length_18987_cov_7.894539-processed-gene-0.1","TAER_00003879"],"Gene spans","TAER_00003879","NODE_909_length_18987_cov_7.894539",294,3246]
-[["TAER_00003880","maker-NODE_909_length_18987_cov_7.894539-snap-gene-0.15","TAER_00003880"],"Gene spans","TAER_00003880","NODE_909_length_18987_cov_7.894539",6795,11449]

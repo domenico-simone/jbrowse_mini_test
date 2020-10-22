@@ -1,0 +1,2 @@
+[["TAER_00008354-RA","snap-NODE_5733_length_4337_cov_9.354869-processed-gene-0.7-mRNA-1","TAER_00008354-RA"],"maker","TAER_00008354-RA","NODE_5733_length_4337_cov_9.354869",868,2777]
+[["TAER_00008355-RA","snap-NODE_5733_length_4337_cov_9.354869-processed-gene-0.8-mRNA-1","TAER_00008355-RA"],"maker","TAER_00008355-RA","NODE_5733_length_4337_cov_9.354869",2863,4337]

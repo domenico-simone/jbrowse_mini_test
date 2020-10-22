@@ -1,0 +1,1 @@
+[["sp|O60206.1|XLNA_AGABI","NODE_887_length_19291_cov_6.805312:hit:76763:3.10.0.0"],"protein2genome","sp|O60206.1|XLNA_AGABI","NODE_887_length_19291_cov_6.805312",11104,12001]

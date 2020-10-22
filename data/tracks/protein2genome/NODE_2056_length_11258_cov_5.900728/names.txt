@@ -1,0 +1,2 @@
+[["sp|P0CR60.1|SNX3_CRYNJ","NODE_2056_length_11258_cov_5.900728:hit:1820:3.10.0.0"],"protein2genome","sp|P0CR60.1|SNX3_CRYNJ","NODE_2056_length_11258_cov_5.900728",6832,7549]
+[["sp|P0CR61.1|SNX3_CRYNB","NODE_2056_length_11258_cov_5.900728:hit:1821:3.10.0.0"],"protein2genome","sp|P0CR61.1|SNX3_CRYNB","NODE_2056_length_11258_cov_5.900728",6832,7549]

@@ -1,0 +1,2 @@
+[["TRINITY_DN7308_c0_g1_i2","NODE_4524_length_5675_cov_1.392754:hit:5917:3.2.0.0"],"est2genome","TRINITY_DN7308_c0_g1_i2","NODE_4524_length_5675_cov_1.392754",4097,5411]
+[["TRINITY_DN7308_c0_g1_i4","NODE_4524_length_5675_cov_1.392754:hit:5918:3.2.0.0"],"est2genome","TRINITY_DN7308_c0_g1_i4","NODE_4524_length_5675_cov_1.392754",4097,5411]

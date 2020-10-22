@@ -1,0 +1,1 @@
+[["sp|G9BIY1.1|MVD_GANLU","NODE_6623_length_3503_cov_7.521919:hit:5300:3.10.0.0"],"blastx","sp|G9BIY1.1|MVD_GANLU","NODE_6623_length_3503_cov_7.521919",1960,3223]

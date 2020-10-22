@@ -1,0 +1,2 @@
+[["TAER_00005325-RA","augustus-NODE_1595_length_13578_cov_10.363244-processed-gene-0.9-mRNA-1","TAER_00005325-RA"],"maker","TAER_00005325-RA","NODE_1595_length_13578_cov_10.363244",4675,5449]
+[["TAER_00005326-RA","genemark-NODE_1595_length_13578_cov_10.363244-processed-gene-0.1-mRNA-1","TAER_00005326-RA"],"maker","TAER_00005326-RA","NODE_1595_length_13578_cov_10.363244",5908,12657]

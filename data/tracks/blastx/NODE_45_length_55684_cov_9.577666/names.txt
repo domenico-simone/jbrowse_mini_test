@@ -1,0 +1,1 @@
+[["sp|P51997.2|RL25_PUCGR","NODE_45_length_55684_cov_9.577666:hit:6326:3.10.0.0"],"blastx","sp|P51997.2|RL25_PUCGR","NODE_45_length_55684_cov_9.577666",42106,42681]

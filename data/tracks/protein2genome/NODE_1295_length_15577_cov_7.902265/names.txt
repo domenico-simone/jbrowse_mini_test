@@ -1,0 +1,2 @@
+[["sp|P16578.3|TRP_COPCI","NODE_1295_length_15577_cov_7.902265:hit:96696:3.10.0.0"],"protein2genome","sp|P16578.3|TRP_COPCI","NODE_1295_length_15577_cov_7.902265",1562,4100]
+[["sp|A8NEP3.2|TRP_COPC7","NODE_1295_length_15577_cov_7.902265:hit:96697:3.10.0.0"],"protein2genome","sp|A8NEP3.2|TRP_COPC7","NODE_1295_length_15577_cov_7.902265",1562,4100]

@@ -1,0 +1,1 @@
+[["sp|P29091.1|BGLS_SCHCO","NODE_1366_length_15079_cov_8.313002:hit:99733:3.10.0.0"],"protein2genome","sp|P29091.1|BGLS_SCHCO","NODE_1366_length_15079_cov_8.313002",10749,11399]

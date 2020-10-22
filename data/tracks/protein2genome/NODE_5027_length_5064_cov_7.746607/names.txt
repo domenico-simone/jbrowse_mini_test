@@ -1,0 +1,1 @@
+[["sp|Q92403.1|HEM1_AGABI","NODE_5027_length_5064_cov_7.746607:hit:11703:3.10.0.0"],"protein2genome","sp|Q92403.1|HEM1_AGABI","NODE_5027_length_5064_cov_7.746607",2664,4348]

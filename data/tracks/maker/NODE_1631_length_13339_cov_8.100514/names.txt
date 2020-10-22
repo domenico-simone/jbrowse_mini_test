@@ -1,0 +1,2 @@
+[["TAER_00005391-RA","genemark-NODE_1631_length_13339_cov_8.100514-processed-gene-0.1-mRNA-1","TAER_00005391-RA"],"maker","TAER_00005391-RA","NODE_1631_length_13339_cov_8.100514",2856,7368]
+[["TAER_00005392-RA","genemark-NODE_1631_length_13339_cov_8.100514-processed-gene-0.2-mRNA-1","TAER_00005392-RA"],"maker","TAER_00005392-RA","NODE_1631_length_13339_cov_8.100514",7607,11319]

@@ -1,0 +1,6 @@
+[["sp|P0CN85.1|GLNA_CRYNB","NODE_6805_length_3367_cov_6.977160:hit:6728:3.10.0.0"],"protein2genome","sp|P0CN85.1|GLNA_CRYNB","NODE_6805_length_3367_cov_6.977160",555,2114]
+[["sp|Q96UV5.1|GLNA_HEBCY","NODE_6805_length_3367_cov_6.977160:hit:6729:3.10.0.0"],"protein2genome","sp|Q96UV5.1|GLNA_HEBCY","NODE_6805_length_3367_cov_6.977160",555,2114]
+[["sp|Q8X169.2|GLNA_AMAMU","NODE_6805_length_3367_cov_6.977160:hit:6730:3.10.0.0"],"protein2genome","sp|Q8X169.2|GLNA_AMAMU","NODE_6805_length_3367_cov_6.977160",555,2114]
+[["sp|Q8J1R3.1|GLNA_SUIBO","NODE_6805_length_3367_cov_6.977160:hit:6731:3.10.0.0"],"protein2genome","sp|Q8J1R3.1|GLNA_SUIBO","NODE_6805_length_3367_cov_6.977160",555,2114]
+[["sp|P0CN84.1|GLNA_CRYNJ","NODE_6805_length_3367_cov_6.977160:hit:6732:3.10.0.0"],"protein2genome","sp|P0CN84.1|GLNA_CRYNJ","NODE_6805_length_3367_cov_6.977160",555,2114]
+[["sp|O00088.1|GLNA_AGABI","NODE_6805_length_3367_cov_6.977160:hit:6733:3.10.0.0"],"protein2genome","sp|O00088.1|GLNA_AGABI","NODE_6805_length_3367_cov_6.977160",555,2114]

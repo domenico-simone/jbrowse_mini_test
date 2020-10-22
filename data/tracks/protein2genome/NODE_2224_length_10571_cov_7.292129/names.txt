@@ -1,0 +1,1 @@
+[["sp|P49601.1|LEUC_USTMA","NODE_2224_length_10571_cov_7.292129:hit:6492:3.10.0.0"],"protein2genome","sp|P49601.1|LEUC_USTMA","NODE_2224_length_10571_cov_7.292129",4817,6645]

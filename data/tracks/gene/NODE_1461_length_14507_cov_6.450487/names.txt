@@ -1,0 +1,2 @@
+[["TAER_00005079","augustus-NODE_1461_length_14507_cov_6.450487-processed-gene-0.29","TAER_00005079"],"gene","TAER_00005079","NODE_1461_length_14507_cov_6.450487",6846,7667]
+[["TAER_00005080","maker-NODE_1461_length_14507_cov_6.450487-snap-gene-0.22","TAER_00005080"],"gene","TAER_00005080","NODE_1461_length_14507_cov_6.450487",8318,11121]

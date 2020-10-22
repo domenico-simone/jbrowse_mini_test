@@ -1,0 +1,2 @@
+[["sp|P0CM16.1|ARF_CRYNJ","NODE_1141_length_16667_cov_8.716099:hit:89326:3.10.0.0"],"protein2genome","sp|P0CM16.1|ARF_CRYNJ","NODE_1141_length_16667_cov_8.716099",1901,2586]
+[["sp|P0CM17.1|ARF_CRYNB","NODE_1141_length_16667_cov_8.716099:hit:89327:3.10.0.0"],"protein2genome","sp|P0CM17.1|ARF_CRYNB","NODE_1141_length_16667_cov_8.716099",1901,2586]

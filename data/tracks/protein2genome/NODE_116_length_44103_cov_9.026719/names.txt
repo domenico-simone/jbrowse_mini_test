@@ -1,0 +1,1 @@
+[["sp|P30596.1|CHS1_SCHCO","NODE_116_length_44103_cov_9.026719:hit:15576:3.10.0.0"],"protein2genome","sp|P30596.1|CHS1_SCHCO","NODE_116_length_44103_cov_9.026719",12111,12762]
