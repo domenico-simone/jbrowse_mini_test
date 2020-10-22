@@ -17,36 +17,18 @@
       },
       {
          "compress" : 0,
-         "key" : "Transcripts",
-         "label" : "maker",
+         "key" : "iprscan",
+         "label" : "iprscan",
          "storeClass" : "JBrowse/Store/SeqFeature/NCList",
          "style" : {
             "className" : "transcript",
             "subfeatureClasses" : {
-               "CDS" : "CDS",
-               "exon" : "exon",
-               "five_prime_UTR" : "five_prime_UTR",
-               "three_prime_UTR" : "three_prime_UTR"
+               "match_part" : "protein2genome_part"
             }
          },
          "trackType" : null,
          "type" : "FeatureTrack",
-         "urlTemplate" : "tracks/maker/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
-         "key" : "GeneMark",
-         "label" : "genemark",
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "transcript",
-            "subfeatureClasses" : {
-               "match_part" : "genemark-exon"
-            }
-         },
-         "trackType" : null,
-         "type" : "FeatureTrack",
-         "urlTemplate" : "tracks/genemark/{refseq}/trackData.json"
+         "urlTemplate" : "tracks/iprscan/{refseq}/trackData.json"
       },
       {
          "compress" : 0,
@@ -62,21 +44,6 @@
          "trackType" : null,
          "type" : "FeatureTrack",
          "urlTemplate" : "tracks/est2genome/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
-         "key" : "iprscan",
-         "label" : "iprscan",
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "transcript",
-            "subfeatureClasses" : {
-               "match_part" : "match_part"
-            }
-         },
-         "trackType" : null,
-         "type" : "FeatureTrack",
-         "urlTemplate" : "tracks/iprscan/{refseq}/trackData.json"
       },
       {
          "compress" : 0,
@@ -107,6 +74,21 @@
       },
       {
          "compress" : 0,
+         "key" : "GeneMark",
+         "label" : "genemark",
+         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
+         "style" : {
+            "className" : "transcript",
+            "subfeatureClasses" : {
+               "match_part" : "genemark-exon"
+            }
+         },
+         "trackType" : null,
+         "type" : "FeatureTrack",
+         "urlTemplate" : "tracks/genemark/{refseq}/trackData.json"
+      },
+      {
+         "compress" : 0,
          "key" : "BLASTN",
          "label" : "blastn",
          "storeClass" : "JBrowse/Store/SeqFeature/NCList",
@@ -119,6 +101,24 @@
          "trackType" : null,
          "type" : "FeatureTrack",
          "urlTemplate" : "tracks/blastn/{refseq}/trackData.json"
+      },
+      {
+         "compress" : 0,
+         "key" : "Transcripts",
+         "label" : "maker",
+         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
+         "style" : {
+            "className" : "transcript",
+            "subfeatureClasses" : {
+               "CDS" : "CDS",
+               "exon" : "exon",
+               "five_prime_UTR" : "five_prime_UTR",
+               "three_prime_UTR" : "three_prime_UTR"
+            }
+         },
+         "trackType" : null,
+         "type" : "FeatureTrack",
+         "urlTemplate" : "tracks/maker/{refseq}/trackData.json"
       }
    ]
 }
