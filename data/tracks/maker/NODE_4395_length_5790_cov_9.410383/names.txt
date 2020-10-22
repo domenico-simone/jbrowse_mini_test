@@ -1,0 +1,2 @@
+[["TAER_00007848-RA","maker-NODE_4395_length_5790_cov_9.410383-snap-gene-0.2-mRNA-1","TAER_00007848-RA"],"maker","TAER_00007848-RA","NODE_4395_length_5790_cov_9.410383",34,3057]
+[["TAER_00007849-RA","genemark-NODE_4395_length_5790_cov_9.410383-processed-gene-0.7-mRNA-1","TAER_00007849-RA"],"maker","TAER_00007849-RA","NODE_4395_length_5790_cov_9.410383",3198,5790]

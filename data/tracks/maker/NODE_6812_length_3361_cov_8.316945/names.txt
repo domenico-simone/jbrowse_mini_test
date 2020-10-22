@@ -1,0 +1,2 @@
+[["TAER_00008735-RA","genemark-NODE_6812_length_3361_cov_8.316945-processed-gene-0.5-mRNA-1","TAER_00008735-RA"],"maker","TAER_00008735-RA","NODE_6812_length_3361_cov_8.316945",0,2153]
+[["TAER_00008736-RA","genemark-NODE_6812_length_3361_cov_8.316945-processed-gene-0.7-mRNA-1","TAER_00008736-RA"],"maker","TAER_00008736-RA","NODE_6812_length_3361_cov_8.316945",1772,2399]

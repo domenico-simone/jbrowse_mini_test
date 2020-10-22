@@ -1,0 +1,2 @@
+[["genemark-NODE_9676_length_1993_cov_6.898714-abinit-gene-0.10-mRNA-1","NODE_9676_length_1993_cov_6.898714:hit:7564:4.5.0.0"],"genemark","genemark-NODE_9676_length_1993_cov_6.898714-abinit-gene-0.10-mRNA-1","NODE_9676_length_1993_cov_6.898714",44,578]
+[["genemark-NODE_9676_length_1993_cov_6.898714-abinit-gene-0.9-mRNA-1","NODE_9676_length_1993_cov_6.898714:hit:7567:4.5.0.0"],"genemark","genemark-NODE_9676_length_1993_cov_6.898714-abinit-gene-0.9-mRNA-1","NODE_9676_length_1993_cov_6.898714",716,1799]

@@ -1,0 +1,2 @@
+[["TAER_00008598","genemark-NODE_6381_length_3721_cov_7.467724-processed-gene-0.9","TAER_00008598"],"gene","TAER_00008598","NODE_6381_length_3721_cov_7.467724",0,2051]
+[["TAER_00008599","maker-NODE_6381_length_3721_cov_7.467724-augustus-gene-0.2","TAER_00008599"],"gene","TAER_00008599","NODE_6381_length_3721_cov_7.467724",2261,2881]

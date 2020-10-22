@@ -1,0 +1,2 @@
+[["TRINITY_DN33102_c0_g1_i1","NODE_16675_length_1001_cov_2.556064:hit:1609:3.2.0.0"],"est2genome","TRINITY_DN33102_c0_g1_i1","NODE_16675_length_1001_cov_2.556064",415,715]
+[["TRINITY_DN9291_c0_g1_i1","NODE_16675_length_1001_cov_2.556064:hit:1610:3.2.0.0"],"est2genome","TRINITY_DN9291_c0_g1_i1","NODE_16675_length_1001_cov_2.556064",714,987]

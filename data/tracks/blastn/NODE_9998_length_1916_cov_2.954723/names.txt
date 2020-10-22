@@ -1,0 +1,2 @@
+[["TRINITY_DN37825_c0_g1_i1","NODE_9998_length_1916_cov_2.954723:hit:9:3.2.0.0"],"blastn","TRINITY_DN37825_c0_g1_i1","NODE_9998_length_1916_cov_2.954723",515,956]
+[["TRINITY_DN4970_c0_g1_i11","NODE_9998_length_1916_cov_2.954723:hit:10:3.2.0.0"],"blastn","TRINITY_DN4970_c0_g1_i11","NODE_9998_length_1916_cov_2.954723",1331,1634]

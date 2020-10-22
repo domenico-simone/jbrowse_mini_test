@@ -1,0 +1,1 @@
+[["sp|Q92195.1|PALY_AGABI","NODE_1470_length_14417_cov_8.470469:hit:104028:3.10.0.0"],"protein2genome","sp|Q92195.1|PALY_AGABI","NODE_1470_length_14417_cov_8.470469",4040,4592]

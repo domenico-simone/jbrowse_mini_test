@@ -1,0 +1,1 @@
+[["sp|A8NZY7.1|DUS3_COPC7","NODE_410_length_27769_cov_5.723518:hit:43745:3.10.0.0"],"protein2genome","sp|A8NZY7.1|DUS3_COPC7","NODE_410_length_27769_cov_5.723518",5265,7000]

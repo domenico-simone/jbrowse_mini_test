@@ -1,0 +1,2 @@
+[["TRINITY_DN4317_c0_g2_i1","NODE_9761_length_1975_cov_3.554113:hit:7950:3.2.0.0"],"est2genome","TRINITY_DN4317_c0_g2_i1","NODE_9761_length_1975_cov_3.554113",88,301]
+[["TRINITY_DN32285_c0_g1_i1","NODE_9761_length_1975_cov_3.554113:hit:7951:3.2.0.0"],"est2genome","TRINITY_DN32285_c0_g1_i1","NODE_9761_length_1975_cov_3.554113",336,591]

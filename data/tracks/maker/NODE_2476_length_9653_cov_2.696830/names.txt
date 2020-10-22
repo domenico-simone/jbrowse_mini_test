@@ -1,0 +1,2 @@
+[["TAER_00006608-RA","genemark-NODE_2476_length_9653_cov_2.696830-processed-gene-0.12-mRNA-1","TAER_00006608-RA"],"maker","TAER_00006608-RA","NODE_2476_length_9653_cov_2.696830",7496,8169]
+[["TAER_00006609-RA","genemark-NODE_2476_length_9653_cov_2.696830-processed-gene-0.13-mRNA-1","TAER_00006609-RA"],"maker","TAER_00006609-RA","NODE_2476_length_9653_cov_2.696830",8401,9346]

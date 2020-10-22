@@ -1,0 +1,2 @@
+[["TAER_00009081","maker-NODE_8562_length_2369_cov_1.457627-augustus-gene-0.5","TAER_00009081"],"gene","TAER_00009081","NODE_8562_length_2369_cov_1.457627",103,1299]
+[["TAER_00009082","maker-NODE_8562_length_2369_cov_1.457627-augustus-gene-0.6","TAER_00009082"],"gene","TAER_00009082","NODE_8562_length_2369_cov_1.457627",1454,2057]

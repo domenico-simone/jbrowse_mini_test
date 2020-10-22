@@ -1,0 +1,2 @@
+[["TRINITY_DN7205_c0_g1_i1","NODE_42076_length_285_cov_2.727848:hit:70:3.2.0.0"],"blastn","TRINITY_DN7205_c0_g1_i1","NODE_42076_length_285_cov_2.727848",0,253]
+[["TRINITY_DN7205_c0_g1_i2","NODE_42076_length_285_cov_2.727848:hit:71:3.2.0.0"],"blastn","TRINITY_DN7205_c0_g1_i2","NODE_42076_length_285_cov_2.727848",0,253]

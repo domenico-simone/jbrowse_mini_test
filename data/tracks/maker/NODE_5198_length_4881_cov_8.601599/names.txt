@@ -1,0 +1,2 @@
+[["TAER_00008171-RA","augustus-NODE_5198_length_4881_cov_8.601599-processed-gene-0.10-mRNA-1","TAER_00008171-RA"],"maker","TAER_00008171-RA","NODE_5198_length_4881_cov_8.601599",207,1366]
+[["TAER_00008172-RA","augustus-NODE_5198_length_4881_cov_8.601599-processed-gene-0.11-mRNA-1","TAER_00008172-RA"],"maker","TAER_00008172-RA","NODE_5198_length_4881_cov_8.601599",4020,4854]

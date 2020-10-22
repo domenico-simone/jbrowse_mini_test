@@ -1,0 +1,2 @@
+[["TAER_00007368-RA","genemark-NODE_3394_length_7185_cov_8.141683-processed-gene-0.11-mRNA-1","TAER_00007368-RA"],"maker","TAER_00007368-RA","NODE_3394_length_7185_cov_8.141683",868,2910]
+[["TAER_00007369-RA","maker-NODE_3394_length_7185_cov_8.141683-snap-gene-0.14-mRNA-1","TAER_00007369-RA"],"maker","TAER_00007369-RA","NODE_3394_length_7185_cov_8.141683",2701,4996]

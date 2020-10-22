@@ -1,0 +1,1 @@
+[["sp|Q4P763.1|GUAA_USTMA","NODE_854_length_19654_cov_8.060122:hit:74893:3.10.0.0"],"protein2genome","sp|Q4P763.1|GUAA_USTMA","NODE_854_length_19654_cov_8.060122",4407,5610]

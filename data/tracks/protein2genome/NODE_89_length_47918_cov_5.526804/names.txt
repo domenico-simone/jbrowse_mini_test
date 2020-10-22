@@ -1,0 +1,3 @@
+[["sp|Q6ZXX3.4|H4_USTMA","NODE_89_length_47918_cov_5.526804:hit:12013:3.10.0.0"],"protein2genome","sp|Q6ZXX3.4|H4_USTMA","NODE_89_length_47918_cov_5.526804",26843,27227]
+[["sp|P62793.2|H4_AGABI","NODE_89_length_47918_cov_5.526804:hit:12014:3.10.0.0"],"protein2genome","sp|P62793.2|H4_AGABI","NODE_89_length_47918_cov_5.526804",26843,27227]
+[["sp|P62792.2|H4_PHACH","NODE_89_length_47918_cov_5.526804:hit:12015:3.10.0.0"],"protein2genome","sp|P62792.2|H4_PHACH","NODE_89_length_47918_cov_5.526804",26843,27227]

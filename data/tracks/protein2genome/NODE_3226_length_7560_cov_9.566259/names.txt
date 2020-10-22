@@ -1,0 +1,1 @@
+[["sp|P32360.1|ERG2_USTMA","NODE_3226_length_7560_cov_9.566259:hit:28704:3.10.0.0"],"protein2genome","sp|P32360.1|ERG2_USTMA","NODE_3226_length_7560_cov_9.566259",1228,1733]

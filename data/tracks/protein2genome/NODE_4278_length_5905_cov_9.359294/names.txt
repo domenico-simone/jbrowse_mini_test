@@ -1,0 +1,2 @@
+[["sp|E3LAN7.1|RU1C1_PUCGT","NODE_4278_length_5905_cov_9.359294:hit:3146:3.10.0.0"],"protein2genome","sp|E3LAN7.1|RU1C1_PUCGT","NODE_4278_length_5905_cov_9.359294",1337,2369]
+[["sp|E3KIY6.1|RU1C2_PUCGT","NODE_4278_length_5905_cov_9.359294:hit:3147:3.10.0.0"],"protein2genome","sp|E3KIY6.1|RU1C2_PUCGT","NODE_4278_length_5905_cov_9.359294",1343,2369]

@@ -1,0 +1,1 @@
+[["sp|D8Q7Q5.1|SEC11_SCHCM","NODE_4607_length_5579_cov_8.593727:hit:6950:3.10.0.0"],"protein2genome","sp|D8Q7Q5.1|SEC11_SCHCM","NODE_4607_length_5579_cov_8.593727",942,1360]

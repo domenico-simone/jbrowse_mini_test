@@ -1,0 +1,1 @@
+[["sp|P31301.2|PYRC_USTMA","NODE_7091_length_3152_cov_5.975207:hit:8801:3.10.0.0"],"blastx","sp|P31301.2|PYRC_USTMA","NODE_7091_length_3152_cov_5.975207",1598,3114]

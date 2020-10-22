@@ -1,0 +1,2 @@
+[["genemark-NODE_2753_length_8736_cov_8.802439-abinit-gene-0.4-mRNA-1","NODE_2753_length_8736_cov_8.802439:hit:19661:4.5.0.0"],"genemark","genemark-NODE_2753_length_8736_cov_8.802439-abinit-gene-0.4-mRNA-1","NODE_2753_length_8736_cov_8.802439",1022,5762]
+[["genemark-NODE_2753_length_8736_cov_8.802439-abinit-gene-0.5-mRNA-1","NODE_2753_length_8736_cov_8.802439:hit:19664:4.5.0.0"],"genemark","genemark-NODE_2753_length_8736_cov_8.802439-abinit-gene-0.5-mRNA-1","NODE_2753_length_8736_cov_8.802439",7613,7802]

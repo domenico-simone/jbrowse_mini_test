@@ -1,0 +1,2 @@
+[["genemark-NODE_9575_length_2022_cov_12.295515-abinit-gene-0.4-mRNA-1","NODE_9575_length_2022_cov_12.295515:hit:7171:4.5.0.0"],"genemark","genemark-NODE_9575_length_2022_cov_12.295515-abinit-gene-0.4-mRNA-1","NODE_9575_length_2022_cov_12.295515",26,560]
+[["genemark-NODE_9575_length_2022_cov_12.295515-abinit-gene-0.5-mRNA-1","NODE_9575_length_2022_cov_12.295515:hit:7175:4.5.0.0"],"genemark","genemark-NODE_9575_length_2022_cov_12.295515-abinit-gene-0.5-mRNA-1","NODE_9575_length_2022_cov_12.295515",1048,1999]

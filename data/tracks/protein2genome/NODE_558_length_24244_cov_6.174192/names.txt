@@ -1,0 +1,3 @@
+[["sp|P0CR82.1|TCTP_CRYNJ","NODE_558_length_24244_cov_6.174192:hit:54570:3.10.0.0"],"protein2genome","sp|P0CR82.1|TCTP_CRYNJ","NODE_558_length_24244_cov_6.174192",982,1846]
+[["sp|P0CR83.1|TCTP_CRYNB","NODE_558_length_24244_cov_6.174192:hit:54571:3.10.0.0"],"protein2genome","sp|P0CR83.1|TCTP_CRYNB","NODE_558_length_24244_cov_6.174192",982,1846]
+[["sp|Q4PF30.2|TCTP_USTMA","NODE_558_length_24244_cov_6.174192:hit:54572:3.10.0.0"],"protein2genome","sp|Q4PF30.2|TCTP_USTMA","NODE_558_length_24244_cov_6.174192",1107,1683]

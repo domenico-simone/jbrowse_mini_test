@@ -1,0 +1,3 @@
+[["TAER_00009233-RA","maker-NODE_9757_length_1977_cov_2.849730-snap-gene-0.2-mRNA-1","TAER_00009233-RA"],"maker","TAER_00009233-RA","NODE_9757_length_1977_cov_2.849730",2,97]
+[["TAER_00009234-RA","genemark-NODE_9757_length_1977_cov_2.849730-processed-gene-0.0-mRNA-1","TAER_00009234-RA"],"maker","TAER_00009234-RA","NODE_9757_length_1977_cov_2.849730",169,757]
+[["TAER_00009235-RA","maker-NODE_9757_length_1977_cov_2.849730-augustus-gene-0.6-mRNA-1","TAER_00009235-RA"],"maker","TAER_00009235-RA","NODE_9757_length_1977_cov_2.849730",1060,1211]

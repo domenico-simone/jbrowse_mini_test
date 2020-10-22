@@ -1,0 +1,3 @@
+[["sp|A8Q1U2.1|MKAR_MALGO","NODE_6076_length_4011_cov_6.622812:hit:916:3.10.0.0"],"protein2genome","sp|A8Q1U2.1|MKAR_MALGO","NODE_6076_length_4011_cov_6.622812",240,959]
+[["sp|B0D8R3.1|MKAR_LACBS","NODE_6076_length_4011_cov_6.622812:hit:917:3.10.0.0"],"protein2genome","sp|B0D8R3.1|MKAR_LACBS","NODE_6076_length_4011_cov_6.622812",240,935]
+[["sp|A8N6B4.1|MKAR_COPC7","NODE_6076_length_4011_cov_6.622812:hit:918:3.10.0.0"],"protein2genome","sp|A8N6B4.1|MKAR_COPC7","NODE_6076_length_4011_cov_6.622812",240,935]

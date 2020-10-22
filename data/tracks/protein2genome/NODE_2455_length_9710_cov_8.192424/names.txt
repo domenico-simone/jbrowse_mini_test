@@ -1,0 +1,3 @@
+[["sp|Q4P9Y9.1|NACB_USTMA","NODE_2455_length_9710_cov_8.192424:hit:12852:3.10.0.0"],"protein2genome","sp|Q4P9Y9.1|NACB_USTMA","NODE_2455_length_9710_cov_8.192424",365,943]
+[["sp|P0CP08.1|NACB_CRYNJ","NODE_2455_length_9710_cov_8.192424:hit:12853:3.10.0.0"],"protein2genome","sp|P0CP08.1|NACB_CRYNJ","NODE_2455_length_9710_cov_8.192424",374,934]
+[["sp|P0CP09.1|NACB_CRYNB","NODE_2455_length_9710_cov_8.192424:hit:12854:3.10.0.0"],"protein2genome","sp|P0CP09.1|NACB_CRYNB","NODE_2455_length_9710_cov_8.192424",374,934]

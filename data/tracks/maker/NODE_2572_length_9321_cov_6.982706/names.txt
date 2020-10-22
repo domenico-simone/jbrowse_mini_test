@@ -1,0 +1,2 @@
+[["TAER_00006713-RA","genemark-NODE_2572_length_9321_cov_6.982706-processed-gene-0.2-mRNA-1","TAER_00006713-RA"],"maker","TAER_00006713-RA","NODE_2572_length_9321_cov_6.982706",605,1630]
+[["TAER_00006714-RA","maker-NODE_2572_length_9321_cov_6.982706-snap-gene-0.16-mRNA-1","TAER_00006714-RA"],"maker","TAER_00006714-RA","NODE_2572_length_9321_cov_6.982706",4644,9321]

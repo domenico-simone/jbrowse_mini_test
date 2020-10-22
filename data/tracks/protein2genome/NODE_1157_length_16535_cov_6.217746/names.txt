@@ -1,0 +1,1 @@
+[["sp|Q4R0J7.1|ARD1_UROFA","NODE_1157_length_16535_cov_6.217746:hit:90193:3.10.0.0"],"protein2genome","sp|Q4R0J7.1|ARD1_UROFA","NODE_1157_length_16535_cov_6.217746",250,2387]

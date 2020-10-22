@@ -1,0 +1,4 @@
+[["sp|E3L3Q8.1|MAP2_PUCGT","NODE_10007_length_1913_cov_8.081187:hit:64:3.10.0.0"],"protein2genome","sp|E3L3Q8.1|MAP2_PUCGT","NODE_10007_length_1913_cov_8.081187",2,1609]
+[["sp|A8QBZ2.1|MAP2_MALGO","NODE_10007_length_1913_cov_8.081187:hit:65:3.10.0.0"],"protein2genome","sp|A8QBZ2.1|MAP2_MALGO","NODE_10007_length_1913_cov_8.081187",2,1588]
+[["sp|D8PR70.1|MAP2_SCHCM","NODE_10007_length_1913_cov_8.081187:hit:67:3.10.0.0"],"protein2genome","sp|D8PR70.1|MAP2_SCHCM","NODE_10007_length_1913_cov_8.081187",2,1576]
+[["sp|B0CRL4.1|MAP2_LACBS","NODE_10007_length_1913_cov_8.081187:hit:66:3.10.0.0"],"protein2genome","sp|B0CRL4.1|MAP2_LACBS","NODE_10007_length_1913_cov_8.081187",2,1462]

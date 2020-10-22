@@ -1,0 +1,3 @@
+[["TRINITY_DN776_c3_g1_i1","NODE_17818_length_915_cov_5.140863:hit:4130:3.2.0.0"],"est2genome","TRINITY_DN776_c3_g1_i1","NODE_17818_length_915_cov_5.140863",213,606]
+[["TRINITY_DN776_c3_g1_i6","NODE_17818_length_915_cov_5.140863:hit:4131:3.2.0.0"],"est2genome","TRINITY_DN776_c3_g1_i6","NODE_17818_length_915_cov_5.140863",213,606]
+[["TRINITY_DN776_c3_g1_i3","NODE_17818_length_915_cov_5.140863:hit:4132:3.2.0.0"],"est2genome","TRINITY_DN776_c3_g1_i3","NODE_17818_length_915_cov_5.140863",332,530]

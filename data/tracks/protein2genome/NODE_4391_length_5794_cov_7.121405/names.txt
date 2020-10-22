@@ -1,0 +1,2 @@
+[["sp|P0CO70.1|MDM34_CRYNJ","NODE_4391_length_5794_cov_7.121405:hit:4548:3.10.0.0"],"protein2genome","sp|P0CO70.1|MDM34_CRYNJ","NODE_4391_length_5794_cov_7.121405",4540,5207]
+[["sp|P0CO71.1|MDM34_CRYNB","NODE_4391_length_5794_cov_7.121405:hit:4549:3.10.0.0"],"protein2genome","sp|P0CO71.1|MDM34_CRYNB","NODE_4391_length_5794_cov_7.121405",4540,5207]

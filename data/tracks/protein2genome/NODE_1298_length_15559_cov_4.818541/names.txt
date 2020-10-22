@@ -1,0 +1,1 @@
+[["sp|Q4PEQ5.1|MCA1_USTMA","NODE_1298_length_15559_cov_4.818541:hit:96871:3.10.0.0"],"protein2genome","sp|Q4PEQ5.1|MCA1_USTMA","NODE_1298_length_15559_cov_4.818541",2065,3290]

@@ -1,0 +1,2 @@
+[["sp|P0CP50.1|PAN3_CRYNJ","NODE_870_length_19525_cov_6.793690:hit:75732:3.10.0.0"],"protein2genome","sp|P0CP50.1|PAN3_CRYNJ","NODE_870_length_19525_cov_6.793690",3678,5497]
+[["sp|P0CP51.1|PAN3_CRYNB","NODE_870_length_19525_cov_6.793690:hit:75733:3.10.0.0"],"protein2genome","sp|P0CP51.1|PAN3_CRYNB","NODE_870_length_19525_cov_6.793690",3678,5497]

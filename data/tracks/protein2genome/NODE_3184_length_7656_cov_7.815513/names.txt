@@ -1,0 +1,1 @@
+[["sp|O59930.1|LEU3_PHACH","NODE_3184_length_7656_cov_7.815513:hit:27942:3.10.0.0"],"protein2genome","sp|O59930.1|LEU3_PHACH","NODE_3184_length_7656_cov_7.815513",5999,7143]

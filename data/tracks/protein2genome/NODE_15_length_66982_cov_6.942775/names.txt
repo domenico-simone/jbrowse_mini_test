@@ -1,0 +1,2 @@
+[["sp|P0CR68.1|SPT4_CRYNJ","NODE_15_length_66982_cov_6.942775:hit:2376:3.10.0.0"],"protein2genome","sp|P0CR68.1|SPT4_CRYNJ","NODE_15_length_66982_cov_6.942775",15624,16230]
+[["sp|P0CR69.1|SPT4_CRYNB","NODE_15_length_66982_cov_6.942775:hit:2377:3.10.0.0"],"protein2genome","sp|P0CR69.1|SPT4_CRYNB","NODE_15_length_66982_cov_6.942775",15624,16230]

@@ -1,0 +1,1 @@
+[["sp|O60206.1|XLNA_AGABI","NODE_55_length_53700_cov_7.527075:hit:7595:3.10.0.0"],"blastx","sp|O60206.1|XLNA_AGABI","NODE_55_length_53700_cov_7.527075",46775,47657]

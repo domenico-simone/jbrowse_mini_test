@@ -1,0 +1,2 @@
+[["TRINITY_DN3904_c0_g1_i1","NODE_9721_length_1983_cov_9.632543:hit:7787:3.2.0.0"],"est2genome","TRINITY_DN3904_c0_g1_i1","NODE_9721_length_1983_cov_9.632543",0,1983]
+[["TRINITY_DN3904_c0_g1_i2","NODE_9721_length_1983_cov_9.632543:hit:7788:3.2.0.0"],"est2genome","TRINITY_DN3904_c0_g1_i2","NODE_9721_length_1983_cov_9.632543",0,1983]

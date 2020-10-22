@@ -1,0 +1,1 @@
+[["sp|O00061.1|CP67_UROFA","NODE_2339_length_10129_cov_8.178964:hit:9572:3.10.0.0"],"protein2genome","sp|O00061.1|CP67_UROFA","NODE_2339_length_10129_cov_8.178964",4246,6313]

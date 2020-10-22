@@ -1,0 +1,2 @@
+[["augustus-NODE_4266_length_5919_cov_1.484783-abinit-gene-0.2-mRNA-1","NODE_4266_length_5919_cov_1.484783:hit:3025:4.5.0.0"],"augustus","augustus-NODE_4266_length_5919_cov_1.484783-abinit-gene-0.2-mRNA-1","NODE_4266_length_5919_cov_1.484783",287,1949]
+[["augustus-NODE_4266_length_5919_cov_1.484783-abinit-gene-0.3-mRNA-1","NODE_4266_length_5919_cov_1.484783:hit:3028:4.5.0.0"],"augustus","augustus-NODE_4266_length_5919_cov_1.484783-abinit-gene-0.3-mRNA-1","NODE_4266_length_5919_cov_1.484783",2488,5811]

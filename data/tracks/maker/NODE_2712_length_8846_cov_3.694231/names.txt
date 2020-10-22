@@ -1,0 +1,2 @@
+[["TAER_00006846-RA","snap-NODE_2712_length_8846_cov_3.694231-processed-gene-0.6-mRNA-1","TAER_00006846-RA"],"maker","TAER_00006846-RA","NODE_2712_length_8846_cov_3.694231",7177,7596]
+[["TAER_00006847-RA","snap-NODE_2712_length_8846_cov_3.694231-processed-gene-0.7-mRNA-1","TAER_00006847-RA"],"maker","TAER_00006847-RA","NODE_2712_length_8846_cov_3.694231",8162,8706]

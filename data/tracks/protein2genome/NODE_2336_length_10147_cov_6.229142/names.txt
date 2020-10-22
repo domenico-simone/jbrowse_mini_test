@@ -1,0 +1,1 @@
+[["sp|Q4P5U4.2|DBP4_USTMA","NODE_2336_length_10147_cov_6.229142:hit:9523:3.10.0.0"],"protein2genome","sp|Q4P5U4.2|DBP4_USTMA","NODE_2336_length_10147_cov_6.229142",1729,3667]

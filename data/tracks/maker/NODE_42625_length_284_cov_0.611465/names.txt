@@ -1,0 +1,2 @@
+[["TAER_00009868-RA","maker-NODE_42625_length_284_cov_0.611465-augustus-gene-0.1-mRNA-1","TAER_00009868-RA"],"maker","TAER_00009868-RA","NODE_42625_length_284_cov_0.611465",1,64]
+[["TAER_00009869-RA","genemark-NODE_42625_length_284_cov_0.611465-processed-gene-0.0-mRNA-1","TAER_00009869-RA"],"maker","TAER_00009869-RA","NODE_42625_length_284_cov_0.611465",154,284]

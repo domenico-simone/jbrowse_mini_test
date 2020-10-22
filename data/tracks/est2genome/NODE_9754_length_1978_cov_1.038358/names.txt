@@ -1,0 +1,2 @@
+[["TRINITY_DN6327_c0_g1_i6","NODE_9754_length_1978_cov_1.038358:hit:7903:3.2.0.0"],"est2genome","TRINITY_DN6327_c0_g1_i6","NODE_9754_length_1978_cov_1.038358",734,1857]
+[["TRINITY_DN6327_c0_g2_i1","NODE_9754_length_1978_cov_1.038358:hit:7904:3.2.0.0"],"est2genome","TRINITY_DN6327_c0_g2_i1","NODE_9754_length_1978_cov_1.038358",1454,1949]

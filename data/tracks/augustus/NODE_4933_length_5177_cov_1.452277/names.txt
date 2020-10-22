@@ -1,0 +1,3 @@
+[["augustus-NODE_4933_length_5177_cov_1.452277-abinit-gene-0.3-mRNA-1","NODE_4933_length_5177_cov_1.452277:hit:10600:4.5.0.0"],"augustus","augustus-NODE_4933_length_5177_cov_1.452277-abinit-gene-0.3-mRNA-1","NODE_4933_length_5177_cov_1.452277",473,962]
+[["augustus-NODE_4933_length_5177_cov_1.452277-abinit-gene-0.4-mRNA-1","NODE_4933_length_5177_cov_1.452277:hit:10603:4.5.0.0"],"augustus","augustus-NODE_4933_length_5177_cov_1.452277-abinit-gene-0.4-mRNA-1","NODE_4933_length_5177_cov_1.452277",1160,2972]
+[["augustus-NODE_4933_length_5177_cov_1.452277-abinit-gene-0.5-mRNA-1","NODE_4933_length_5177_cov_1.452277:hit:10605:4.5.0.0"],"augustus","augustus-NODE_4933_length_5177_cov_1.452277-abinit-gene-0.5-mRNA-1","NODE_4933_length_5177_cov_1.452277",3209,4883]

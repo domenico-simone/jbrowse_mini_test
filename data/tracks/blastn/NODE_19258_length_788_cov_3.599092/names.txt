@@ -1,0 +1,1 @@
+[["TRINITY_DN12743_c0_g1_i1","NODE_19258_length_788_cov_3.599092:hit:2420:3.2.0.0"],"blastn","TRINITY_DN12743_c0_g1_i1","NODE_19258_length_788_cov_3.599092",607,788]

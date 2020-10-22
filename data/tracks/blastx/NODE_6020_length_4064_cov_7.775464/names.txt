@@ -1,0 +1,1 @@
+[["sp|Q32ZM1.1|RM201_RHOMI","NODE_6020_length_4064_cov_7.775464:hit:228:3.10.0.0"],"blastx","sp|Q32ZM1.1|RM201_RHOMI","NODE_6020_length_4064_cov_7.775464",959,2143]
