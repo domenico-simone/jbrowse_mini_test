@@ -17,18 +17,60 @@
       },
       {
          "compress" : 0,
+         "key" : "Augustus",
+         "label" : "augustus",
+         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
+         "style" : {
+            "className" : "transcript",
+            "subfeatureClasses" : {
+               "match_part" : "augustus-exon"
+            }
+         },
+         "trackType" : null,
+         "type" : "FeatureTrack",
+         "urlTemplate" : "tracks/augustus/{refseq}/trackData.json"
+      },
+      {
+         "compress" : 0,
          "key" : "iprscan",
          "label" : "iprscan",
          "storeClass" : "JBrowse/Store/SeqFeature/NCList",
          "style" : {
             "className" : "transcript",
             "subfeatureClasses" : {
-               "match_part" : "protein2genome_part"
+               "match_part" : "iprscan_part"
             }
          },
          "trackType" : null,
          "type" : "FeatureTrack",
          "urlTemplate" : "tracks/iprscan/{refseq}/trackData.json"
+      },
+      {
+         "compress" : 0,
+         "key" : "Gene spans",
+         "label" : "gene",
+         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
+         "style" : {
+            "className" : "feature"
+         },
+         "trackType" : null,
+         "type" : "FeatureTrack",
+         "urlTemplate" : "tracks/gene/{refseq}/trackData.json"
+      },
+      {
+         "compress" : 0,
+         "key" : "BLASTN",
+         "label" : "blastn",
+         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
+         "style" : {
+            "className" : "generic_parent",
+            "subfeatureClasses" : {
+               "match_part" : "blastn_part"
+            }
+         },
+         "trackType" : null,
+         "type" : "FeatureTrack",
+         "urlTemplate" : "tracks/blastn/{refseq}/trackData.json"
       },
       {
          "compress" : 0,
@@ -47,33 +89,6 @@
       },
       {
          "compress" : 0,
-         "key" : "Gene spans",
-         "label" : "gene",
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "feature"
-         },
-         "trackType" : null,
-         "type" : "FeatureTrack",
-         "urlTemplate" : "tracks/gene/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
-         "key" : "Augustus",
-         "label" : "augustus",
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "transcript",
-            "subfeatureClasses" : {
-               "match_part" : "augustus-exon"
-            }
-         },
-         "trackType" : null,
-         "type" : "FeatureTrack",
-         "urlTemplate" : "tracks/augustus/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
          "key" : "GeneMark",
          "label" : "genemark",
          "storeClass" : "JBrowse/Store/SeqFeature/NCList",
@@ -86,21 +101,6 @@
          "trackType" : null,
          "type" : "FeatureTrack",
          "urlTemplate" : "tracks/genemark/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
-         "key" : "BLASTN",
-         "label" : "blastn",
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "generic_parent",
-            "subfeatureClasses" : {
-               "match_part" : "blastn_part"
-            }
-         },
-         "trackType" : null,
-         "type" : "FeatureTrack",
-         "urlTemplate" : "tracks/blastn/{refseq}/trackData.json"
       },
       {
          "compress" : 0,
