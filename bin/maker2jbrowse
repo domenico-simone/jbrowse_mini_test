@@ -187,6 +187,12 @@ my %commands = (
                          '--type' => 'match:model_gff',
                        ],
 
+    #functional annotation
+    iprscan         => [ '--key' =>  "iprscan",
+                         '--className' => 'generic_parent',
+                         '--subfeatureClasses' => '{"match_part": "iprscan_exon"}',
+                         '--type' => 'match:iprscan',
+                       ],
     #evidence alignments
     blastn          => [ '--key' =>  "BLASTN",
                          '--className' => 'generic_parent',
