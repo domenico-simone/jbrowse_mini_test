@@ -17,6 +17,66 @@
       },
       {
          "compress" : 0,
+         "key" : "est2genome",
+         "label" : "est2genome",
+         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
+         "style" : {
+            "className" : "generic_parent",
+            "subfeatureClasses" : {
+               "match_part" : "est2genome_part"
+            }
+         },
+         "trackType" : null,
+         "type" : "FeatureTrack",
+         "urlTemplate" : "tracks/est2genome/{refseq}/trackData.json"
+      },
+      {
+         "compress" : 0,
+         "key" : "GeneMark",
+         "label" : "genemark",
+         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
+         "style" : {
+            "className" : "transcript",
+            "subfeatureClasses" : {
+               "match_part" : "genemark-exon"
+            }
+         },
+         "trackType" : null,
+         "type" : "FeatureTrack",
+         "urlTemplate" : "tracks/genemark/{refseq}/trackData.json"
+      },
+      {
+         "compress" : 0,
+         "key" : "Transcripts",
+         "label" : "maker",
+         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
+         "style" : {
+            "className" : "transcript",
+            "subfeatureClasses" : {
+               "CDS" : "CDS",
+               "exon" : "exon",
+               "five_prime_UTR" : "five_prime_UTR",
+               "three_prime_UTR" : "three_prime_UTR"
+            }
+         },
+         "trackType" : null,
+         "type" : "FeatureTrack",
+         "urlTemplate" : "tracks/maker/{refseq}/trackData.json"
+      },
+      {
+         "compress" : 0,
+         "key" : "Gene spans",
+         "label" : "gene",
+         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
+         "style" : {
+            "className" : "feature"
+         },
+         "trackType" : null,
+         "type" : "FeatureTrack",
+         "urlTemplate" : "tracks/gene/{refseq}/trackData.json"
+      },
+      {
+         "compress" : 0,
          "key" : "BLASTN",
          "label" : "blastn",
          "storeClass" : "JBrowse/Store/SeqFeature/NCList",
@@ -59,66 +119,6 @@
          "trackType" : null,
          "type" : "FeatureTrack",
          "urlTemplate" : "tracks/augustus/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
-         "key" : "GeneMark",
-         "label" : "genemark",
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "transcript",
-            "subfeatureClasses" : {
-               "match_part" : "genemark-exon"
-            }
-         },
-         "trackType" : null,
-         "type" : "FeatureTrack",
-         "urlTemplate" : "tracks/genemark/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
-         "key" : "est2genome",
-         "label" : "est2genome",
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "generic_parent",
-            "subfeatureClasses" : {
-               "match_part" : "est2genome_part"
-            }
-         },
-         "trackType" : null,
-         "type" : "FeatureTrack",
-         "urlTemplate" : "tracks/est2genome/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
-         "key" : "Transcripts",
-         "label" : "maker",
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "transcript",
-            "subfeatureClasses" : {
-               "CDS" : "CDS",
-               "exon" : "exon",
-               "five_prime_UTR" : "five_prime_UTR",
-               "three_prime_UTR" : "three_prime_UTR"
-            }
-         },
-         "trackType" : null,
-         "type" : "FeatureTrack",
-         "urlTemplate" : "tracks/maker/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
-         "key" : "Gene spans",
-         "label" : "gene",
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "feature"
-         },
-         "trackType" : null,
-         "type" : "FeatureTrack",
-         "urlTemplate" : "tracks/gene/{refseq}/trackData.json"
       }
    ]
 }
