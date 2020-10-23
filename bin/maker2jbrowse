@@ -132,6 +132,7 @@ my %commands = (
     gene            => [ '--key' => "Gene spans",
                          '--className' =>  'feature',
                          '--type' => 'gene:maker',
+                         '--noSubfeatures'
                        ],
     maker           => [ '--key' => "Transcripts",
                          '--className' => 'transcript',
