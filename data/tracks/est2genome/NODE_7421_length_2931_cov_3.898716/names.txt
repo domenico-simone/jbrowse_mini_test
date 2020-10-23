@@ -1,2 +1,0 @@
-[["TRINITY_DN8078_c0_g1_i5","NODE_7421_length_2931_cov_3.898716:hit:11008:3.2.0.0"],"est2genome","TRINITY_DN8078_c0_g1_i5","NODE_7421_length_2931_cov_3.898716",218,513]
-[["TRINITY_DN6023_c0_g1_i2","NODE_7421_length_2931_cov_3.898716:hit:11009:3.2.0.0"],"est2genome","TRINITY_DN6023_c0_g1_i2","NODE_7421_length_2931_cov_3.898716",553,955]

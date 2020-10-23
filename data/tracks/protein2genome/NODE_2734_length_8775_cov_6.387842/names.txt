@@ -1,1 +1,0 @@
-[["sp|O00057.1|NMT1_UROFA","NODE_2734_length_8775_cov_6.387842:hit:19260:3.10.0.0"],"protein2genome","sp|O00057.1|NMT1_UROFA","NODE_2734_length_8775_cov_6.387842",2541,4274]

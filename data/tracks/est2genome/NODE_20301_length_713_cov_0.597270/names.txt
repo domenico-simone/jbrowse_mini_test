@@ -1,2 +1,0 @@
-[["TRINITY_DN41036_c0_g1_i1","NODE_20301_length_713_cov_0.597270:hit:485:3.2.0.0"],"est2genome","TRINITY_DN41036_c0_g1_i1","NODE_20301_length_713_cov_0.597270",0,240]
-[["TRINITY_DN46973_c0_g1_i1","NODE_20301_length_713_cov_0.597270:hit:486:3.2.0.0"],"est2genome","TRINITY_DN46973_c0_g1_i1","NODE_20301_length_713_cov_0.597270",414,713]

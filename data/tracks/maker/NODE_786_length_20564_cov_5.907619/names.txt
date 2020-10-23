@@ -1,2 +1,0 @@
-[["TAER_00003525-RA","augustus-NODE_786_length_20564_cov_5.907619-processed-gene-0.2-mRNA-1","TAER_00003525-RA"],"maker","TAER_00003525-RA","NODE_786_length_20564_cov_5.907619",1250,3188]
-[["TAER_00003526-RA","maker-NODE_786_length_20564_cov_5.907619-snap-gene-0.7-mRNA-1","TAER_00003526-RA"],"maker","TAER_00003526-RA","NODE_786_length_20564_cov_5.907619",14460,16359]

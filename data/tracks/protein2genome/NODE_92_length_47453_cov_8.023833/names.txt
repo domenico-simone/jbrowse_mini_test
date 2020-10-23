@@ -1,1 +1,0 @@
-[["sp|Q99078.2|FUZ7_USTMA","NODE_92_length_47453_cov_8.023833:hit:12325:3.10.0.0"],"protein2genome","sp|Q99078.2|FUZ7_USTMA","NODE_92_length_47453_cov_8.023833",38855,40089]

@@ -1,2 +1,0 @@
-[["sp|Q7Z9Z2.1|TBG_COPC7","NODE_4419_length_5770_cov_7.319334:hit:4875:3.10.0.0"],"protein2genome","sp|Q7Z9Z2.1|TBG_COPC7","NODE_4419_length_5770_cov_7.319334",3278,4863]
-[["sp|P32348.1|TBG_USTVI","NODE_4419_length_5770_cov_7.319334:hit:4876:3.10.0.0"],"protein2genome","sp|P32348.1|TBG_USTVI","NODE_4419_length_5770_cov_7.319334",3278,4863]

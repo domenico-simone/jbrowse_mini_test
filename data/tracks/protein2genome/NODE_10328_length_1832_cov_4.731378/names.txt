@@ -1,7 +1,0 @@
-[["sp|Q4P7J7.3|H31_USTMA","NODE_10328_length_1832_cov_4.731378:hit:1290:3.10.0.0"],"protein2genome","sp|Q4P7J7.3|H31_USTMA","NODE_10328_length_1832_cov_4.731378",16,653]
-[["sp|P0CO05.1|H3_CRYNB","NODE_10328_length_1832_cov_4.731378:hit:1291:3.10.0.0"],"protein2genome","sp|P0CO05.1|H3_CRYNB","NODE_10328_length_1832_cov_4.731378",16,653]
-[["sp|Q4PB04.3|H32_USTMA","NODE_10328_length_1832_cov_4.731378:hit:1292:3.10.0.0"],"protein2genome","sp|Q4PB04.3|H32_USTMA","NODE_10328_length_1832_cov_4.731378",16,653]
-[["sp|P0CO04.1|H3_CRYNJ","NODE_10328_length_1832_cov_4.731378:hit:1293:3.10.0.0"],"protein2genome","sp|P0CO04.1|H3_CRYNJ","NODE_10328_length_1832_cov_4.731378",16,653]
-[["sp|Q6ZXX3.4|H4_USTMA","NODE_10328_length_1832_cov_4.731378:hit:1294:3.10.0.0"],"protein2genome","sp|Q6ZXX3.4|H4_USTMA","NODE_10328_length_1832_cov_4.731378",1281,1831]
-[["sp|P62793.2|H4_AGABI","NODE_10328_length_1832_cov_4.731378:hit:1295:3.10.0.0"],"protein2genome","sp|P62793.2|H4_AGABI","NODE_10328_length_1832_cov_4.731378",1281,1831]
-[["sp|P62792.2|H4_PHACH","NODE_10328_length_1832_cov_4.731378:hit:1296:3.10.0.0"],"protein2genome","sp|P62792.2|H4_PHACH","NODE_10328_length_1832_cov_4.731378",1281,1831]

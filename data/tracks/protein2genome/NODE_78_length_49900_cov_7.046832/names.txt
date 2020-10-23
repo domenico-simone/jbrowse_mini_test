@@ -1,3 +1,0 @@
-[["sp|P34809.3|NMT_CRYNE","NODE_78_length_49900_cov_7.046832:hit:10879:3.10.0.0"],"protein2genome","sp|P34809.3|NMT_CRYNE","NODE_78_length_49900_cov_7.046832",28559,30057]
-[["sp|P0CP20.1|NMT_CRYNJ","NODE_78_length_49900_cov_7.046832:hit:10880:3.10.0.0"],"protein2genome","sp|P0CP20.1|NMT_CRYNJ","NODE_78_length_49900_cov_7.046832",28559,30057]
-[["sp|P0CP21.1|NMT_CRYNB","NODE_78_length_49900_cov_7.046832:hit:10881:3.10.0.0"],"protein2genome","sp|P0CP21.1|NMT_CRYNB","NODE_78_length_49900_cov_7.046832",28559,30057]

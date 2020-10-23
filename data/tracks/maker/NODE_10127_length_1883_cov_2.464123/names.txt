@@ -1,2 +1,0 @@
-[["TAER_00009268-RA","genemark-NODE_10127_length_1883_cov_2.464123-processed-gene-0.10-mRNA-1","TAER_00009268-RA"],"maker","TAER_00009268-RA","NODE_10127_length_1883_cov_2.464123",17,347]
-[["TAER_00009269-RA","maker-NODE_10127_length_1883_cov_2.464123-augustus-gene-0.5-mRNA-1","TAER_00009269-RA"],"maker","TAER_00009269-RA","NODE_10127_length_1883_cov_2.464123",526,936]

@@ -1,1 +1,0 @@
-[["TRINITY_DN45800_c0_g1_i1","NODE_11518_length_1593_cov_2.839700:hit:5133:3.2.0.0"],"blastn","TRINITY_DN45800_c0_g1_i1","NODE_11518_length_1593_cov_2.839700",111,494]

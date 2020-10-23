@@ -1,1 +1,0 @@
-[["sp|Q4PDT1.1|DBP3_USTMA","NODE_253_length_33409_cov_7.037558:hit:29930:3.10.0.0"],"protein2genome","sp|Q4PDT1.1|DBP3_USTMA","NODE_253_length_33409_cov_7.037558",3429,4878]

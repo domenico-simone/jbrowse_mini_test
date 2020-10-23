@@ -1,2 +1,0 @@
-[["TRINITY_DN13673_c0_g2_i2","NODE_32586_length_328_cov_0.467662:hit:529:3.2.0.0"],"est2genome","TRINITY_DN13673_c0_g2_i2","NODE_32586_length_328_cov_0.467662",0,325]
-[["TRINITY_DN13673_c0_g1_i1","NODE_32586_length_328_cov_0.467662:hit:530:3.2.0.0"],"est2genome","TRINITY_DN13673_c0_g1_i1","NODE_32586_length_328_cov_0.467662",30,262]

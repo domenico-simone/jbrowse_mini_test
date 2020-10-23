@@ -1,2 +1,0 @@
-[["genemark-NODE_1223_length_16040_cov_7.398580-abinit-gene-0.43-mRNA-1","NODE_1223_length_16040_cov_7.398580:hit:93365:4.5.0.0"],"genemark","genemark-NODE_1223_length_16040_cov_7.398580-abinit-gene-0.43-mRNA-1","NODE_1223_length_16040_cov_7.398580",4192,5569]
-[["genemark-NODE_1223_length_16040_cov_7.398580-abinit-gene-0.42-mRNA-1","NODE_1223_length_16040_cov_7.398580:hit:93371:4.5.0.0"],"genemark","genemark-NODE_1223_length_16040_cov_7.398580-abinit-gene-0.42-mRNA-1","NODE_1223_length_16040_cov_7.398580",9595,15506]

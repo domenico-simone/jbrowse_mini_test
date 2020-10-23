@@ -1,2 +1,0 @@
-[["sp|P13860.1|GUX1_PHACH","NODE_52_length_54000_cov_8.678268:hit:7264:3.10.0.0"],"protein2genome","sp|P13860.1|GUX1_PHACH","NODE_52_length_54000_cov_8.678268",21922,23556]
-[["sp|Q92400.1|GUX2_AGABI","NODE_52_length_54000_cov_8.678268:hit:7265:3.10.0.0"],"protein2genome","sp|Q92400.1|GUX2_AGABI","NODE_52_length_54000_cov_8.678268",21937,27554]

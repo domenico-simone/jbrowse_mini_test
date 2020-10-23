@@ -1,2 +1,0 @@
-[["TRINITY_DN12426_c0_g1_i2","NODE_32187_length_330_cov_3.665025:hit:186:3.2.0.0"],"est2genome","TRINITY_DN12426_c0_g1_i2","NODE_32187_length_330_cov_3.665025",79,330]
-[["TRINITY_DN12426_c0_g1_i1","NODE_32187_length_330_cov_3.665025:hit:185:3.2.0.0"],"est2genome","TRINITY_DN12426_c0_g1_i1","NODE_32187_length_330_cov_3.665025",79,315]

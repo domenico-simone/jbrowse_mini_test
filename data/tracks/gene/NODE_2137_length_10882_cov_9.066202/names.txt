@@ -1,2 +1,0 @@
-[["TAER_00006192","maker-NODE_2137_length_10882_cov_9.066202-augustus-gene-0.0","TAER_00006192"],"gene","TAER_00006192","NODE_2137_length_10882_cov_9.066202",3719,5883]
-[["TAER_00006193","genemark-NODE_2137_length_10882_cov_9.066202-processed-gene-0.10","TAER_00006193"],"gene","TAER_00006193","NODE_2137_length_10882_cov_9.066202",6077,9031]

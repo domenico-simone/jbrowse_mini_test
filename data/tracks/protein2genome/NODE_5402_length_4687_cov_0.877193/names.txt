@@ -1,3 +1,0 @@
-[["sp|Q0H8Y4.1|COX1_USTMA","NODE_5402_length_4687_cov_0.877193:hit:14883:3.10.0.0"],"protein2genome","sp|Q0H8Y4.1|COX1_USTMA","NODE_5402_length_4687_cov_0.877193",978,2550]
-[["sp|Q0H8Y3.2|AI8_USTMA","NODE_5402_length_4687_cov_0.877193:hit:14884:3.10.0.0"],"protein2genome","sp|Q0H8Y3.2|AI8_USTMA","NODE_5402_length_4687_cov_0.877193",1446,2550]
-[["sp|Q0H8Y2.2|AI7_USTMA","NODE_5402_length_4687_cov_0.877193:hit:14885:3.10.0.0"],"protein2genome","sp|Q0H8Y2.2|AI7_USTMA","NODE_5402_length_4687_cov_0.877193",1596,2550]

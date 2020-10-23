@@ -1,1 +1,0 @@
-[["sp|P13860.1|GUX1_PHACH","NODE_107_length_45293_cov_7.795621:hit:14229:3.10.0.0"],"protein2genome","sp|P13860.1|GUX1_PHACH","NODE_107_length_45293_cov_7.795621",15369,16960]

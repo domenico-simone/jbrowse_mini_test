@@ -1,2 +1,0 @@
-[["TAER_00007721-RA","maker-NODE_4077_length_6149_cov_9.721853-augustus-gene-0.8-mRNA-1","TAER_00007721-RA"],"maker","TAER_00007721-RA","NODE_4077_length_6149_cov_9.721853",365,1457]
-[["TAER_00007722-RA","maker-NODE_4077_length_6149_cov_9.721853-augustus-gene-0.5-mRNA-1","TAER_00007722-RA"],"maker","TAER_00007722-RA","NODE_4077_length_6149_cov_9.721853",2860,5937]

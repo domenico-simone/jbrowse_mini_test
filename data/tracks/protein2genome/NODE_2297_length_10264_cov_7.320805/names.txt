@@ -1,1 +1,0 @@
-[["sp|Q5KP44.1|IMDH_CRYNJ","NODE_2297_length_10264_cov_7.320805:hit:8654:3.10.0.0"],"protein2genome","sp|Q5KP44.1|IMDH_CRYNJ","NODE_2297_length_10264_cov_7.320805",5310,7563]

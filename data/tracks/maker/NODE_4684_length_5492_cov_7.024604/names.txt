@@ -1,2 +1,0 @@
-[["TAER_00007975-RA","genemark-NODE_4684_length_5492_cov_7.024604-processed-gene-0.2-mRNA-1","TAER_00007975-RA"],"maker","TAER_00007975-RA","NODE_4684_length_5492_cov_7.024604",0,1934]
-[["TAER_00007976-RA","maker-NODE_4684_length_5492_cov_7.024604-snap-gene-0.13-mRNA-1","TAER_00007976-RA"],"maker","TAER_00007976-RA","NODE_4684_length_5492_cov_7.024604",3926,4994]

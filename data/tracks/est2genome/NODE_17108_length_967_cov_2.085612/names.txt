@@ -1,2 +1,0 @@
-[["TRINITY_DN21160_c1_g1_i3","NODE_17108_length_967_cov_2.085612:hit:2547:3.2.0.0"],"est2genome","TRINITY_DN21160_c1_g1_i3","NODE_17108_length_967_cov_2.085612",308,772]
-[["TRINITY_DN21160_c1_g1_i2","NODE_17108_length_967_cov_2.085612:hit:2548:3.2.0.0"],"est2genome","TRINITY_DN21160_c1_g1_i2","NODE_17108_length_967_cov_2.085612",308,576]

@@ -1,3 +1,0 @@
-[["genemark-NODE_2502_length_9547_cov_8.244161-abinit-gene-0.27-mRNA-1","NODE_2502_length_9547_cov_8.244161:hit:13961:4.5.0.0"],"genemark","genemark-NODE_2502_length_9547_cov_8.244161-abinit-gene-0.27-mRNA-1","NODE_2502_length_9547_cov_8.244161",2193,3999]
-[["genemark-NODE_2502_length_9547_cov_8.244161-abinit-gene-0.28-mRNA-1","NODE_2502_length_9547_cov_8.244161:hit:13962:4.5.0.0"],"genemark","genemark-NODE_2502_length_9547_cov_8.244161-abinit-gene-0.28-mRNA-1","NODE_2502_length_9547_cov_8.244161",4479,4726]
-[["genemark-NODE_2502_length_9547_cov_8.244161-abinit-gene-0.26-mRNA-1","NODE_2502_length_9547_cov_8.244161:hit:13965:4.5.0.0"],"genemark","genemark-NODE_2502_length_9547_cov_8.244161-abinit-gene-0.26-mRNA-1","NODE_2502_length_9547_cov_8.244161",6788,7770]

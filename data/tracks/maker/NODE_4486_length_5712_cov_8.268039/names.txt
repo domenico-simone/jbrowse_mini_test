@@ -1,2 +1,0 @@
-[["TAER_00007879-RA","maker-NODE_4486_length_5712_cov_8.268039-augustus-gene-0.28-mRNA-1","TAER_00007879-RA"],"maker","TAER_00007879-RA","NODE_4486_length_5712_cov_8.268039",11,654]
-[["TAER_00007880-RA","genemark-NODE_4486_length_5712_cov_8.268039-processed-gene-0.56-mRNA-1","TAER_00007880-RA"],"maker","TAER_00007880-RA","NODE_4486_length_5712_cov_8.268039",1354,5702]

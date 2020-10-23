@@ -1,2 +1,0 @@
-[["TAER_00004451-RA","augustus-NODE_1157_length_16535_cov_6.217746-processed-gene-0.32-mRNA-1","TAER_00004451-RA"],"maker","TAER_00004451-RA","NODE_1157_length_16535_cov_6.217746",238,2387]
-[["TAER_00004452-RA","genemark-NODE_1157_length_16535_cov_6.217746-processed-gene-0.25-mRNA-1","TAER_00004452-RA"],"maker","TAER_00004452-RA","NODE_1157_length_16535_cov_6.217746",13072,16099]

@@ -1,2 +1,0 @@
-[["TAER_00007869-RA","genemark-NODE_4444_length_5747_cov_7.502491-processed-gene-0.1-mRNA-1","TAER_00007869-RA"],"maker","TAER_00007869-RA","NODE_4444_length_5747_cov_7.502491",1962,2957]
-[["TAER_00007870-RA","maker-NODE_4444_length_5747_cov_7.502491-snap-gene-0.5-mRNA-1","TAER_00007870-RA"],"maker","TAER_00007870-RA","NODE_4444_length_5747_cov_7.502491",3265,3762]

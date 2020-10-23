@@ -1,2 +1,0 @@
-[["TRINITY_DN2816_c0_g1_i9","NODE_9884_length_1947_cov_2.846703:hit:8379:3.2.0.0"],"est2genome","TRINITY_DN2816_c0_g1_i9","NODE_9884_length_1947_cov_2.846703",1448,1768]
-[["TRINITY_DN2816_c0_g1_i8","NODE_9884_length_1947_cov_2.846703:hit:8380:3.2.0.0"],"est2genome","TRINITY_DN2816_c0_g1_i8","NODE_9884_length_1947_cov_2.846703",1536,1878]

@@ -1,2 +1,0 @@
-[["sp|E3LB80.2|EIF3I_PUCGT","NODE_4120_length_6104_cov_6.812448:hit:1329:3.10.0.0"],"protein2genome","sp|E3LB80.2|EIF3I_PUCGT","NODE_4120_length_6104_cov_6.812448",3383,4911]
-[["sp|Q4P6E2.2|EIF3I_USTMA","NODE_4120_length_6104_cov_6.812448:hit:1330:3.10.0.0"],"protein2genome","sp|Q4P6E2.2|EIF3I_USTMA","NODE_4120_length_6104_cov_6.812448",4076,4911]

@@ -1,1 +1,0 @@
-[["sp|P78571.1|RS13_AGABI","NODE_1906_length_11934_cov_10.153299:hit:120664:3.10.0.0"],"protein2genome","sp|P78571.1|RS13_AGABI","NODE_1906_length_11934_cov_10.153299",4653,5244]

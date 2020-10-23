@@ -1,1 +1,0 @@
-[["sp|Q4P7J4.1|FIS1_USTMA","NODE_54_length_53825_cov_9.131476:hit:7468:3.10.0.0"],"protein2genome","sp|Q4P7J4.1|FIS1_USTMA","NODE_54_length_53825_cov_9.131476",41902,42567]

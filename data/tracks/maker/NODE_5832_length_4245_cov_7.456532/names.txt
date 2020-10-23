@@ -1,3 +1,0 @@
-[["TAER_00008400-RA","maker-NODE_5832_length_4245_cov_7.456532-augustus-gene-0.3-mRNA-1","TAER_00008400-RA"],"maker","TAER_00008400-RA","NODE_5832_length_4245_cov_7.456532",132,686]
-[["TAER_00008401-RA","maker-NODE_5832_length_4245_cov_7.456532-augustus-gene-0.4-mRNA-1","TAER_00008401-RA"],"maker","TAER_00008401-RA","NODE_5832_length_4245_cov_7.456532",832,1657]
-[["TAER_00008402-RA","maker-NODE_5832_length_4245_cov_7.456532-augustus-gene-0.5-mRNA-1","TAER_00008402-RA"],"maker","TAER_00008402-RA","NODE_5832_length_4245_cov_7.456532",1690,4244]

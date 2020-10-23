@@ -1,3 +1,0 @@
-[["genemark-NODE_1733_length_12798_cov_8.006550-abinit-gene-0.3-mRNA-1","NODE_1733_length_12798_cov_8.006550:hit:114107:4.5.0.0"],"genemark","genemark-NODE_1733_length_12798_cov_8.006550-abinit-gene-0.3-mRNA-1","NODE_1733_length_12798_cov_8.006550",11,8198]
-[["genemark-NODE_1733_length_12798_cov_8.006550-abinit-gene-0.4-mRNA-1","NODE_1733_length_12798_cov_8.006550:hit:114114:4.5.0.0"],"genemark","genemark-NODE_1733_length_12798_cov_8.006550-abinit-gene-0.4-mRNA-1","NODE_1733_length_12798_cov_8.006550",8351,8995]
-[["genemark-NODE_1733_length_12798_cov_8.006550-abinit-gene-0.5-mRNA-1","NODE_1733_length_12798_cov_8.006550:hit:114115:4.5.0.0"],"genemark","genemark-NODE_1733_length_12798_cov_8.006550-abinit-gene-0.5-mRNA-1","NODE_1733_length_12798_cov_8.006550",9138,12658]

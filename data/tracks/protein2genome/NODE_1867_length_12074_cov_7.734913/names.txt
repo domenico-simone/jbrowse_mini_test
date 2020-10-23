@@ -1,1 +1,0 @@
-[["sp|Q711G1.1|G6PI_AGABI","NODE_1867_length_12074_cov_7.734913:hit:119408:3.10.0.0"],"protein2genome","sp|Q711G1.1|G6PI_AGABI","NODE_1867_length_12074_cov_7.734913",3541,5808]

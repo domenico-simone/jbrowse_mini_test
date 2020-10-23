@@ -1,2 +1,0 @@
-[["TAER_00008149-RA","maker-NODE_5141_length_4940_cov_8.170164-augustus-gene-0.0-mRNA-1","TAER_00008149-RA"],"maker","TAER_00008149-RA","NODE_5141_length_4940_cov_8.170164",197,1950]
-[["TAER_00008150-RA","maker-NODE_5141_length_4940_cov_8.170164-augustus-gene-0.2-mRNA-1","TAER_00008150-RA"],"maker","TAER_00008150-RA","NODE_5141_length_4940_cov_8.170164",2793,4613]

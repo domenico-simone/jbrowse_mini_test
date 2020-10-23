@@ -1,1 +1,0 @@
-[["sp|P0CT30.1|SGT2_USTMA","NODE_2364_length_10048_cov_7.386151:hit:10487:3.10.0.0"],"protein2genome","sp|P0CT30.1|SGT2_USTMA","NODE_2364_length_10048_cov_7.386151",2103,3185]

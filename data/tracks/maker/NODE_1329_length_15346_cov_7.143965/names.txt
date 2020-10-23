@@ -1,2 +1,0 @@
-[["TAER_00004840-RA","snap-NODE_1329_length_15346_cov_7.143965-processed-gene-0.8-mRNA-1","TAER_00004840-RA"],"maker","TAER_00004840-RA","NODE_1329_length_15346_cov_7.143965",4680,7332]
-[["TAER_00004841-RA","genemark-NODE_1329_length_15346_cov_7.143965-processed-gene-0.14-mRNA-1","TAER_00004841-RA"],"maker","TAER_00004841-RA","NODE_1329_length_15346_cov_7.143965",8754,10455]

@@ -1,2 +1,0 @@
-[["genemark-NODE_9574_length_2023_cov_0.583861-abinit-gene-0.2-mRNA-1","NODE_9574_length_2023_cov_0.583861:hit:7166:4.5.0.0"],"genemark","genemark-NODE_9574_length_2023_cov_0.583861-abinit-gene-0.2-mRNA-1","NODE_9574_length_2023_cov_0.583861",27,279]
-[["genemark-NODE_9574_length_2023_cov_0.583861-abinit-gene-0.3-mRNA-1","NODE_9574_length_2023_cov_0.583861:hit:7169:4.5.0.0"],"genemark","genemark-NODE_9574_length_2023_cov_0.583861-abinit-gene-0.3-mRNA-1","NODE_9574_length_2023_cov_0.583861",770,1995]

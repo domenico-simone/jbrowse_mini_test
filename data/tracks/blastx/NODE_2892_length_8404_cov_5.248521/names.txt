@@ -1,1 +1,0 @@
-[["sp|Q4P101.1|SSN8_USTMA","NODE_2892_length_8404_cov_5.248521:hit:22551:3.10.0.0"],"blastx","sp|Q4P101.1|SSN8_USTMA","NODE_2892_length_8404_cov_5.248521",920,2218]

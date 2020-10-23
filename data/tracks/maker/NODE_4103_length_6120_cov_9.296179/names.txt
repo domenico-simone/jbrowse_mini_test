@@ -1,2 +1,0 @@
-[["TAER_00007728-RA","genemark-NODE_4103_length_6120_cov_9.296179-processed-gene-0.20-mRNA-1","TAER_00007728-RA"],"maker","TAER_00007728-RA","NODE_4103_length_6120_cov_9.296179",469,3198]
-[["TAER_00007729-RA","maker-NODE_4103_length_6120_cov_9.296179-augustus-gene-0.29-mRNA-1","TAER_00007729-RA"],"maker","TAER_00007729-RA","NODE_4103_length_6120_cov_9.296179",4321,5424]

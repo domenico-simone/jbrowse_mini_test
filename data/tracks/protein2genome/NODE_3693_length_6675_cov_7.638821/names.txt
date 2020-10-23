@@ -1,1 +1,0 @@
-[["sp|Q12574.2|TPIS_COPC7","NODE_3693_length_6675_cov_7.638821:hit:36894:3.10.0.0"],"protein2genome","sp|Q12574.2|TPIS_COPC7","NODE_3693_length_6675_cov_7.638821",5104,6302]

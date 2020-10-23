@@ -1,2 +1,0 @@
-[["genemark-NODE_9641_length_2005_cov_0.666667-abinit-gene-0.1-mRNA-1","NODE_9641_length_2005_cov_0.666667:hit:7380:4.5.0.0"],"genemark","genemark-NODE_9641_length_2005_cov_0.666667-abinit-gene-0.1-mRNA-1","NODE_9641_length_2005_cov_0.666667",22,1273]
-[["genemark-NODE_9641_length_2005_cov_0.666667-abinit-gene-0.2-mRNA-1","NODE_9641_length_2005_cov_0.666667:hit:7383:4.5.0.0"],"genemark","genemark-NODE_9641_length_2005_cov_0.666667-abinit-gene-0.2-mRNA-1","NODE_9641_length_2005_cov_0.666667",1786,1981]

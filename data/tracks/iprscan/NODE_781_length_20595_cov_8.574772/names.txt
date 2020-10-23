@@ -1,0 +1,5 @@
+[["IPR002496 Phosphoribosyl-AMP cyclohydrolase domain","match:15821"],"iprscan","IPR002496 Phosphoribosyl-AMP cyclohydrolase domain","NODE_781_length_20595_cov_8.574772",5811,6030]
+[["IPR021130 Phosphoribosyl-ATP pyrophosphohydrolase-like","match:15823"],"iprscan","IPR021130 Phosphoribosyl-ATP pyrophosphohydrolase-like","NODE_781_length_20595_cov_8.574772",6072,6294]
+[["IPR012131 Histidinol dehydrogenase","match:15825"],"iprscan","IPR012131 Histidinol dehydrogenase","NODE_781_length_20595_cov_8.574772",6549,7874]
+[["IPR001623 DnaJ domain","match:14319"],"iprscan","IPR001623 DnaJ domain","NODE_781_length_20595_cov_8.574772",11415,11768]
+[["IPR019734 Tetratricopeptide repeat","match:14316"],"iprscan","IPR019734 Tetratricopeptide repeat","NODE_781_length_20595_cov_8.574772",12820,13131]

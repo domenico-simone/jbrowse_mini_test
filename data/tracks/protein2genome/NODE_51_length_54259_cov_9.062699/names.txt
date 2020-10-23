@@ -1,1 +1,0 @@
-[["sp|P87033.1|GPA2_USTMA","NODE_51_length_54259_cov_9.062699:hit:7105:3.10.0.0"],"protein2genome","sp|P87033.1|GPA2_USTMA","NODE_51_length_54259_cov_9.062699",36314,37292]

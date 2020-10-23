@@ -1,3 +1,0 @@
-[["genemark-NODE_3457_length_7076_cov_1.474601-abinit-gene-0.1-mRNA-1","NODE_3457_length_7076_cov_1.474601:hit:33267:4.5.0.0"],"genemark","genemark-NODE_3457_length_7076_cov_1.474601-abinit-gene-0.1-mRNA-1","NODE_3457_length_7076_cov_1.474601",16,791]
-[["genemark-NODE_3457_length_7076_cov_1.474601-abinit-gene-0.2-mRNA-1","NODE_3457_length_7076_cov_1.474601:hit:33269:4.5.0.0"],"genemark","genemark-NODE_3457_length_7076_cov_1.474601-abinit-gene-0.2-mRNA-1","NODE_3457_length_7076_cov_1.474601",2423,2739]
-[["genemark-NODE_3457_length_7076_cov_1.474601-abinit-gene-0.3-mRNA-1","NODE_3457_length_7076_cov_1.474601:hit:33270:4.5.0.0"],"genemark","genemark-NODE_3457_length_7076_cov_1.474601-abinit-gene-0.3-mRNA-1","NODE_3457_length_7076_cov_1.474601",3798,7067]

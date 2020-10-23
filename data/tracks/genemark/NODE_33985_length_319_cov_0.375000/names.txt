@@ -1,1 +1,0 @@
-[["genemark-NODE_33985_length_319_cov_0.375000-abinit-gene-0.0-mRNA-1","NODE_33985_length_319_cov_0.375000:hit:0:4.5.0.0"],"genemark","genemark-NODE_33985_length_319_cov_0.375000-abinit-gene-0.0-mRNA-1","NODE_33985_length_319_cov_0.375000",25,297]

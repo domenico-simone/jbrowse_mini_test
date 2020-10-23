@@ -1,2 +1,0 @@
-[["TAER_00008685","maker-NODE_6665_length_3464_cov_7.567576-snap-gene-0.5","TAER_00008685"],"gene","TAER_00008685","NODE_6665_length_3464_cov_7.567576",517,1142]
-[["TAER_00008686","maker-NODE_6665_length_3464_cov_7.567576-snap-gene-0.2","TAER_00008686"],"gene","TAER_00008686","NODE_6665_length_3464_cov_7.567576",1985,2979]

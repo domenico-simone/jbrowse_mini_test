@@ -1,4 +1,0 @@
-[["sp|P0CQ24.1|CSN5_CRYNJ","NODE_41_length_57191_cov_7.623955:hit:5734:3.10.0.0"],"protein2genome","sp|P0CQ24.1|CSN5_CRYNJ","NODE_41_length_57191_cov_7.623955",7225,8528]
-[["sp|P0CQ25.1|CSN5_CRYNB","NODE_41_length_57191_cov_7.623955:hit:5735:3.10.0.0"],"protein2genome","sp|P0CQ25.1|CSN5_CRYNB","NODE_41_length_57191_cov_7.623955",7225,8528]
-[["sp|Q4P804.1|CSN5_USTMA","NODE_41_length_57191_cov_7.623955:hit:5736:3.10.0.0"],"protein2genome","sp|Q4P804.1|CSN5_USTMA","NODE_41_length_57191_cov_7.623955",7414,8534]
-[["sp|B0D6H2.1|ARO1_LACBS","NODE_41_length_57191_cov_7.623955:hit:5737:3.10.0.0"],"protein2genome","sp|B0D6H2.1|ARO1_LACBS","NODE_41_length_57191_cov_7.623955",15623,18371]

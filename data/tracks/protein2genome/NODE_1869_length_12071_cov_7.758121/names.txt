@@ -1,1 +1,0 @@
-[["sp|Q4P7G1.1|EIF3G_USTMA","NODE_1869_length_12071_cov_7.758121:hit:119490:3.10.0.0"],"protein2genome","sp|Q4P7G1.1|EIF3G_USTMA","NODE_1869_length_12071_cov_7.758121",28,1053]

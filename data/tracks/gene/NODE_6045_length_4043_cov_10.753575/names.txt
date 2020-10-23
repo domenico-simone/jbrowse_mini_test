@@ -1,2 +1,0 @@
-[["TAER_00008481","maker-NODE_6045_length_4043_cov_10.753575-snap-gene-0.14","TAER_00008481"],"gene","TAER_00008481","NODE_6045_length_4043_cov_10.753575",738,3323]
-[["TAER_00008482","snap-NODE_6045_length_4043_cov_10.753575-processed-gene-0.1","TAER_00008482"],"gene","TAER_00008482","NODE_6045_length_4043_cov_10.753575",3328,4043]

@@ -1,1 +1,0 @@
-[["sp|P49604.2|GABAT_USTMA","NODE_94_length_47151_cov_8.447665:hit:12597:3.10.0.0"],"protein2genome","sp|P49604.2|GABAT_USTMA","NODE_94_length_47151_cov_8.447665",1752,3574]

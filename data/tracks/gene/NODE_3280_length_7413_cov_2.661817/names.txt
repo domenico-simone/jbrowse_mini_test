@@ -1,3 +1,0 @@
-[["TAER_00007287","genemark-NODE_3280_length_7413_cov_2.661817-processed-gene-0.4","TAER_00007287"],"gene","TAER_00007287","NODE_3280_length_7413_cov_2.661817",1514,2319]
-[["TAER_00007288","maker-NODE_3280_length_7413_cov_2.661817-augustus-gene-0.13","TAER_00007288"],"gene","TAER_00007288","NODE_3280_length_7413_cov_2.661817",2745,4890]
-[["TAER_00007289","maker-NODE_3280_length_7413_cov_2.661817-augustus-gene-0.16","TAER_00007289"],"gene","TAER_00007289","NODE_3280_length_7413_cov_2.661817",5571,7381]

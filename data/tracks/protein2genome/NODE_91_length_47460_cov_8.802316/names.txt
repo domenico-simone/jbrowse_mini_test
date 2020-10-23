@@ -1,1 +1,0 @@
-[["sp|O74631.1|FD123_TRAVE","NODE_91_length_47460_cov_8.802316:hit:12155:3.10.0.0"],"protein2genome","sp|O74631.1|FD123_TRAVE","NODE_91_length_47460_cov_8.802316",17129,18335]
