@@ -17,18 +17,33 @@
       },
       {
          "compress" : 0,
-         "key" : "iprscan",
-         "label" : "iprscan",
+         "key" : "est2genome",
+         "label" : "est2genome",
          "storeClass" : "JBrowse/Store/SeqFeature/NCList",
          "style" : {
-            "className" : "transcript",
+            "className" : "generic_parent",
             "subfeatureClasses" : {
-               "match_part" : "iprscan_part"
+               "match_part" : "est2genome_part"
             }
          },
          "trackType" : null,
          "type" : "FeatureTrack",
-         "urlTemplate" : "tracks/iprscan/{refseq}/trackData.json"
+         "urlTemplate" : "tracks/est2genome/{refseq}/trackData.json"
+      },
+      {
+         "compress" : 0,
+         "key" : "Augustus",
+         "label" : "augustus",
+         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
+         "style" : {
+            "className" : "transcript",
+            "subfeatureClasses" : {
+               "match_part" : "augustus-exon"
+            }
+         },
+         "trackType" : null,
+         "type" : "FeatureTrack",
+         "urlTemplate" : "tracks/augustus/{refseq}/trackData.json"
       },
       {
          "compress" : 0,
@@ -47,21 +62,6 @@
       },
       {
          "compress" : 0,
-         "key" : "est2genome",
-         "label" : "est2genome",
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "generic_parent",
-            "subfeatureClasses" : {
-               "match_part" : "est2genome_part"
-            }
-         },
-         "trackType" : null,
-         "type" : "FeatureTrack",
-         "urlTemplate" : "tracks/est2genome/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
          "key" : "Transcripts",
          "label" : "maker",
          "storeClass" : "JBrowse/Store/SeqFeature/NCList",
@@ -77,21 +77,6 @@
          "trackType" : null,
          "type" : "FeatureTrack",
          "urlTemplate" : "tracks/maker/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
-         "key" : "Augustus",
-         "label" : "augustus",
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "transcript",
-            "subfeatureClasses" : {
-               "match_part" : "augustus-exon"
-            }
-         },
-         "trackType" : null,
-         "type" : "FeatureTrack",
-         "urlTemplate" : "tracks/augustus/{refseq}/trackData.json"
       },
       {
          "compress" : 0,
@@ -119,6 +104,21 @@
          "trackType" : null,
          "type" : "FeatureTrack",
          "urlTemplate" : "tracks/blastn/{refseq}/trackData.json"
+      },
+      {
+         "compress" : 0,
+         "key" : "iprscan",
+         "label" : "iprscan",
+         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
+         "style" : {
+            "className" : "transcript",
+            "subfeatureClasses" : {
+               "match_part" : "iprscan_part"
+            }
+         },
+         "trackType" : null,
+         "type" : "FeatureTrack",
+         "urlTemplate" : "tracks/iprscan/{refseq}/trackData.json"
       }
    ]
 }
