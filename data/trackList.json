@@ -29,21 +29,6 @@
       },
       {
          "compress" : 0,
-         "key" : "Augustus",
-         "label" : "augustus",
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "transcript",
-            "subfeatureClasses" : {
-               "match_part" : "augustus-exon"
-            }
-         },
-         "trackType" : null,
-         "type" : "FeatureTrack",
-         "urlTemplate" : "tracks/augustus/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
          "key" : "iprscan",
          "label" : "iprscan",
          "storeClass" : "JBrowse/Store/SeqFeature/NCList",
@@ -56,21 +41,6 @@
          "trackType" : null,
          "type" : "FeatureTrack",
          "urlTemplate" : "tracks/iprscan/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
-         "key" : "GeneMark",
-         "label" : "genemark",
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "transcript",
-            "subfeatureClasses" : {
-               "match_part" : "genemark-exon"
-            }
-         },
-         "trackType" : null,
-         "type" : "FeatureTrack",
-         "urlTemplate" : "tracks/genemark/{refseq}/trackData.json"
       },
       {
          "compress" : 0,
@@ -89,6 +59,21 @@
       },
       {
          "compress" : 0,
+         "key" : "Augustus",
+         "label" : "augustus",
+         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
+         "style" : {
+            "className" : "transcript",
+            "subfeatureClasses" : {
+               "match_part" : "augustus-exon"
+            }
+         },
+         "trackType" : null,
+         "type" : "FeatureTrack",
+         "urlTemplate" : "tracks/augustus/{refseq}/trackData.json"
+      },
+      {
+         "compress" : 0,
          "key" : "Transcripts",
          "label" : "maker",
          "storeClass" : "JBrowse/Store/SeqFeature/NCList",
@@ -104,6 +89,21 @@
          "trackType" : null,
          "type" : "FeatureTrack",
          "urlTemplate" : "tracks/maker/{refseq}/trackData.json"
+      },
+      {
+         "compress" : 0,
+         "key" : "GeneMark",
+         "label" : "genemark",
+         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
+         "style" : {
+            "className" : "transcript",
+            "subfeatureClasses" : {
+               "match_part" : "genemark-exon"
+            }
+         },
+         "trackType" : null,
+         "type" : "FeatureTrack",
+         "urlTemplate" : "tracks/genemark/{refseq}/trackData.json"
       },
       {
          "compress" : 0,

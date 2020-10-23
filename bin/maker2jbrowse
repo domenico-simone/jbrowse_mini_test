@@ -131,13 +131,12 @@ my %commands = (
     #MAKER anotations
     gene            => [ '--key' => "Gene spans",
                          '--className' =>  'feature',
-                         '--type' => 'gene:maker',
-                         '--noSubfeatures' => 1
+                         '--type' => 'gene',
                        ],
     maker           => [ '--key' => "Transcripts",
                          '--className' => 'transcript',
                          '--subfeatureClasses' => '{"exon": "exon", "CDS": "CDS", "five_prime_UTR": "five_prime_UTR", "three_prime_UTR": "three_prime_UTR"}',
-                         '--type'  => 'mRNA:maker',
+                         '--type'  => 'mRNA',
                          '--nameAttributes' => 'name,alias,id,note,dbxref,ontology_term'
                        ],
 
