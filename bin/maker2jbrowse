@@ -130,7 +130,7 @@ my %commands = (
 
     #MAKER anotations
     gene            => [ '--key' => "Gene spans",
-                         '--className' =>  'transcript',
+                         '--className' =>  'feature',
                          '--type' => 'gene:maker',
                        ],
     maker           => [ '--key' => "Transcripts",
