@@ -1,2 +1,2 @@
-[["TAER_00003505-RA","maker-NODE_781_length_20595_cov_8.574772-snap-gene-0.4-mRNA-1","TAER_00003505-RA"],"maker","TAER_00003505-RA","NODE_781_length_20595_cov_8.574772",5017,8693]
-[["TAER_00003506-RA","maker-NODE_781_length_20595_cov_8.574772-snap-gene-0.6-mRNA-1","TAER_00003506-RA"],"maker","TAER_00003506-RA","NODE_781_length_20595_cov_8.574772",10476,13629]
+[["TAER_00003505-RA","maker-NODE_781_length_20595_cov_8.574772-snap-gene-0.4-mRNA-1","TAER_00003505-RA","Similar to his-3: Histidine biosynthesis trifunctional protein (Neurospora crassa (strain ATCC 24698 / 74-OR23-1A / CBS 708.71 / DSM 1257 / FGSC 987) OX=367110)"],"maker","TAER_00003505-RA","NODE_781_length_20595_cov_8.574772",5017,8693]
+[["TAER_00003506-RA","maker-NODE_781_length_20595_cov_8.574772-snap-gene-0.6-mRNA-1","TAER_00003506-RA","Similar to DNAJC3: DnaJ homolog subfamily C member 3 (Homo sapiens OX=9606)"],"maker","TAER_00003506-RA","NODE_781_length_20595_cov_8.574772",10476,13629]
