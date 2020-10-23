@@ -137,7 +137,7 @@ my %commands = (
                          '--className' => 'transcript',
                          '--subfeatureClasses' => '{"exon": "exon", "CDS": "CDS", "five_prime_UTR": "five_prime_UTR", "three_prime_UTR": "three_prime_UTR"}',
                          '--type'  => 'mRNA',
-                         '--nameAttributes' => 'name,alias,id,note,dbxref'
+                         '--nameAttributes' => 'name,alias,id,note,dbxref,ontology_term'
                        ],
 
     #ab initio gene predictions
