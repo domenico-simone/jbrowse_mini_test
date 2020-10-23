@@ -132,13 +132,12 @@ my %commands = (
     gene            => [ '--key' => "Gene spans",
                          '--className' =>  'transcript',
                          '--type' => 'gene:maker',
-                         '--noSubfeatures',
                        ],
     maker           => [ '--key' => "Transcripts",
                          '--className' => 'transcript',
                          '--subfeatureClasses' => '{"exon": "exon", "CDS": "CDS", "five_prime_UTR": "five_prime_UTR", "three_prime_UTR": "three_prime_UTR"}',
                          '--type'  => 'mRNA',
-                         '--nameAttributes' => 'name,alias,id,note'
+                         '--nameAttributes' => 'name,alias,id,note,dbxref'
                        ],
 
     #ab initio gene predictions
