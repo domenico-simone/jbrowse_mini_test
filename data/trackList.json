@@ -17,18 +17,18 @@
       },
       {
          "compress" : 0,
-         "key" : "GeneMark",
-         "label" : "genemark",
+         "key" : "iprscan",
+         "label" : "iprscan",
          "storeClass" : "JBrowse/Store/SeqFeature/NCList",
          "style" : {
             "className" : "transcript",
             "subfeatureClasses" : {
-               "match_part" : "genemark-exon"
+               "match_part" : "iprscan_part"
             }
          },
          "trackType" : null,
          "type" : "FeatureTrack",
-         "urlTemplate" : "tracks/genemark/{refseq}/trackData.json"
+         "urlTemplate" : "tracks/iprscan/{refseq}/trackData.json"
       },
       {
          "compress" : 0,
@@ -77,18 +77,30 @@
       },
       {
          "compress" : 0,
-         "key" : "iprscan",
-         "label" : "iprscan",
+         "key" : "GeneMark",
+         "label" : "genemark",
          "storeClass" : "JBrowse/Store/SeqFeature/NCList",
          "style" : {
             "className" : "transcript",
             "subfeatureClasses" : {
-               "match_part" : "iprscan_part"
+               "match_part" : "genemark-exon"
             }
          },
          "trackType" : null,
          "type" : "FeatureTrack",
-         "urlTemplate" : "tracks/iprscan/{refseq}/trackData.json"
+         "urlTemplate" : "tracks/genemark/{refseq}/trackData.json"
+      },
+      {
+         "compress" : 0,
+         "key" : "Gene spans",
+         "label" : "gene",
+         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
+         "style" : {
+            "className" : "transcript"
+         },
+         "trackType" : null,
+         "type" : "FeatureTrack",
+         "urlTemplate" : "tracks/gene/{refseq}/trackData.json"
       },
       {
          "compress" : 0,
@@ -107,18 +119,6 @@
          "trackType" : null,
          "type" : "FeatureTrack",
          "urlTemplate" : "tracks/maker/{refseq}/trackData.json"
-      },
-      {
-         "compress" : 0,
-         "key" : "Gene spans",
-         "label" : "gene",
-         "storeClass" : "JBrowse/Store/SeqFeature/NCList",
-         "style" : {
-            "className" : "transcript"
-         },
-         "trackType" : null,
-         "type" : "FeatureTrack",
-         "urlTemplate" : "tracks/gene/{refseq}/trackData.json"
       }
    ]
 }
