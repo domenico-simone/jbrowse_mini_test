@@ -130,14 +130,15 @@ my %commands = (
 
     #MAKER anotations
     gene            => [ '--key' => "Gene spans",
-                         '--className' =>  'feature',
+                         '--className' =>  'transcript',
                          '--type' => 'gene:maker',
-                         '--noSubfeatures'
+                         '--noSubfeatures',
                        ],
     maker           => [ '--key' => "Transcripts",
                          '--className' => 'transcript',
                          '--subfeatureClasses' => '{"exon": "exon", "CDS": "CDS", "five_prime_UTR": "five_prime_UTR", "three_prime_UTR": "three_prime_UTR"}',
-                         '--type'  => 'mRNA'
+                         '--type'  => 'mRNA',
+                         '--nameAttributes' => 'name,alias,id,note'
                        ],
 
     #ab initio gene predictions
@@ -185,13 +186,6 @@ my %commands = (
                          '--className' => 'transcript',
                          '--subfeatureClasses' => '{"match_part": "match_part"}',
                          '--type' => 'match:model_gff',
-                       ],
-
-    #functional annotation
-    iprscan         => [ '--key' =>  "iprscan",
-                         '--className' => 'generic_parent',
-                         '--subfeatureClasses' => '{"match_part": "iprscan_part"}',
-                         '--type' => 'match:iprscan',
                        ],
     #evidence alignments
     blastn          => [ '--key' =>  "BLASTN",
@@ -256,6 +250,12 @@ my %commands = (
                          '--subfeatureClasses' => '{"match_part": "repeat_part"}',
                          '--type' => 'protein_match:repeat_gff',
                        ],
+   #functional annotation
+   iprscan         => [ '--key' =>  "iprscan",
+                        '--className' => 'transcript',
+                        '--subfeatureClasses' => '{"match_part": "iprscan_part"}',
+                        '--type' => 'match:iprscan',
+                      ],
 );
 
 
