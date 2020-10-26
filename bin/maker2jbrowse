@@ -141,7 +141,7 @@ my %commands = (
                        ],
 
     #ab initio gene predictions
-    snap_masked     => [ '--key' => "SNAP",
+    snap             => [ '--key' => "SNAP",
                          '--className' => 'transcript',
                          '--subfeatureClasses' => '{"match_part": "snap-exon"}',
                          '--type' => 'match:snap',
